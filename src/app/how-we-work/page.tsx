@@ -11,6 +11,8 @@ export const metadata: Metadata = {
   description: "Talk, map, sign, build, measure. The bar is agreed in writing before anything is built. If the system misses it we keep working at no additional cost. Cancel any time. You own the code.",
 };
 
+import { ProcessRail } from "@/components/work/ProcessRail";
+
 const CALL = [
   ["The workflow, out loud", "You describe the process that hurts most, step by step. Who touches it, how often, how long each pass takes and where it stalls waiting on one person."],
   ["The arithmetic, in front of you", "Hours a week against a loaded hourly rate, worked out on the call rather than modelled later. If the number turns out to be small, we say the number is small."],
@@ -65,14 +67,8 @@ export default function HowWeWork() {
             <h2 id="call-h2" className="display display-lg text-paper mt-4" data-reveal>No demo. No slide deck. No requirements questionnaire.</h2>
             <p className="lede mt-6" data-reveal>One workflow, then the numbers behind it. Bring the process that hurts most, roughly what it costs today, and whoever else has to say yes.</p>
           </Reveal>
-          <Reveal as="ol" className="grid gap-4 sm:grid-cols-2 snap-row snap-bleed" stagger={0.08}>
-            {CALL.map(([h, t], i) => (
-              <li key={h} className="glass p-5" data-reveal>
-                <p className="mono text-signal-2">0{i + 1}</p>
-                <p className="text-paper font-medium mt-2">{h}</p>
-                <p className="text-sm text-silver mt-2">{t}</p>
-              </li>
-            ))}
+          <Reveal>
+            <ProcessRail steps={CALL as [string, string][]} />
           </Reveal>
         </div>
       </section>
