@@ -1,0 +1,278 @@
+POS and payments | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+ POS and payments 
+Fennec module 03 
+The till stays where it is. 
+Nobody wants to rip out the till two weeks before a long weekend. Fennec syncs both ways with the POS already on the counter, and gives each bar its own controls on top. Two modules, three connectors, and one decision per field about which system owns the truth. 
+ Book a free audit 
+ Read the Fennec case study 
+ Live 
+ Family 
+ 03, POS and payments 
+ Modules 
+ 2 
+ Connectors 
+ Square, Toast, Lightspeed 
+ Direction 
+ Two-way 
+ New hardware 
+ None on the counter 
+The modules 
+Two modules, quoted word for word 
+The lines in quotation marks below are Fennec product copy from fennecapp.com. Everything outside the quotation marks is our description of what the module does in a room. 
+ 01 
+POS Integration 
+"Two-way sync with the POS you already use." Square, Toast and Lightspeed. The item catalogue is edited once, pushed to the terminals, and every closed tab comes back attached to a table, an event and a bar. 
+ 02 
+Bar Management 
+"Manage pours, staffing and POS terminals across every bar." Each bar gets its own terminals, its own staffing and its own running count, so a variance points at a room rather than at the building. 
+"Floor plans, reservations, packages and live ops - synced with Square." 
+ Fennec product copy, fennecapp.com 
+That product line names Square because Square is the one it calls out. The module names three: Square, Toast and Lightspeed. We say both, in that order, because a venue deciding whether to keep its till deserves to know which claim is which. 
+ Connectors 
+ Square, Toast, Lightspeed 
+ Direction 
+ Two-way 
+ What we built 
+ One item catalogue, pushed out and reconciled back 
+ Per bar 
+ Own terminals, own staffing, own pour counts 
+ Sales attach to 
+ Table, event and bar 
+ Status 
+ Live 
+How the sync runs 
+Menus and prices go out. Orders and payments come back. 
+There is no screenshot of this surface, so the drawing below is a diagram we built for this page rather than a capture of the app. It shows the direction of travel, what moves each way, and the last-sync state an operator looks for before doors open. 
+ FIG. 01 
+ Interface diagram, two-way POS sync 
+ POS sync
+ Fennec 
+ Menus, prices, packages, table fees
+ -> 
+ Your POS 
+ Items and prices land on every terminal
+ Out, field 
+ Item name and modifiers
+ Out, field 
+ Price and tax code
+ Out, field 
+ Package and bottle service
+ Out, field 
+ Table fee and minimum
+ Your POS 
+ Tabs closed at the bar
+ -> 
+ Fennec 
+ Sales post against the table, the event and the bar
+ In, field 
+ Order lines and quantities
+ In, field 
+ Payments, tips and card type
+ In, field 
+ Voids, comps and refunds
+ In, field 
+ Terminal, bartender and timestamp
+ Connector 
+ Square
+ Connector 
+ Toast
+ Connector 
+ Lightspeed
+ Last sync 
+ 2 minutes ago, 0 items queued
+INTERFACE DIAGRAM, not a screenshot. It shows the sync direction Fennec describes as "two-way sync with the POS you already use". The field lists and the last-sync state are example values drawn for this page, not a reading from any venue. 
+Two-way is the part that matters. A one-way push leaves the bar re-typing prices and the office guessing at sales. A one-way pull leaves the menu correct on the terminal and wrong everywhere else. Running both directions means the catalogue has a single home and the night has a single record of what was actually sold, at which bar, on which terminal, against which table. 
+Integration, honestly 
+What connecting an existing POS actually involves 
+Connecting is not a switch. Nothing here needs new hardware on the counter, but four things have to be worked through before a credential is exchanged, and they are the reason an integration succeeds or drifts. 
+1. Map the menu that already exists 
+We list every item, modifier, price and tax code sitting on the terminals today, then compare that list against the menu the venue believes it sells. The two never match on the first pass. There are duplicate items from a New Year event, a spelling that only one bartender uses, and a modifier nobody has priced in a year. Cleaning that list is the first real day of work, and it happens whether or not anything gets connected. 
+2. Decide the source of truth per field 
+Not per system, per field. Item names and prices are owned by one side. Tax codes usually stay with the POS because that is where the accountant already looks. Packages, table fees and minimums are owned by Fennec because that is where the floor plan lives. If both sides can edit the same field, that field will eventually disagree with itself, and it will do it on the busiest night of the month. We write the ownership down and both sides sign it. 
+3. Handle items that exist on one side only 
+Some items live only on the POS: a staff drink, a house shot, a legacy button. Some live only in Fennec: a bottle package priced for a table, an event-night minimum. Each one gets a rule rather than a guess. Map it to a counterpart, mirror it across, or mark it deliberately local so the sync never touches it. Unmapped items are listed and shown to the owner, never silently dropped and never silently created. 
+4. Reconcile after one real service 
+The first night runs on both systems and then gets reconciled line by line. Pours are checked against sales, tabs against tables, tips against the payout the staff expect. Whatever the mapping got wrong shows up here, which is exactly why we do it on a real service instead of a test. Overpours and missing inventory get flagged rather than argued about, and that reconciliation becomes the routine the bar keeps. 
+ The same four things as a sequence, with who does each part. 
+ Step 
+ What happens 
+ Who does it 
+ 01 Read the catalogue 
+ Every item, price, modifier and tax code already on the terminals gets listed and compared against the menu the venue thinks it sells. 
+ Us 
+ 02 Set direction per field 
+ Menus, prices and packages push out of Fennec. Closed tabs pull back in. Each field gets exactly one owner, which is the decision that prevents two prices for one bottle. 
+ Us, with the owner 
+ 03 Resolve the leftovers 
+ Items that exist on one side only get mapped, mirrored or marked local. The unmapped list is shown to the owner before anything goes live. 
+ Us, with the bar manager 
+ 04 Map bars and terminals 
+ Each bar is given its own terminals, its own staffing and its own running count of bottles and kegs, so a variance points at a room rather than at the building. 
+ Us, with the bar manager 
+ 05 Reconcile one real night 
+ Run a live event on both systems, then reconcile pours against sales and fix whatever the mapping got wrong. Overpours and missing inventory are flagged rather than argued about. 
+ Both 
+ 06 Hand it over 
+ The team edits the menu once and it lands printed, digital and on the POS. Training is on the venue's own layout and its own item names. 
+ You, with us on call 
+ FIG. 02 
+ Integration questions, expandable 
+ Do you replace the POS we already use? 
+ + 
+No. The module is quoted as "two-way sync with the POS you already use", and it connects to Square, Toast and Lightspeed. The terminals stay where they are and the staff keep the till they know. Fennec sits above it and holds the floor plan, the event, the guest and the stock count. 
+ What has to be decided before anything connects? 
+ + 
+Ownership, field by field. If both systems can edit a price, the price will eventually disagree with itself. We take the item catalogue, name an owner for each field, and write it down before a single credential is exchanged. That meeting is usually an hour and it saves the argument on the busiest night of the month. 
+ What happens to items only one system has? 
+ + 
+They get a rule. Map to a counterpart, mirror across, or mark deliberately local so the sync leaves them alone. The list of anything still unmapped goes to the owner before go-live. Nothing is silently created on the terminals and nothing is silently deleted, because a bartender hunting for a missing button mid-service is worse than a slightly longer setup. 
+ What does a POS integration cost? 
+ + 
+We do not print client fees, so the honest answer is what sets the number rather than the number itself. Your catalogue does: how many items, how many terminals, how many sites, and how much of the menu is already clean. That gets counted in the free audit, against your own catalogue, and it comes back as one fixed fee in writing before anything is agreed. See how we charge . 
+ Who owns the code at the end? 
+ + 
+You do, and it is written into the agreement before anything is built. The same page covers the rest of how we charge: an agreed baseline in writing, a clock that starts at deployment rather than signature, and work that continues at no additional cost if the system misses the bar. See how we charge . 
+Why it is built this way 
+A sale that knows its table is worth more than a sale that does not. 
+A closed tab on its own is a number. The same tab attached to a table, an event and a bar is the row that makes the rest of the system work. It tells the variance report what was actually sold at that bar, it tells the payout engine what a section earned, and it tells the owner which promoter filled the room that paid for itself. 
+That is the whole reason the sync runs both ways rather than pushing a menu and hoping. Keep the till, keep the staff who know it, and give the office one record of the night. Live in Fennec 
+ Book a free audit 
+ Back to the Fennec study 
+ Contact us 
+ Modules 
+ POS Integration, Bar Management 
+ Connectors 
+ Square, Toast, Lightspeed 
+ Direction 
+ Two-way, owner set per field 
+ Feeds 
+ Variance reports and staff payouts 
+ Fennec runs at 
+ Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa 
+ Audit 
+ Free, and you keep the map 
+Keep reading 
+Where to go next 
+Back up 
+Fennec, the case study 
+The flagship engagement this module sits inside: four named venues, 20+ event companies, and the surfaces an owner sees first. 
+ Read the study -> 
+Previous module 
+Ticketing and guests 
+Another part of the same system, in the same detail. 
+ Go back -> 
+Next module 
+Inventory and staff 
+Keep walking the system in order. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

@@ -1,0 +1,183 @@
+Current engagements: ABC and B-Side Group - Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Current engagements 
+Our work / Current engagements 
+The two current engagements outside the two flagship studies. 
+Fennec and Uniserve are the two flagship studies, and Palapa Tours has its own shipped study. These two are the rest of what is on the bench right now: one running live, one under construction. Each sits here at its real status, with nothing dressed up as a result it has not produced. 
+ Book a free audit 
+ All case studies 
+On this page 
+ Live ABC 
+ In build B-Side Group 
+ Flagship studies Fennec, Uniserve and Palapa Tours, on their own pages 
+Why this page exists 
+A build in progress is not a launch, and we will not write it as one. 
+Most consulting portfolios flatten everything into one tense, so a system that went live last year reads the same as one that is still being written. Ours does not. Five engagements sit across this practice: two live, one shipped and two in build, every one of them real work with a client. The two flagship studies have their own pages, and this page holds the other two so the difference between running and being built stays visible. 
+ABC is live, and what we describe is the work we do rather than any outcome at the ballot box. B-Side Group is under construction: real work, no launch metric yet. Where there is no number, we say so instead of borrowing one. 
+ Live 
+ Running now. We describe the work we are accountable for, not results we cannot measure. 
+ In build 
+ Under construction. Some phases are delivered, some are not. We say which. 
+ No screenshots here 
+ Neither of these two has a product surface of ours worth capturing yet, so there is nothing to show. Every shot on this site is a real capture of a live product. 
+Engagement 01 
+ABC Live 
+ABC is a municipal political party in Vancouver. We parse and reconcile the records they already hold, matching them across sources and scoring each one for confidence, so it is clear what can be relied on. Their targeted marketing campaigns are then planned against that reconciled set rather than several disagreeing lists. 
+The parsing and the reconciliation are the bulk of the work. An organisation that has grown in stages ends up holding its information in whatever tool each part of the operation happened to adopt, so the same person can exist three times in three formats, with a different spelling and a stale address on each. We read every source into a common shape, match the records across them, resolve the duplicates and the near-duplicates, and attach a confidence score to each match so a weak join stays visible instead of being quietly trusted. It is unglamorous work and it is most of the value: outreach built on unreconciled records spends its budget arguing with the data instead of reaching people. 
+It is live. We claim no electoral or polling outcome here, we take no position on the party or its policies, and nothing on this page should be read as the party endorsing us. What we are accountable for is the parsing and reconciliation work and the campaign marketing support, and that is the whole of what we describe. 
+ Client ABC 
+ Sector Municipal political party, Vancouver 
+ Status Live 
+ Our scope Data parsing and reconciliation with confidence scoring, plus assistance with targeted marketing campaigns to help grow the campaign 
+ Method Every source read into a common shape, records matched across them, duplicates and near-duplicates resolved, each match confidence scored 
+ Named With the client's consent 
+ Results No electoral or polling outcome claimed 
+Engagement 02 
+B-Side Group In build 
+B-Side Group is a hospitality group. We are building them customised inventory management software across three of their restaurant venues. 
+Inventory is where a multi-venue group loses money quietly. Each room counts its own stock its own way, the same product carries three names across three sites, and the gap between what was bought and what was sold only surfaces at the end of the month, by which time it is history rather than a decision. Software of this kind is our answer to that: stock counts done per site, one catalogue shared across the venues, purchased against sold set side by side as variance, and reorder points that fire off real consumption rather than a hunch. 
+It is in build, so read that paragraph as the shape of the build and not as a delivered result. No count is running in our software yet, no variance figure exists, and there is no launch metric or screenshot to show. When there is one, it will appear with its arithmetic next to it, the same as everything else on this site. 
+ Client B-Side Group 
+ Sector Hospitality group 
+ Status In build 
+ Our scope Customised inventory management software across three of their restaurant venues 
+ Being built Stock counts per site, one catalogue across venues, purchased against sold variance, reorder points 
+ Stack Custom build 
+ Results None to report yet 
+One live engagement and one build under construction. Listed at their real status. 
+ ABC Vancouver 
+What happens next 
+If you want the honest version of your own numbers, start with the audit. 
+We map where time and money leak in your business and show the arithmetic before you commit to anything. You keep the map whether or not you hire us. If we do build, we agree the baseline in writing first, the clock starts at deployment rather than signature, and you own the code. 
+The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then Our work . 
+Keep reading 
+Where to go next 
+Related case study 
+Uniserve Communications 
+Another engagement in build: a three month AI enablement programme, and a projection with its arithmetic printed. 
+ Read the study -> 
+Related page 
+How we charge 
+The agreed baseline in writing, a clock that starts at deployment, cancel any time, and you own the code. 
+ Read the terms -> 
+Next 
+All case studies 
+Five engagements: two live, one shipped and two in build, each with its status, its constraint and its arithmetic. 
+ Back to the index -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

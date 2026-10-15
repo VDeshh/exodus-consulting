@@ -1,0 +1,255 @@
+Media and intelligence | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+ Media and intelligence 
+Families 06 and 07 
+The layer that fills the room, and the layer that reads it. 
+The guest list already lives in the system, so the campaign should not start in a separate tool with a stale export. Family 06 sends. Family 07 reads what the other six families write, through Ferry AI and the Revenue Copilot. These two belong on one page because neither is much use alone. 
+ Book a free audit 
+ Back to the Fennec study 
+ Live 
+ Product 
+ Fennec, fennecapp.com 
+ Families 
+ 06 Media and marketing, 07 Intelligence and automation 
+ Channels 
+ Email, SMS, WhatsApp, push, Instagram, TikTok, X 
+ Agent network 
+ Ferry AI 
+ Running at 
+ Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa, 20+ event companies 
+Family 06 
+Media and marketing 
+Three modules, plus the two production surfaces the promoters actually sit in. The numbered module lines quote fennecapp.com word for word, in quotation marks. Where a surface ships without a marketing line, we describe what it does and say plainly that the words are ours. 
+ 01 
+Social 
+"Schedule and auto-generate posts across Instagram, TikTok and X." 
+ 02 
+Event Poster 
+"Generate on-brand event flyers and stories from a single prompt." 
+ 03 
+Drink Campaigns 
+"Time-boxed drink promos - happy hour, sponsor drops, bottle features." 
+ 04 
+Campaign composer 
+Our description, not a product line. Email and SMS channel readiness, audience, message, tracked call-to-action options, personalisation tokens and a live inbox preview. 
+ 05 
+Email designer 
+Our description, not a product line. Drag-and-drop layout with per-template colour tokens, so a promoter can build a send without a designer on call. 
+ Channels 
+ Email, SMS, Instagram, TikTok, X 
+ Tokens 
+ First name, last name, VIP tier, visit count, lifetime spend, last visit, birthday month 
+ Preview 
+ Gmail, Outlook, Apple Mail 
+ Audience from 
+ Guest CRM, not an export 
+ Status 
+ Live 
+ FIG. 01 
+ Screenshot, campaign composer 
+ Channel readiness is shown before the send, not after it bounces. The audience comes from the guest profiles the venue already owns, the tokens fill from the same records, and the phone on the right previews what lands in Gmail, Outlook or Apple Mail. 
+ FIG. 02 
+ Screenshot, email designer 
+ Drag-and-drop email designer. Colour and layout are template tokens rather than hand-edited markup, which is what lets a promoter ship a send on a Thursday afternoon and still look like the venue. 
+The record underneath 
+One conversation per guest, and seven fields that fill themselves. 
+A venue usually answers the same guest in three places: an email thread, a text on somebody's phone, and a push notification nobody can find again. The unified inbox threads email, SMS and push into one conversation per guest, so the next person to pick it up can see what was already promised. Our description, not a product line. 
+The same records drive personalisation. The composer offers seven tokens, and every one of them reads a field the venue already holds on the guest profile rather than a column pasted into a spreadsheet. 
+ Where the guest record comes from 
+ First name 
+ The given name on the guest profile. 
+ Last name 
+ The family name on the same profile. 
+ VIP tier 
+ The tier the venue has assigned to that guest. 
+ Visit count 
+ How many times they have been through the door. 
+ Lifetime spend 
+ What they have spent across those visits. 
+ Last visit 
+ The date they were last in the room. 
+ Birthday month 
+ The month to send against, without asking anyone to keep a list. 
+Family 07 
+Intelligence and automation 
+The first six families write the data. This one reads it. Ferry AI is a coordinated agent network across ops, guests, campaigns, inventory and service, architected by Vishal Desh. 
+ 01 
+Ferry AI 
+A coordinated network of agents rather than one chat box. The roster includes Sales Analytics, Event Management, Table and Bottle, Guestlist and Reservations, and Promos and Insights. 
+ 02 
+Revenue Copilot 
+Analyses voids, pricing, promoters and inventory. The four places a venue quietly loses money. 
+ 03 
+Unified inbox 
+Our description, not a product line. Email, SMS and push threaded into one conversation per guest, so nobody answers the same question in three tools. 
+ 04 
+Analytics 
+"Revenue, attendance, table turnover, promoter performance." 
+ 05 
+Automations 
+"Trigger SMS, WhatsApp and email flows from any signal." 
+ Agent network 
+ Ferry AI 
+ Roster 
+ Sales Analytics, Event Management, Table and Bottle, Guestlist and Reservations, Promos and Insights 
+ Copilot reads 
+ Voids, pricing, promoters, inventory 
+ Architected by 
+ Vishal Desh, Co-Founder 
+ Status 
+ Live 
+Ferry AI 
+A roster, not a chat box. 
+One general assistant pointed at a venue's data is a search box with a friendly tone. Ferry AI splits the job by surface and gives each surface an owner, which is the only version of this that can be tested and corrected one piece at a time. 
+ FIG. 03 
+ Screenshot, Ferry AI assistant 
+ The Ferry AI panel and its agent roster. Each agent owns a surface of the operation rather than answering everything badly, which is why an operator asking about last Saturday's tables gets an answer from the agent that holds the tables. 
+ The roster 
+ Sales Analytics, Event Management, Table and Bottle, Guestlist and Reservations, Promos and Insights. 
+ Why a network 
+ One general assistant over a venue's data is a search box. A roster with an owner per surface can be tested, corrected and trusted per surface. 
+ What it reads 
+ The same records the other families write: events, tables, tabs, stock counts, guest profiles and campaign results. 
+ What it writes 
+ Automations. A signal in the data triggers an SMS, WhatsApp or email flow without anyone watching a dashboard for it. 
+The Revenue Copilot 
+ Live 
+It analyses voids, pricing, promoters and inventory. Those four are on the list because they are where the money goes missing quietly: a void nobody queries, a price that drifted, a promoter whose guests never spend, a bottle count that never matched the pour. Same records, read on purpose. 
+Beyond nightlife 
+A campaign engine on top of your own records is not a nightlife idea. 
+These two families are shaped like a nightclub because that is the room they were built in. The parts underneath are not. A guest profile is a customer record. A token is a merge field that never goes stale. An agent roster is a set of narrow assistants over data you already own, each one narrow enough to be checked. 
+Uniserve Communications is the same method pointed at a telecom: a three-month AI enablement engagement building a customer-facing AI chatbot and a voice agent for residential customer support, with every model and every byte hosted in Canada. In build 
+The free audit is where we find out whether your records can carry any of this. You keep the map either way, and you own the code we write. See how we charge . 
+ Book a free audit 
+ Read the Fennec case study 
+ Contact 
+ 6 % 
+of companies attribute more than 5% of profit to AI, while about 88% report using it. Owning the records the agents read is part of closing that gap. 
+ McKinsey, State of AI, 2025 
+ 93 % 
+of AI budgets go to technology and about 7% to the people expected to use it. A tool only pays back if the promoter can actually run it on a Thursday afternoon. 
+ Deloitte, 2025 
+Keep reading 
+Where to go next 
+Back up 
+Fennec, the case study 
+The flagship engagement this module sits inside: four named venues, 20+ event companies, and the surfaces an owner sees first. 
+ Read the study -> 
+Previous module 
+Inventory and staff 
+Another part of the same system, in the same detail. 
+ Go back -> 
+Next module 
+Events and floor ops 
+Keep walking the system in order. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

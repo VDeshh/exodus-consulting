@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+.DS_Store
+next-env.d.ts
+.vercel
+
+# Raw asset downloads from the Drive folder (originals, 173MB)
+.staging

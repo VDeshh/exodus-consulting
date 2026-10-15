@@ -1,0 +1,248 @@
+Contact Exodus Consulting | Book the free 30 minute audit 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+Contact 
+Thirty minutes. You keep the map either way. 
+The first call is a free operations audit. You walk us through the workflow that hurts most, we put your own hours and your own hourly rate against it while you watch, and you leave with a map of where the time and the money leak. The map is yours whether or not you hire us. 
+ Book the audit call 
+ Email shiv@exdsconsulting.com 
+ Length 
+ 30 minutes 
+ Cost 
+ None 
+ Who you meet 
+ A founder 
+ You leave with 
+ The leak map and the arithmetic 
+The call 
+What happens in the 30 minutes 
+No demo, no slide deck, no requirements questionnaire. One workflow, then the numbers behind it. 
+ 01 
+The workflow, out loud 
+You describe the process that hurts most, step by step. Who touches it, how often, how long each pass takes and where it stalls waiting on one person. 
+ 02 
+The arithmetic, in front of you 
+Hours a week against a loaded hourly rate, worked out on the call rather than modelled later. If the number turns out to be small, we say the number is small. 
+ 03 
+What is worth building, and what is not 
+We name the one or two places software or an AI agent pays for itself, and the places it does not. Some workflows cost less left exactly as they are. 
+ 04 
+The map goes with you 
+Hire us, hire someone else, or build it in house. The leak map and the working behind it are written down either way. 
+The audit is also step one in how we charge. We agree the baseline in writing before anything is built, you sign off on the exact numbers we are measured against, and the clock starts at deployment rather than at signature. The full terms sit on the how we charge page. 
+Two doors 
+Two ways to start 
+Both land in front of the same two people. Pick whichever costs you less effort right now. 
+Book the audit call 
+ 30 min 
+Open the calendar, take a slot, and it is booked. There is no qualification form in front of it and no discovery call before the discovery call. You get 30 minutes with a founder and the map at the end of it. 
+ Open the calendar 
+ calendly.com/shiv-exdsconsulting/30min 
+Email us instead 
+ Direct 
+Two lines about the workflow that hurts is enough to start. We reply with times, or with an honest answer that this is not something we should be building for you. The link below opens a draft in your own mail app with the three questions already in it, so you can edit it and send it yourself. 
+ Open a draft email 
+ shiv@exdsconsulting.com 
+There is no contact form on this page. A form that posts into a queue nobody reads is worse than an address, so you get the address. Both routes go to a founder, and both get answered by a founder. 
+ Call length 
+ 30 minutes 
+ Cost 
+ None 
+ Email 
+ shiv@exdsconsulting.com 
+ Site 
+ exdsconsulting.com 
+ Instagram 
+ @exodus_consulting_ 
+ Base 
+ Vancouver, BC 
+ Who answers 
+ Shiv Lohia or Vishal Desh 
+ Account managers 
+ None 
+Before the call 
+What to bring 
+Three things. Rough is fine. We tighten the numbers together while you are on the call. 
+ 01 / The workflow that hurts most 
+ One process, not a list. The one your team complains about, or the one that only works because a particular person is in the building. Quoting, ticket triage, scheduling, reconciliation, payouts, onboarding, reporting: bring whichever you would fix first. 
+ 02 / Roughly what it costs today 
+ Two numbers get us there: hours a week spent on it, and a loaded hourly rate for the people spending them. Round figures are enough. On the Uniserve programme the same sum reads 1 hour a day x about 250 working days x about $40 an hour, so about $10,000 per technician per year. Projection That figure is a projection for a programme still in build, not a booked result. 
+ 03 / Whoever else has to say yes 
+ The person who actually does the work, and the person who signs. Having both on the first call turns three meetings into one, and it stops us designing something the floor will refuse to use. 
+ Not needed 
+ No RFP. No requirements document. No stack preference. No budget figure. We do not bring a slide deck either. 
+After the call 
+Four stages, in this order 
+Nothing gets built until the baseline is signed, and the baseline is written by both of us. 
+ 1 
+Operations audit 
+ The 30 minute call, free 
+We map where time and money leak across the workflow you brought, and show the arithmetic first. On the Uniserve programme the same exercise produced a mapped view of where support time was going, and a shortlist of the places AI would actually pay. 
+ 2 
+Scope 
+ After the audit 
+We write down the one or two builds worth doing, with the numbers beside them. On the Uniserve engagement that came down to a customer-facing chatbot and a voice agent for residential customer support, chosen on return and feasibility. Constraints go in here too: for Uniserve, all data and models had to be hosted in Canada. 
+ 3 
+Baseline signed 
+ Before any building 
+You sign off on the exact numbers we are measured against, in writing, so nothing is arguable later. If the system misses the agreed bar, we keep working at no additional cost until it clears. You can cancel at any time. 
+ 4 
+Build 
+ Clock starts at deployment 
+The clock starts when the system is deployed, not when the agreement is signed. You own the code. The bar and the timeframe are agreed per engagement, and nothing on this page guarantees a particular dollar amount. 
+Response time 
+We answer ourselves 
+Two people read that inbox. There is no intake team standing in front of them. 
+ Aim 
+ Reply within one business day 
+ Replies from 
+ Shiv or Vishal 
+ Coordinators 
+ None 
+ Slide decks 
+ None 
+We aim to reply within one business day. Some days that is twenty minutes. Inside a build week it can take the whole day, and we would rather write that here than promise an hour and miss it. 
+The reply comes from Shiv Lohia or Vishal Desh, because there is nobody else to route it to. No coordinator, no scheduling bot, no account manager. If the honest answer is that we are not the right two people to build your thing, you get that answer instead of a proposal. 
+The study below is about web sales leads rather than consulting work, so treat it as the reason we do not sit on a first message, nothing more. 
+ 7 x 
+more likely that a firm qualified a web lead when it made contact within an hour instead of waiting an hour longer. 
+ Harvard Business Review, The Short Life of Online Sales Leads, 2011 
+Questions before you book 
+The questions we get asked first 
+Open any of them. They are all in the page whether or not the script loads. 
+ FIG. 01 
+ Contact FAQ 
+ Is the audit call really free? 
+ + 
+Yes. Thirty minutes, no cost, no card, no obligation. We map where time and money leak and show the arithmetic first. You keep the map whether or not you hire us. 
+ Who will I be talking to? 
+ + 
+One of the two founders. Shiv Lohia holds a dual BA in Psychology and Business plus a Master of Management from UBC, co-founded Fennec, and designed user experiences at Apply Digital including the Harvard Business School site. Vishal Desh holds Computer Science plus a Master of Management from UBC, works in Python, AWS and Azure, and architected the core of Fennec and its Ferry AI agent network. 
+ Who owns the code you write? 
+ + 
+You do. It goes into the agreement before anything is built, alongside the baseline you sign off on and the right to cancel at any time. 
+ What if the system misses the agreed bar? 
+ + 
+We keep working at no additional cost until it clears. The bar itself is agreed in writing before the build starts and the clock starts at deployment, not at signature. To be plain about the limits: the bar and the timeframe are set per engagement, and nothing here guarantees a particular dollar amount. How we charge, in full. 
+ Do you only work with nightlife venues? 
+ + 
+No. Fennec, the operating system for premium nightlife and event venues, is live across Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa and 20 or more event companies. Alongside it we are in build with Uniserve Communications, a Canadian ISP and telecom, and with B-Side Group, a hospitality group whose inventory software we are writing. ABC, a municipal political party in Vancouver, is live: we parse and reconcile the records they hold and support their targeted marketing campaigns. We shipped custom tip-out software for Palapa Tours Ottawa, a floating tiki-bar cruise operator. The work, client by client. 
+ Can our data stay in Canada? 
+ + 
+It is a constraint we already build to. On the Uniserve programme, in build now, all data and models must be hosted in Canada, and we built to that requirement from the first day. Bring your constraint to the audit call and it shapes the scope rather than surfacing late. 
+ What if I am not sure AI is the answer? 
+ + 
+Good. About 95% of enterprise AI pilots show no measurable P&L return (MIT NANDA, "The GenAI Divide", 2025), and companies spend about 93% of AI budgets on technology against about 7% on the people expected to use it. That is why the call starts with your workflow and your arithmetic instead of a tool. Sometimes the answer is a small piece of custom software, and sometimes it is to leave the process alone. 
+ MIT NANDA, The GenAI Divide, 2025. Deloitte, 2025. 
+Departure 
+A mass departure. A movement of people leaving one place to begin something new. 
+ exodus, noun 
+Thirty minutes, free, and the map is yours at the end of it. 
+ Book the audit call 
+ shiv@exdsconsulting.com 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

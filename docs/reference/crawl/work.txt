@@ -1,0 +1,247 @@
+Our work: five engagements at their real status | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+Our work 
+Five engagements, each one at its real status. 
+Two are live, one shipped and is closed, and two are in build with some phases delivered and some not. Nothing here is a proposal. Every card below says which, and links to the study. 
+ Book a free audit 
+ Start with Fennec 
+Status count 
+ Live Fennec, ABC 
+ Shipped Palapa Tours Ottawa 
+ In build Uniserve, B-Side Group 
+Engagements 
+ 01 Uniserve Communications 
+ 02 Fennec 
+ 03 ABC 
+ 04 Palapa Tours Ottawa 
+ 05 B-Side Group 
+What live actually means 
+Four named venues. More than twenty event companies. 
+Every venue on this list runs its own nights, its own promoters and its own bar. They share one system, which is why an event published in one room shows up in a feed that guests of the others already use. 
+Fennec is also where our own architecture came from. Vishal built the core of it and the Ferry AI agent network, and that is the same pair of hands now on the Uniserve build. 
+ Read the Fennec case study 
+Every screen below is a real capture from the running product. 
+Live venues running on Fennec tonight, plus 20+ event companies publishing events on the network. 
+ Live 
+ Running now, in production, with real guests going through it tonight. 
+ Shipped 
+ Built, delivered, in the client's hands. The engagement is closed. 
+ In build 
+ Under construction. Some phases are delivered, some are not. We say which. 
+ Projection 
+ A forecast from the client's own numbers, labelled as one, with the arithmetic printed. 
+The product 
+Nine surfaces from the running product. 
+Fennec is the operating system we co-founded and still build, and it is the clearest answer to what we actually ship. Operator screens and guest screens, captured from the live product and cropped only to remove guest names, emails, phone numbers and pass IDs. 
+ FIG. 01 
+ Product gallery, nine live surfaces 
+Scroll or select a surface 
+ < 
+ > 
+ 01 
+ Floor plan editor 
+ 02 
+ Guest table selection 
+ 03 
+ Event builder 
+ 04 
+ Public event page 
+ 05 
+ Discover feed 
+ 06 
+ The Fennec Pass 
+ 07 
+ Campaign composer 
+ 08 
+ Email designer 
+ 09 
+ Ferry AI assistant 
+ The room, drawn once. Every table carries a label, a section, a capacity, a minimum spend and its own QR code. 
+Design the room, version it, activate it 
+A floor plan in Fennec is a booking grid, not a picture. Drag a table and you have changed what a guest can book, what the host sees on the grid and what the bottle server picks up on a handheld, all at once. 
+Live product capture 
+ The same room the operator drew, rendered for the guest with live availability and minimum spends. 
+The guest picks the actual table 
+Guests choose a specific table on the venue floor plan instead of asking for "a booth near the front". Held and sold tables grey out live, so the map is never selling something the host already gave away. 
+Live product capture 
+ Poster, slug, venue, schedule, scan cutoff, age restriction and public listing, with the customer view previewing as you type. 
+One record behind every surface 
+The event is built once. The public page, the discover feed, the promoter links and the door scanner all read that same record, so a guestlist import never becomes a second version of the truth. 
+Live product capture 
+ Date, age limit, address, presenter, share actions, and two ways in: reserve a table or join the guestlist. 
+The venue keeps its own front door 
+The page lives on the venue’s own event record, so a booking that starts here never leaves for a marketplace. Reserving a table opens the same floor plan the operator drew. 
+Live product capture 
+ Every event across every Fennec venue in one guest-facing feed, featured event first. 
+A single room inherits the network 
+A venue joining the network is published to guests who already came out for the room down the street. That is the part a standalone ticketing page cannot do for a new night. 
+Live product capture 
+ One guest identity across every venue: tickets, table bookings, tier and perks, in Apple and Google Wallet. 
+The guest stops being a stranger 
+The pass is the same profile the CRM holds, so the fifth visit is recognised at the door as the fifth visit. Tiers and perks are configured once and honoured across every room in the group. 
+Live product capture 
+ Pick the segment, pick the channel, write the message, watch it render. Consent state is checked before it sends. 
+Marketing that reads the floor 
+Segments are built from what actually happened: lifetime spend, last visit, the kind of night someone came out for. The operator describes the campaign and it drafts, then a person approves the send. 
+Live product capture 
+ Blocks, brand and a rendered preview, so a venue sends something that looks like the venue. 
+Built for the person on shift 
+A marketing manager who is also running Saturday does not open a separate design tool. The event artwork and details are already on the record, so the email starts most of the way finished. 
+Live product capture 
+ A lead agent coordinating specialist agents across floor ops, guests, campaigns, inventory and service. 
+A roster, not a chat box 
+Ferry is named agents with defined jobs, not one prompt box. It drafts and it flags. The operator still decides what actually happens on the floor tonight. 
+Live product capture 
+ The full Fennec study, module by module 
+Case studies 
+Five engagements, one status each. 
+A summary and the single number that matters are below. The full engagement, the constraint that shaped it and the arithmetic behind the number are on each study page. 
+Uniserve Communications 
+ In build 
+Uniserve is a Canadian internet and telecom provider. They brought us in for a three month AI enablement programme aimed at the high volume of repeat customer questions arriving through their support channels. Phase 1 mapped where support time was going and shortlisted the places AI would actually pay. Phase 2 is in build now: a customer-facing chatbot and a voice agent for residential customer support, with data and models hosted in Canada. 
+ Projection 
+ $10,000 
+per technician per year, from roughly one hour a day given back: 1 hr/day x about 250 working days x $40/hr. A forecast from Uniserve's own numbers, not a booked result. 
+ Projection, Uniserve programme model 
+ Read the Uniserve study 
+Fennec, the flagship 
+ Live 
+Fennec is a full operating system for premium nightlife and event venues, live at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa. Underneath it sits Ferry AI, a coordinated agent network across ops, guests, campaigns, inventory and service. A Revenue Copilot reads voids, pricing, promoters and inventory and reports what is leaking. 
+ 20 + 
+event companies publishing events on the network, on top of the four named venues running Fennec nightly. 
+ Fennec deployment, fennecapp.com 
+ Read the Fennec study 
+ABC 
+ Live 
+ABC is a municipal political party in Vancouver, named here with their consent. We parse and reconcile the records they already hold: matching them across sources, resolving the conflicts, and producing confidence scores so it is clear which records can be relied on and which cannot. On top of that we assist with their targeted marketing campaigns, so outreach is planned against records they can trust rather than several disagreeing lists. 
+No metric is published on this one, and we take no position on the party or its policies. What we describe here is our work, not their politics. 
+ See the engagement 
+Palapa Tours Ottawa 
+ Shipped 
+Palapa Tours runs floating tiki-bar cruises, and the problem was not revenue, it was the tip-out. Gratuity splits shifted cruise to cruise and were hard to reconcile fairly, so payouts were argued over after the boat came in. We built custom tip-out software that calculates the pool, applies the split rules and tracks staff gratuities automatically. The engagement is closed and the software is theirs. 
+No metric was published on this one. What changed is that the same rules now run on every sailing, so the disputes stopped. 
+ Read the Palapa Tours study 
+B-Side Group 
+ In build 
+B-Side Group is a hospitality group, named here with their consent. We are building them customised inventory management software across three of their restaurant venues. Software of this kind is where our inventory work usually lands: stock counted per site, one catalogue shared across the venues rather than a separate list per room, the variance between what was bought and what was actually sold, and reorder points that fire before a line runs out. 
+That is what is being built, not what has been delivered. No metric is published on this one and none is claimed while the build is open. 
+ See what is in build 
+What happens next 
+The next entry starts with a free audit. 
+We map where time and money leak in your business and show the arithmetic before you commit to anything. You keep the map whether or not you hire us. If we do build, we agree the baseline in writing first, the clock starts at deployment rather than signature, and you own the code. 
+The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then Industries . 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

@@ -1,0 +1,326 @@
+Fennec: the venue operating system, live tonight | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+Case study 02 
+Fennec: one system running the room, the door and the bar. Live 
+The flagship. A full operating system for premium nightlife and event venues, in production tonight at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa, with more than 20 event companies publishing events on it. 
+ Book a free audit 
+ See the table map 
+At a glance 
+ Status Live 
+ Named venues Four 
+ Event companies 20+ 
+ Agent network Ferry AI 
+What Fennec is 
+A venue does not need five tools. It needs one record of the night. 
+Fennec is an operating system, not a feature. It runs the floor, the door, the bar, the bottles, the coat check, the guest record, the campaigns and the count in the stock room, off one set of records that every surface reads at the same time. 
+"Floor plans, reservations, packages and live ops - synced with Square." 
+ Fennec product copy, fennecapp.com 
+What a disconnected stack looks like on a Saturday 
+A venue running separate tools is running separate versions of the same night. Each one is right about its own slice and wrong about everything else, and the reconciliation happens in a group chat at 11pm. 
+ 01 
+The floor plan is a drawing 
+It lives in a design file or on paper, so it cannot tell anyone which table is still free. 
+ 02 
+Tickets sell somewhere else 
+A third-party page that knows the guest bought, and nothing about where they will sit. 
+ 03 
+The guestlist is a spreadsheet, or a text thread 
+Promoters add names in one place, the door reads another, and both are stale by midnight. 
+ 04 
+The bar runs on a POS that has never heard of the table 
+Tabs, voids and bottle service sit in the till, disconnected from the reservation that generated them. 
+ 05 
+Marketing is a separate address book 
+The people who came last Friday are in the POS. The people being emailed are in a mailing tool. They are not the same list. 
+Fennec collapses those five into one. The event, the table, the tab and the guest are single records. That is also what makes the intelligence layer possible: an agent cannot tell you what is leaking if the numbers are sitting in five accounts that never speak. 
+ Client Fennec, fennecapp.com 
+ Sector Premium nightlife and events 
+ Status Live 
+ What we built A venue operating system: floor plans, live ops, ticketing, guest CRM, bottle service, inventory, campaigns and analytics, with the Ferry AI agent network underneath 
+ Stack Two-way POS sync with Square, Toast and Lightspeed 
+ Venues Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa, 20+ event companies 
+ Architecture Core and Ferry AI network architected by Vishal Desh, Co-Founder 
+ Read next The module breakdown 
+The network 
+Four named venues. More than twenty event companies. 
+Every venue on this list runs its own nights, its own promoters and its own bar. They share one system, which is why an event published in one room shows up in a feed that guests of the others already use. 
+Fennec is also where our own architecture came from. Vishal built the core of it and the Ferry agent network, and that is the same pair of hands now on the Uniserve build . 
+ Named venues 
+ Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa. 
+ Also on the network 
+ More than 20 event companies publishing events on it. 
+ Status 
+ Live. In production and used by paying operators right now. 
+Live venues running on Fennec tonight, plus 20+ event companies publishing events on the network. 
+ FIG. 01 
+ Venue photography 
+ Venue photography, not product. This is the type of room the floor plan editor models. 
+The centrepiece 
+The guest picks the table, over a photograph of the real room. 
+This is the surface that changed the most for venues, and the one operators show their promoters first. A guest opens the event, sees the actual floor, and puts their party on a specific table. Nobody has to describe where table four is. 
+ FIG. 02 
+ Screenshot, guest table selection, live 
+ Live guest-facing table selection at a Fennec venue. Tables T1 to T7 carry their seat counts on the real room photo, the bar and backstage table are marked, and the legend keeps every status readable at a glance. Guest details are blurred at the source. 
+What is actually on the screen 
+Seat counts sit on each table. The bar is marked. So is the backstage table. A legend says what is available, what has been requested, what is booked, what is unavailable and what the guest has currently selected. Because the map is a photograph of the room rather than an abstract grid, a guest can tell the difference between the table beside the bar and the table beside the stage before they pay for either. 
+The host confirms final placement on the same map 
+A guest request is a request, not a booking. The host works the same map and confirms where the party actually lands, which is how a venue keeps control of its best tables without making a guest guess at a seating chart. Both sides are looking at one picture, so there is nothing to translate between them. 
+The value: availability stops living in text messages 
+That is the whole point. Availability used to live in a thread between a promoter, a host and an owner, and every one of them held a slightly different version of it. Now it lives in one place that every side reads at the same time. Nobody sells the same table twice. Nobody has to phone the office to ask whether T3 is gone. 
+The same record carries forward. The table the guest picked is the table the bar sees when the bottle order lands on it, and the table the analytics read when the night is counted. 
+ Surface Guest-facing table map 
+ Map source A photograph of the real room, not an abstract grid 
+ On the map Tables T1 to T7 with seat counts, a backstage table, the bar 
+ Statuses Available, requested, booked, unavailable, selected 
+ Who confirms The host, on the same map 
+ Privacy Guest names, emails, phone numbers and pass IDs are blurred at the source 
+ Read the family Events and floor ops 
+The operator side 
+Somebody has to build the room first. 
+The floor plan editor is the operator half of the map the guest sees. Tables are placed on a canvas, and each one opens its own inspector. 
+ FIG. 03 
+ Screenshot, operator floor plan editor 
+ Operator floor plan editor. Every table carries a label, a section, a capacity, a fee and its own QR code. 
+What the per-table inspector holds 
+Selecting a table opens a panel for that table alone: its label, its section, its capacity, its table fee, its size, whether it is square or round, a VIP flag, and an action that generates a QR code for it. A table is therefore a priced, addressable object rather than a shape on a picture. 
+Layouts are versioned, so a Friday room and a Saturday room are two saved states rather than one argument. Activating a layout is what publishes the map the guest picks from, which is why the two screens can never disagree. 
+"Design, version, and activate floor layouts in seconds." 
+ Fennec product copy, fennecapp.com 
+ Per table Label, section, capacity, table fee 
+ Geometry Size, square or round 
+ Flags VIP 
+ Output A generated QR code per table 
+ Versioning Saved layouts, activated per night 
+The guest side 
+One page to book from, one feed to be found in. 
+The public event page is generated from the event the operator built, so the details on it cannot drift from the details in the system. The discover feed is the network layer that puts that page in front of guests who came for a different room. 
+ FIG. 04 
+ Screenshot, public event page 
+ A live public event page for a real event at a real venue. One page, two ways to book. 
+What a guest lands on 
+Date, age limit, venue address, presenter, share actions, and two ways in: reserve a table or get on the guestlist. Reserving a table is what opens the map in FIG. 02, so the booking journey never leaves the venue's own page. 
+"Sell tickets, import guestlists, and check guests in with a scanner." 
+ Fennec product copy, fennecapp.com 
+ FIG. 05 
+ Screenshot, discover feed 
+ The guest-facing feed of every event across the Fennec network. 
+Why the network matters to a single room 
+Every event across every Fennec venue lands in one guest-facing feed, with a featured event at the top and an upcoming grid beneath it. A venue joining the network inherits an audience that is already there for the venue down the street. 
+"A guest-facing feed of every event across the Fennec network." 
+ Fennec product copy, fennecapp.com 
+ Ticketing, guestlists, scanner check-in and passes, in full 
+The intelligence layer 
+Ferry AI is a roster, not a chat box. 
+Underneath the surfaces sits Ferry AI, a coordinated agent network across ops, guests, campaigns, inventory and service. The roster covers Sales Analytics, Event Management, Table and Bottle, Guestlist and Reservations, and Promos and Insights. 
+One general assistant over a venue's data is a search box. A roster with an owner per surface can be tested, corrected and trusted per surface, which is why an operator asking about last Saturday's tables gets the answer from the agent that holds the tables. 
+The Revenue Copilot reads the four places where money leaks 
+A Revenue Copilot analyses voids, pricing, promoters and inventory, and reports what is leaking. It can only do that because the floor, the door, the bar and the stock room are writing into the same records rather than four accounts nobody reconciles. 
+ Voids 
+ What was rung in and then taken off, and by whom. 
+ Pricing 
+ What a table, a package or a bottle actually cleared against what it was listed at. 
+ Promoters 
+ Which names on the door turned into tabs, and which did not. 
+ Inventory 
+ What left the stock room against what was sold. 
+ FIG. 06 
+ Screenshot, Ferry AI assistant 
+ The Ferry AI panel and its agent roster. Each agent owns a surface of the operation rather than answering everything badly. 
+ Roster Sales Analytics, Event Management, Table and Bottle, Guestlist and Reservations, Promos and Insights 
+ Copilot reads Voids, pricing, promoters, inventory 
+ Architected by Vishal Desh, Co-Founder 
+ Status Live 
+Inside one venue 
+Harbour Event Centre runs the inventory module, and it ties every ounce to a person. 
+This is the part of Fennec that took the longest to get right, because it is the part that has to be exactly correct or it is worse than nothing. A variance report that blames the wrong bartender costs you the bartender. 
+Every terminal maps to the person working it 
+Sales are not attributed to the bar, they are attributed to whoever was on that till. So the question stops being "why is liquor cost high this month" and becomes "who sold what, on which terminal, on which night". That mapping is the foundation everything else sits on, and it is set up once per venue. 
+Every drink is a recipe made of inventory items 
+A vodka soda is one ounce of vodka plus a measured pour of soda, and those two are stock items in their own right. Multiply the night's POS sales by the recipes and you have the theoretical usage: exactly how much liquid should have left the bottles if every pour was to spec. 
+The actual number comes off a scale, over Bluetooth 
+At close, the open bottles get weighed. We built the weigh-in flow to be fast and connected the scales over Bluetooth, because a count that takes an hour with a clipboard gets skipped and a count that takes minutes gets done. Bottle weight without the cap, against the liquid the POS says was poured. 
+Theoretical minus actual is the number that matters 
+The gap is the variance, in millilitres and in dollars, and because the terminals map to people it resolves to an individual rather than to the building. That is worth having for tax reporting, but the reason an owner keeps using it is staffing: the same data feeds the scheduling module, so a roster can be built around who actually sells and who actually pours to spec. 
+Every step above is a person confirming a number, not a system deciding one. The scale reports, the report flags, and a manager reads it in the morning. 
+ FIG. 07 
+ Screenshot, weight-based variance 
+ The variance report, captured from a test venue with no service on it, so the table is empty by design. What it shows is the mechanism: bottle weight at close against expected liquid after POS pours, with a negative variance read as over-pour or shrinkage. 
+ Venue Harbour Event Centre, Vancouver 
+ Module Fennec inventory management 
+ Theoretical usage POS sales multiplied by the recipe on each menu item 
+ Actual usage Open bottles weighed at close, scales connected over Bluetooth 
+ Resolves to A terminal, a shift and the employee working it 
+ Feeds Staff scheduling, reorder points, tax reporting 
+ Status Live 
+ Figures None published. The venue's counts are the venue's. 
+The full breakdown 
+Five pages carry the rest of the system. 
+This page shows the surfaces that matter most to an owner deciding whether one system beats five. The module-by-module breakdown sits on five pages underneath this one, one area per page, so nothing has to be crammed in here. 
+ 01 
+ Events and floor ops 
+Floor Plans, Live Ops, Table Management, Host Events, Bottle Service, Coat Check. Where FIG. 02 and FIG. 03 belong. 
+ 02 
+ Ticketing and guests 
+Ticketing, Promoter Portal, Guest CRM, Guest Management, Loyalty, Fennec Pass, Discover Events, Live Ordering. 
+ 03 
+ POS and payments 
+Two-way POS sync with Square, Toast and Lightspeed, plus Bar Management across every bar. 
+ 04-05 
+ Inventory and staff 
+Inventory Dashboard, Live Menu, Stock Room, In-Bar Inventory, Revenue Loss Calculator, and Staff Management: schedules, clock-in, role permissions and tip distribution. 
+ 06-07 
+ Media and intelligence 
+Social, Event Poster, Drink Campaigns, the campaign composer and the email designer, then Analytics, Automations and Ferry AI on top. 
+ + 
+ + The module list, by area 
+ Events and floor 
+ Floor Plans, Live Ops, Table Management, Host Events, Bottle Service, Coat Check. 
+ Ticketing and guests 
+ Ticketing, Promoter Portal, Guest CRM, Guest Management, Loyalty, Fennec Pass, Discover Events, Live Ordering. 
+ POS and payments 
+ POS Integration with Square, Toast and Lightspeed, plus Bar Management across every bar. 
+ Inventory 
+ Inventory Dashboard, Live Menu, Stock Room, In-Bar Inventory, Revenue Loss Calculator. 
+ Staff 
+ Staff Management: schedules, clock-in, role permissions and tip distribution. 
+ Media and marketing 
+ Social, Event Poster, Drink Campaigns, plus a campaign composer and a drag-and-drop email designer. 
+ Analytics 
+ Analytics on revenue, attendance, table turnover and promoter performance, and Automations that trigger SMS, WhatsApp and email from any signal. 
+ Start with events and floor ops 
+What happens next 
+If your operation runs on five tools, start with the audit. 
+Fennec is the largest thing we have built, and it started the same way every engagement does: we mapped where time and money leaked, then showed the arithmetic. You keep the map whether or not you hire us. If we do build, we agree the baseline in writing first, the clock starts at deployment, and you own the code. 
+The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ Industries , then About . 
+Keep reading 
+Where to go next 
+Related module 
+Events and floor ops 
+The floor plan editor, live table statuses and the guest-facing table map, module by module. 
+ Read the family -> 
+Back up 
+All case studies 
+Five engagements: two live, one shipped and two in build, each with its status, its constraint and its arithmetic. 
+ Back to the index -> 
+Next case study 
+Palapa Tours Ottawa 
+Floating tiki-bar cruises, gratuity splits that shifted sailing to sailing, and the tip-out software that ended the disputes. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

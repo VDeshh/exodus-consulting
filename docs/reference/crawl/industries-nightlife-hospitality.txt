@@ -1,0 +1,389 @@
+Nightlife and hospitality | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Industries 
+ Nightlife and hospitality 
+Industries / Nightlife and hospitality 
+A venue running five tools is running five versions of Saturday. 
+We have spent five years in nightlife, running venues on our own software rather than reading about them. Fennec, the venue operating system we built, is live tonight at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa, with more than 20 event companies publishing events on it. Everything on this page comes out of rooms we actually operate. 
+ Book a free audit 
+ All industries 
+Who this is for 
+ Nightclubs and late night venues 
+ Event and concert venues 
+ Bars, lounges and cocktail rooms 
+ Restaurant groups running more than one room 
+ Event production and promoter companies 
+How it actually runs 
+Before anything is built, this is the week we are describing. 
+No software can be scoped from a category name. These are the specifics of nightlife and hospitality that decide what is worth building and what is not. 
+ 01 
+The busiest night is the least measured 
+Saturday makes the month, and Saturday is when nobody has a free hand to write anything down. The door is three deep, a table wants another bottle, and a bartender has walked off shift. Decisions get made and never recorded. On Monday the owner has a POS total, a bank deposit and a group chat, and no way to explain the gap between them. 
+ 02 
+The floor plan lives in three places 
+The host holds the real version on their phone, a promoter holds last week's version, and the sheet at the door is older than both. So a table gets promised twice and the argument happens in front of the guest who paid for it. The room is the most valuable inventory a venue owns, and it is usually the only inventory nobody counts properly. 
+ 03 
+The bar count happens at 3am with a clipboard 
+Someone tired walks every bar, eyeballs the level in each bottle, and writes tenths on a sheet. It takes an hour, it is done differently by whoever got stuck with it, and the numbers land in a spreadsheet a week later. By then the night it describes is history, and nobody can tie a missing bottle back to a shift or a person. 
+ 04 
+Promoters get paid on names, not spend 
+A promoter brings forty people and invoices for forty people. Whether those forty bought anything at the bar is not in the number, because the guestlist and the till have never met. Every venue has the promoter everyone knows fills the room, and the promoter everyone suspects does not. The difference is real money and it has never been written down. 
+ 05 
+The ticket buyer belongs to the ticketing site 
+A guest buys through Eventbrite or Ticketmaster, comes to the room, spends three hundred dollars and disappears. The venue has the sale and not the person. Next month the same event goes out to whoever sits on an old mailing list, and the people who already proved they will show up and spend are not on that list. 
+ 06 
+Table minimums are set by feel 
+The minimum on the best table is whatever it was last year, plus a number the host invents when a large party asks on the night. Nobody compares what the table actually cleared against what the minimum said, or against what a different party would have cleared in the same four hours. The best asset in the room is priced from memory. 
+Where it leaks 
+Every one of these is measurable. Most are not measured. 
+The free audit prices these in your own numbers before anything is scoped. You keep the map whether or not you hire us. 
+ Where the money and the hours go in nightlife and hospitality, how it is measured today, and what closes it. 
+ The leak 
+ How it is measured today 
+ What closes it 
+ Alcohol poured and never rung in 
+ Guessed at from a monthly cost percentage, if at all. 
+ Recipe based theoretical usage against a weighed close count, per bar and per bartender. 
+ Promoter commission paid on heads rather than spend 
+ A list of names handed over on Monday. 
+ Trackable promoter links and a commission ledger that reads the tab, not the door. 
+ Comps and voids nobody queries 
+ Sitting in the POS, reviewed by nobody. 
+ Voids and comps reported per employee per night, with a threshold that flags rather than accuses. 
+ Tables held all night and never sold 
+ Not measured. The host remembers roughly. 
+ Hold strategy set on the event, live table status, and turn time tracked against the minimum. 
+ Ticket buyers who are never contacted again 
+ Nobody counts the ones who did not come back. 
+ Buyers pulled from the marketplace into the venue's own records, then segmented on spend and last visit. 
+What we build 
+8 builds that pay for themselves here. 
+Each one states what it reads, what it does, and what a person still approves. Scope is agreed after the audit, one build at a time, against a baseline you sign. 
+Pour reconciled to sales, per bartender 
+Every menu item carries a recipe of inventory items: a vodka soda is one ounce of vodka and a measured pour of soda. POS sales times recipes gives theoretical usage for the night, and the close count gives actual. The gap is reported in ounces and in dollars, and because every terminal maps to the employee working it, the number ties to a bartender. The owner reads it first. 
+Measured by: Variance in dollars per bar, per night, and per bartender. 
+Bluetooth scale weigh-in at close 
+Open bottles get weighed instead of eyeballed. The scales connect over Bluetooth and each weight lands in the count as it is read, so a full bar takes minutes rather than a clipboard hour. Tare weights and pour specs are set once per product. A manager signs the session off before it becomes the night's actual usage, and the session stays on the record afterwards. 
+Measured by: Minutes to complete a full close count, and how many nights it actually gets done. 
+One guest record from every ticket seller 
+The system connects to the marketplaces the venue already sells on and links each event to its outside listing. Buyer name, email, phone and birthday sync into the venue's own guest records, tickets become passes, and the door scanner accepts both. Nothing is migrated and no contract is broken. The owner picks which events are linked and which stay separate. 
+Measured by: Share of ticket buyers who exist as a guest record the venue owns. 
+A voice agent on the venue line 
+The agent answers the phone and clears the calls that repeat: hours, age policy, dress code, what the table minimum is, what is on this Friday, whether a booking exists. It reads the live event and table records rather than a script written last season. Anything it cannot resolve transfers to a person with the caller's context attached, so the guest is not asked to start again. 
+Measured by: Share of calls resolved without a person, and calls answered outside office hours. 
+A chatbot on the event page 
+The chatbot sits on the venue's own event pages and answers what fills the inbox: what a table package includes, what the minimum is, whether the guestlist is still open, how bottle service works, where to park. It quotes the live listing rather than a PDF from last season. Booking and guestlist requests are handed to a host to confirm, not confirmed by the bot. 
+Measured by: Inbound emails and direct messages per event week. 
+Campaigns drafted from your own spend data 
+The operator describes the night they want to fill, and the system drafts the campaign, the offer or the automated email, SMS and WhatsApp flow, using reference material we assembled from five years in nightlife. The audience is built from real attendance and spend: who came to which kind of night, what they spent, when they lapsed. A person edits it and a person sends it. 
+Measured by: Revenue per send, and spend per guest brought back. 
+Loyalty that follows the guest between rooms 
+Tiers, points and perks are configured once, and passes issue to Apple and Google Wallet. A tier earned in one room is recognised at the next, so a group of venues stops competing for the same person's first visit and starts sharing their fifth. Spend from the POS and the guest profile decides the tier. Perks that cost money need an owner to approve them. 
+Measured by: Repeat visit rate within ninety days. 
+A night report that assembles itself 
+By the time the owner wakes up the night is counted: revenue by bar, attendance against capacity, table turnover, promoter and host performance, comps, voids and the pour variance. Every figure names the record it came from, so a number that looks wrong can be opened rather than argued about. Nothing is estimated to fill a gap, and a missing feed is shown as missing. 
+Measured by: Hours a week spent building the Monday numbers by hand. 
+The numbers 
+Borrowed statistics, with their sources and their limits printed. 
+None of these are our results. They are the published state of nightlife and hospitality, linked so you can check them, with the caveat attached where the number is a survey, a forecast or a vendor's own figure. 
+ down 2.3% 
+Drinking places went backwards in a year when food service overall grew. 
+ Statistics Canada, 2026 
+Annual 2025 sales across food services and drinking places totalled $101.4 billion, up 5.6%, while the drinking places subsector fell 2.3%. Figures are current dollars and are not adjusted for price increases, so volume fell further than the percentage suggests. 
+ 44% 
+Close to half of Canadian restaurants are losing money or breaking even. 
+ Restaurants Canada, 2026 
+Self reported operator survey, not audited accounts, and it covers restaurants broadly rather than nightlife venues specifically. The comparable 2019 figure was 12%, and 41% in June 2025. 
+ 8.0 standard drinks a week 
+Canadians are drinking less, so the same room has to earn more per guest. 
+ Statistics Canada, 2026 
+Per person of legal drinking age, down from 8.7 the previous year. Total volume sold fell 3.0% to 2,898 million litres. This covers all alcohol sold in Canada, including retail off premise, so it is not a direct measure of on premise volume. 
+ over 6,400 complaints a week 
+Email sent without consent is the top reason Canadians report a business for spam. 
+ Innovation, Science and Economic Development Canada, 2024 
+167,939 complaints to the Spam Reporting Centre between 1 October 2021 and 31 March 2022. The figure covers all sectors, not hospitality, and the window is a six month period several years old. It is cited here because guest marketing in a venue runs on exactly this kind of list. 
+Where the data comes from 
+Your systems of record stay exactly where they are. 
+We read them, we do not replace them. Each one below says what we connect to, how, and the line the build does not cross. 
+Point of sale and payments 
+ Usually: Square, Toast, Lightspeed, TouchBistro, Clover 
+ What it holds. Every item, price, modifier and tax code, plus each tab, void, comp, tip and card settlement, by terminal and by timestamp. 
+ How we connect. API in both directions. Menus, prices and packages push out to the terminals, and closed tabs pull back attached to a table, an event and a bar. Fennec runs this in production with Square, Toast and Lightspeed, including tab to table matching. 
+ Where it stops. No field is written back until one system is named the owner of that field in writing. Refunds, voids and comps stay in the hands of a manager on the terminal, and we never create or delete a button mid service. 
+Ticketing, door and guestlist 
+ Usually: Eventbrite, Ticketmaster, Showpass, Tixr, TicketWeb, POSH, Ora, Flite City 
+ What it holds. Buyer name, email, phone and birthday, order value, ticket type, promo code and scan history for every event. 
+ How we connect. Connect the account once, then link each event to its outside listing. Buyers sync into the venue's own guest records, tickets become Fennec Passes, and the door scanner reads either the pass or the original ticket, offline if the venue wifi drops at 11pm. 
+ Where it stops. We do not change pricing, allocations or refunds on the marketplace. The venue keeps selling where it already sells and the marketplace stays the seller of record. Which events are linked is the owner's call, event by event. 
+Reservations, guest records and marketing 
+ Usually: SevenRooms, OpenTable, Tock, Mailchimp, Klaviyo, Laylo, Meta Ads Manager 
+ What it holds. Bookings, deposits, no show history, consent status, campaign sends and opens, ad spend and attributed sales. 
+ How we connect. API or scheduled export into one guest profile carrying lifetime spend, visit count, preferences and consent. Consented guests mirror to Laylo, with RSVPs and opt outs matched back, and server side conversions send outside ticket sales back to the campaign that caused them. 
+ Where it stops. Consent is never inferred from a purchase and never carried across venues without it. Nothing sends until a person presses the button, and an unsubscribe is honoured everywhere within one profile rather than per tool. 
+Stock, staff and the back office 
+ Usually: Sculpture Hospitality, WISK, BevSpot, MarketMan, 7shifts, Push Operations, QuickBooks Online, Xero 
+ What it holds. The product catalogue, supplier invoices and purchase orders, counts per site, rotas, clock in records and the general ledger. 
+ How we connect. Scheduled export or a read only replica, folded into one catalogue across sites so purchased against sold becomes a subtraction rather than an argument. Counts captured on the floor reconcile against POS sales for the same period, per bar. 
+ Where it stops. We post no journal entries and we pay nobody. Payroll, remittances and filings stay with the bookkeeper. A count is never adjusted after the fact to make a variance report look better, and the original session stays on the record. 
+Built around your rules 
+The regimes that govern this work, and how the build answers each one. 
+Constraints come first, because they decide the architecture. Bring us your hosting, residency and regulatory rules at the start and we design to them rather than around them. 
+ Regulatory and professional obligations that shape a build in nightlife and hospitality. 
+ Regime 
+ What it demands here 
+ How the build complies 
+ PIPEDA 
+ Federal privacy law over commercial handling of personal information: collect for a stated purpose, keep only what you need, protect it, and let a guest see what you hold. 
+ One guest profile with a purpose recorded per field, retention set per category, and access limited by role so a door scanner sees a name and a status rather than lifetime spend. 
+ BC Personal Information Protection Act, with Alberta PIPA and Quebec Law 25 where you operate 
+ Provincial privacy rules for private sector businesses, including consent, access requests and, under Law 25, a named privacy officer and notice when data crosses a border. 
+ The venue's records stay the venue's records, hosting location is agreed before the build, and an access or deletion request runs from one profile instead of six tools that each hold a copy. 
+ CASL 
+ Consent before a commercial email, SMS or message, a working unsubscribe honoured within ten business days, and sender identification on every send. 
+ Consent is stored on the guest profile with its source and date, an unsubscribe applies across every channel at once, and a send blocks if the audience contains anyone without a recorded basis. 
+ PCI DSS 
+ Card data has to stay inside the payment environment: terminals, tokenisation, no card numbers in your own tables or in a text message. 
+ Cards are handled by the POS and payment provider. We hold a token and a reference, never a card number, and deposits and table fees route through the processor already on the counter. 
+ Provincial liquor licensing and server certification 
+ BC's Liquor Control and Licensing Act, the AGCO's rules in Ontario and their equivalents set service hours, capacity against occupant load, and require certified servers such as Serving It Right or Smart Serve. 
+ Capacity is a hard limit on the floor plan and the door count, service hours are set per event, and certification expiry is tracked against the rota so an uncertified server cannot be scheduled onto a bar. 
+ SOCAN and Re:Sound music tariffs 
+ Public performance of recorded and live music in a bar, club or event venue is licensed, usually through Entandem, with fees set by Copyright Board tariffs such as SOCAN Tariff 3.A. 
+ Attendance and room capacity per event come out of the same records the door already writes, so a tariff return is assembled from real counts rather than reconstructed from memory at year end. 
+What we will not automate 
+Age verification and refusal of service. A door decision is a legal one and it belongs to a certified person standing there. 
+Discipline. A variance report names a shift and a bar. It does not fire a bartender, and we will not build a system that acts on the number without a manager reading it first. 
+Sending to a guest list. Drafting is automatic, sending is not. A person reads the message and presses the button, every time. 
+A person stays in the loop 
+Anything that spends money, sends something irreversible, or carries a professional obligation arrives as a draft with a named reviewer. The system prepares the work. A person decides whether it ships. 
+You own the code and the data at the end of the engagement. 
+The product, running 
+Five screens from Fennec, the venue operating system we built and still run. 
+Fennec is live at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa. These are captures from the running product, cropped only to remove account identifiers. The workspace shown is a test venue, so the figures in it are test figures. 
+ FIG. 01 
+ Product gallery, 5 live surfaces 
+Scroll or select a surface 
+ < 
+ > 
+ 01 
+ The night on one screen 
+ 02 
+ Where the money slipped 
+ 03 
+ Poured against sold 
+ 04 
+ The guest book behind the marketing 
+ 05 
+ Automations you can read 
+ The nightly operator dashboard: live events, guest and table counts, the revenue estimate and the month’s event calendar. 
+The night on one screen 
+Live events, tables reserved, guests expected and the revenue estimate, with tonight and the month ahead underneath. The operator opens one page instead of four tools, and the numbers are the ones the floor is actually generating. 
+Live product capture 
+ The revenue copilot scores last night for missed revenue and ranks the fixes, with each card naming the data it still needs. 
+Where the money slipped 
+The copilot reads the night back and prices what was missed: sold-out tiers, declined tables, promoter performance, bar speed. Each card says what it needs before it will make a claim, and says "no data" rather than guessing. 
+Live product capture 
+ The weight-based variance report: bottle weight at close against the liquid the POS says was poured, with the difference as over-pour or shrinkage. 
+Poured against sold, by weight 
+Every menu item carries a recipe in inventory units. POS sales times recipe gives the theoretical pour. Weighing the open bottles at close gives the actual. The gap is variance, in millilitres and in dollars, and because terminals map to employees it ties back to a person. 
+Live product capture 
+ The guest book: tier, tags, visits, lifetime spend and last visit for every guest, assembled from tickets, tables and bar tabs. 
+The guest book behind the marketing 
+Every guest with their tier, tags, visit count, lifetime spend and last visit, built from tickets, tables and bar tabs rather than a mailing list. Segments like lapsed sixty days or big spender build themselves, which is what makes targeted campaigns possible at all. 
+Live product capture 
+ The flow builder: a ticket purchase triggers a wait, a condition check and a personalised send, wired on a canvas the team can read. 
+Automations you can read 
+A flow is a canvas, not a black box: a trigger, a wait, a condition, a send. The send node here drafts with AI against the venue’s own reference material, and a person still turns the flow on. Anyone on the team can open it and see exactly what fires and when. 
+Live product capture 
+Our work here 
+What we have built in this industry, at its real status. 
+Live means running now. In build means under construction, with some phases delivered and some not. Shipped means delivered and closed. Where there is no number yet, we say so instead of borrowing one. 
+Fennec, the venue operating system 
+The largest thing we have built and the reason this page exists. Floor plans, live ops, ticketing, guest CRM, bottle service, promoter portal, inventory, campaigns and analytics in one system, with the Ferry AI agent network underneath. Live tonight at Harbour Event Centre in Vancouver, TradeX in Abbotsford, The Pit UBC and The Show Ottawa, with more than 20 event companies publishing events on the network. POS sync with Square, Toast and Lightspeed runs in production. 
+Inventory at Harbour Event Centre 
+Every POS terminal is mapped to the employee working it, so sales are visible per person, per terminal, per night. Every menu item carries a recipe of inventory items, so sales times recipes gives theoretical usage. Actual usage comes from a fast weigh-in flow with Bluetooth scales at close, minutes instead of a clipboard hour. Theoretical minus actual is the discrepancy in ounces and dollars, tied to the individual bartender. 
+Ticketing connectors and one guest record 
+Eventbrite, Showpass, Ora, TicketWeb, POSH, Flite City and Tixr, all live in production. Connect once, link each event to its outside listing, and buyers sync into the venue's CRM with name, email, phone and birthday. Tickets become Fennec Passes and the door scanner accepts either the pass or the original ticket, offline. The venue keeps its contracts and gains the people behind the sales. 
+The marketing product and universal loyalty 
+Inside the Fennec admin panel: campaigns with overview, metrics and analytics, an Offers tab, and a Flows tab running automated email, SMS and WhatsApp sequences. The operator describes what they want and the system drafts it, using reference material we assembled from five years in nightlife. Spend analytics from the POS and CRM feed the targeting. Universal loyalty issues Apple and Google Wallet passes recognised across venues. 
+What the work taught us 
+ 01 
+A variance report is only as honest as the item list under it. Two names for one bottle across two rooms, or a modifier nobody has priced in a year, and the subtraction is describing two different things. Cleaning the catalogue is the first real day of work and it is worth more than the software. 
+ 02 
+A promoter paid per name will bring you names. A promoter paid on what the room spends will bring you spenders. The economics are set by what you can measure, and most venues can only measure heads, so most venues get heads. 
+ 03 
+The queue is the first thing a guest buys. A scanner that stalls because the venue wifi died at 11pm costs more than any software licence, which is why the door has to work offline and read both the pass and the original ticket. 
+ 04 
+A table minimum set too high leaves the best table in the room empty until one in the morning. Set too low and it goes to a party who order two bottles and hold it all night. The right number comes from what comparable tables actually cleared, not from what was printed last season. 
+ 05 
+The catered crowd is the product. A room of people who are there for the same reason spends more, behaves better and comes back. A random room that happened to see an ad has no reason to return, and no campaign fixes that after the fact. 
+ 06 
+The fastest bartender is not always the most profitable one. Speed shows up in the till and free pouring shows up in the count, and until you can see both against the same shift you are promoting on impression. That is why the loss data belongs in the scheduling module. 
+The objections 
+The reasons an owner here says no, answered straight. 
+ We are locked into Eventbrite and Ticketmaster for years. 
+ + 
+Good. Stay there. Those marketplaces are also how people find out you exist, and switching is slow and expensive. Eventbrite is one of the seven platforms Fennec connects to directly, so those buyers land in your records as the sale closes. Ticketmaster is not a connector, so that buyer list comes to you as an export and gets loaded the same way. Either route, you keep selling where you sell and the door scanner still takes the original ticket. 
+ I am not ripping out the POS two weeks before a long weekend. 
+ + 
+Nobody should. The till stays. Fennec syncs both ways with Square, Toast and Lightspeed in production today: the catalogue is edited once and pushed, and closed tabs come back attached to a table, an event and a bar. Before a single credential is exchanged we name an owner for each field in writing, because a price that two systems can edit will eventually disagree with itself. 
+ My staff will never do another count at three in the morning. 
+ + 
+That is why the count is a weigh-in rather than a clipboard. Bottles go on a Bluetooth scale and each weight lands in the session as it is read, so a full bar takes minutes. At Harbour Event Centre that is the whole difference between a count that happens every night and a count that happens when someone remembers. 
+ This will feel like surveillance to my bartenders. 
+ + 
+It is the same data the POS already collects, arranged so it is useful. Terminals map to people because otherwise a discrepancy just floats over the whole bar and the honest staff wear it too. The number goes to the owner, not to a dashboard on the wall, and it also feeds scheduling, so the people who sell well and pour to spec get the good shifts. 
+ Margins are thin. I cannot spend money on software right now. 
+ + 
+The audit is free and you keep the map whether or not you hire us. If we build, we agree the measured number in writing before the work starts, the clock starts at deployment rather than signature, and if the system misses the bar we keep working at no extra cost until it clears. You can cancel at any point and you own the code. 
+Questions 
+The questions we get asked in nightlife and hospitality. 
+ Do we have to leave our ticketing platform? 
+ + 
+No. Fennec connects to Eventbrite, Showpass, Ora, TicketWeb, POSH, Flite City and Tixr, and all seven are live in production. You link each event to its outside listing, buyers sync into your CRM with name, email, phone and birthday, and their ticket becomes a Fennec Pass. The scanner at the door accepts the pass or the original ticket. 
+ How does the pour count actually work? 
+ + 
+Every menu item carries a recipe built from inventory items. POS sales times recipes gives what the night should have used. Weighing every open bottle at close gives what it actually used. The difference is the discrepancy, in ounces and in dollars. Because each terminal is mapped to the employee on it, that discrepancy ties back to an individual bartender rather than to the building. 
+ What does the inventory data get used for beyond loss? 
+ + 
+Two things. Cleaner numbers for tax reporting, because the counts are recorded rather than reconstructed. And a staffing signal: the same data feeds staff management, so scheduling can be set on who actually sells and who actually pours to spec. That is the part owners underrate. It turns a loss report into a rota decision. 
+ We run three rooms. Does any of this work across sites? 
+ + 
+Yes, and it is a large part of the value. One catalogue across venues means the same bottle is not three products with three names, which is the thing that quietly ruins a variance report. Loyalty tiers, points and perks are configured once and recognised at every room. We are building customised inventory software across three restaurant venues for B-Side Group now. 
+ How do you charge, and who owns what at the end? 
+ + 
+A free operations audit first: we map where time and money leak and show the arithmetic, and you keep that map either way. If we build, the measured number is agreed in writing before the work starts, the clock starts at deployment, and if the system misses it we keep working at no extra cost until it clears. You own the code. 
+What happens next 
+Start with the audit, and know the number before you commit. 
+Three to five days. We map where the hours and the money go in your nightlife and hospitality operation and hand you a ranked plan with the payback attached. 
+We map where time and money leak, and show the arithmetic before you commit to anything. You keep the map whether or not you hire us. If we do build, we agree the baseline in writing first, the clock starts at deployment rather than signature, and you own the code. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then Our work . 
+Keep reading 
+Where to go next 
+Back up 
+All industries 
+Every industry we build for, grouped by where our own work sits and where the same method applies. 
+ See the index -> 
+The proof 
+Our work 
+Five engagements at their real status, with the Fennec product gallery and the arithmetic behind every number. 
+ Read the studies -> 
+Next industry 
+Restaurants and bars 
+The same method, a different set of systems, rules and failure modes. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

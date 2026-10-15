@@ -1,0 +1,239 @@
+Industries: every sector we build for | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Industries 
+Industries 
+22 industries. One method. 
+The way we build does not change: learn the operation first, find the one workflow worth fixing, agree the number in writing, then ship software the team actually uses. What changes per industry is the systems of record, the rules, and the failure that costs the most. Each page below is written for one sector, and says which. 
+ Book a free audit 
+ See the work 
+At a glance 
+ Industries 22 
+ With our own work in them 6 
+ Base Vancouver, BC 
+ Client type Owner-led 
+What stays the same 
+The method does not change when the industry does. 
+The first week of every engagement is spent on the floor rather than in a repository: we learn the job the way the team does it, in their words, on their screens. Then we build the piece that removes the part they hate, and we stay until they use it without us. 
+Your systems of record stay where they are. We read them and write back only where you have said we can, and anything irreversible arrives as a draft with a named reviewer. 
+ The audit comes first 
+ Three to five days mapping where the hours and the money actually go, ending in a ranked plan with the payback math. Yours to keep, whoever builds it. 
+ The number is agreed in writing 
+ You sign off on the baseline before the build starts. The clock starts at deployment, not at signature. 
+ A person stays in the loop 
+ Anything that spends money, sends something irreversible or carries a professional obligation is a draft until someone approves it. 
+ You own it 
+ The code and the data are yours, written into the agreement before anything is built. 
+Where we have built 
+Where we have built 
+The industries our own engagements sit in. Each page names the work and what it taught us. 
+ 01 
+ Nightlife and hospitality 
+A venue running five tools is running five versions of Saturday. 
+Pour reconciled to sales, per bartender. Bluetooth scale weigh-in at close. One guest record from every ticket seller 
+ 02 
+ Restaurants and bars 
+The money leaks between what you bought and what you sold. 
+Poured against sold, per bar, per shift. One catalogue, every site, one count. Reorder points that draft the order 
+ 03 
+ Event venues and ticketing 
+Keep selling where you sell. Own the guest yourself. 
+Every ticket buyer lands in your CRM. A door scanner that works with no signal. Promoter portal with a live commission ledger 
+ 04 
+ Telecom and internet providers 
+The repeat question is the biggest cost in your support queue. 
+Voice agent for residential support. Website chatbot on your own plans and policies. Outage-aware answers on the worst day 
+ 05 
+ Political parties and campaign organisations 
+A campaign runs on lists, and the lists disagree. 
+Every source read into one shape. Records matched and every join scored. A review queue for the near-misses 
+ 06 
+ Tour and experience operators 
+Every departure is a shift, a manifest and a payout. 
+Tip-out engine per departure. Voice agent for the booking phone. Website chatbot on the operator's own pages 
+Where the same build applies 
+Where the same build applies 
+Different rules, different systems of record, the same method. What we would build, and how it works. 
+ 01 
+ Law firms 
+Three billable hours in eight, and the phone goes unanswered. 
+A voice agent that answers new client calls. A website assistant for the questions that repeat. Intake, conflict check and client ID in one flow 
+ 02 
+ Accounting and bookkeeping firms 
+Every firm sells hours it spends chasing documents. 
+Document chasing that runs itself. Slip and receipt extraction with confidence scores. Uncategorised transactions, batched and asked once 
+ 03 
+ Healthcare clinics 
+Most clinic hours go to the phone, not the patient. 
+Voice agent for the routine calls. Website chatbot that shrinks the email queue. Fax and referral intake with confidence scores 
+ 04 
+ Recruiting and staffing 
+Your recruiters were hired to place people, not chase timesheets. 
+A voice agent on the candidate line. A website chatbot for candidates and clients. Candidate records reconciled with confidence scores 
+ 05 
+ Professional services and agencies 
+Your firm sells hours, and nobody writes them all down. 
+Voice agent on the main line. Website chatbot for the repeat questions. Timesheets drafted from work already done 
+ 06 
+ Insurance and financial brokers 
+A broker's day is mostly retyping what a system already knows. 
+A voice agent on the office line. A chatbot on your own documents. eDocs and statements parsed to the policy 
+ 07 
+ Real estate and property management 
+The rent roll is right. Everything around it is retyped. 
+Voice agent on the tenant line. Website chatbot for listing and tenant questions. Maintenance intake, triage and dispatch 
+ 08 
+ Construction and trades 
+The job is won on the phone and lost on paperwork. 
+Voice agent that answers on site days. Website chatbot for scope and quote questions. Timesheets reconciled to jobs and payroll 
+ 09 
+ Home services and trades 
+Every unanswered call is a job the next company books. 
+A voice agent that answers every call. A website chatbot for the repeat questions. A dispatch board that proposes the day 
+ 10 
+ Logistics and transportation 
+Every load gets typed in three times before it is paid. 
+Voice agent for check calls and quotes. Rate confirmation and BOL parsing. Detention and accessorial recovery 
+ 11 
+ Manufacturing and distribution 
+The ERP holds the parts. The answers still live in inboxes. 
+Voice agent for order status calls. Website chatbot for spec questions. Purchase orders parsed and matched 
+ 12 
+ Retail and ecommerce 
+The shop, the web store and the books never agree on stock. 
+One stock number across every channel. Reorder proposals from real sell-through. Website chatbot for orders, stock and returns 
+ 13 
+ Automotive dealers and service 
+A dealership holds one customer in six systems that never reconcile. 
+Voice agent on the service line. Website chatbot for the repetitive questions. One customer record across every system 
+ 14 
+ Fitness and wellness 
+Your billing system knows who pays, not who is leaving. 
+Voice agent on the front desk line. Website chatbot for the repeat questions. Intake, waiver and consent capture 
+ 15 
+ Education and training providers 
+The enquiry, the enrolment and the invoice live in different systems. 
+Voice agent on the admissions line. Chatbot on the programme pages. Enquiry follow-up that drops nothing 
+ 16 
+ Nonprofits and associations 
+Your donors exist three times, in three systems, spelled three ways. 
+Voice agent on the main line. Website chatbot for the repeat questions. One supporter record across every system 
+What happens next 
+Your industry is on this page, or it is the next one we write. 
+Start with a call or start with the audit. Either way you talk to the two people who will build it, not a sales inbox. 
+We map where time and money leak, and show the arithmetic before you commit to anything. You keep the map whether or not you hire us. If we do build, we agree the baseline in writing first, the clock starts at deployment rather than signature, and you own the code. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then Our work . 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

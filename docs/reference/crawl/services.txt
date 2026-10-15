@@ -1,0 +1,423 @@
+What we build: six capabilities | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+What we build 
+Judgment stays human. Volume goes to software. 
+We do not automate the call. We automate the work around it: the sorting, the summarising, the drafting, the reconciling. A person still approves anything that leaves the building. 
+ Book a free audit 
+ See the six capabilities 
+On this page 
+ Capabilities 
+ Six, from customer-facing assistants to operational intelligence. 
+ Who you deal with 
+ Two founders. No account managers, no slide decks. 
+ Ownership 
+ You own the code. 
+The operating principle 
+Software takes the volume. A person keeps the call. 
+Most of the work that eats an owner-led business is not judgment. It is repetition with a deadline attached. 
+A support queue is the same handful of questions asked over and over. A tip-out is arithmetic that has to come out the same way every night. A quote is an hour of digging through old files. None of that needs a decision maker. All of it needs to be right, fast, and the same every time. That is what we hand to software. 
+What stays with your people: the exception, the price, the hire, and the send. Every system we build has a place where a person looks at the output and clicks. That is not a limitation we apologise for. It is the reason the systems survive contact with real customers. 
+ 88 % 
+of companies report using AI. Only about 6% attribute more than 5% of profit to it. 
+ McKinsey, State of AI, 2025 
+ 93 % 
+of AI budgets go to technology. About 7% goes to the people expected to use it. 
+ Deloitte, 2025 
+Those two numbers are the whole argument. Buying the model is the easy part. Getting it into the hands of the four people who actually run the queue is the work, and it is where we spend our time. 
+ Software does 
+ Sorting, summarising, drafting, reconciling 
+ People do 
+ The exception, the price, the send 
+ Starts with 
+ A free operations audit 
+ Clock starts 
+ At deployment, not signature 
+ Code 
+ Yours 
+Capabilities 01 to 06 
+Six things we build, and where each one is running 
+Select a capability. Every panel says what it is, what you get, how long it usually takes, and which client it is running for today. Nothing here is a brochure item: if it has not shipped, the tag says so. 
+ FIG. 01 
+ Capability switcher 
+ 01 
+ Customer-facing assistants 
+ 02 
+ Ticket triage and support 
+ 03 
+ Knowledge and retrieval 
+ 04 
+ Custom software 
+ 05 
+ POS and integrations 
+ 06 
+ Operational intelligence 
+01 Customer-facing assistants 
+ In build 
+ What it is. A chatbot and a voice agent that answer your customers directly, working from your own material rather than the open internet. It handles the questions your team answers forty times a week. It hands the conversation to a person the moment the question stops being one of those. 
+ What you get. One assistant your customers can type to and one they can talk to, both working from the same source material. A defined handover rule. A log of every conversation, so you can see what customers actually ask instead of guessing. 
+ Works from 
+ Your own product and policy material, not the open internet. 
+ Scope 
+ Residential support first: the highest volume, the most repetition. 
+ Hosting 
+ All data and models hosted in Canada. That constraint shaped the build. 
+ Where it is running today. In build for Uniserve Communications Corporation, a Canadian ISP and telecom, on a three-month AI enablement engagement. We opened by mapping where support time was going and shortlisting the places AI would actually pay. The customer-facing chatbot and the voice agent are the build that came out of that, and they are being built now. 
+ Audit 
+ Free, before we start 
+ Phase 1 
+ Map where the time goes 
+ Phase 2 
+ Build, then live pilot 
+ Programme 
+ 3 months 
+ Client 
+ Uniserve Communications 
+ Status 
+ In build 
+In build for Uniserve Communications Corporation, a Canadian ISP, on a three-month AI enablement engagement. 
+02 Ticket triage and support automation 
+ In build 
+ What it is. Taking the repeat load off the queue. The questions that arrive dozens of times a week get answered by the assistant, and what is left arrives sorted rather than in a pile. A person reads a short version instead of a thread, and a person still releases anything that goes back to a customer. 
+ What you get. Classification and routing, so the right queue gets the request first time. Repeat questions handled without a person touching them. And an approval gate: no reply reaches a customer without a human clicking. 
+ What it works against 
+ A high volume of repeat customer questions arriving through your support channels. 
+ Where it sits 
+ We build into the tools your team already opens. 
+ Approval gate 
+ Nothing reaches a customer until a person releases it. 
+ Where it is running today. In build on the Uniserve engagement, where the customer-facing chatbot and voice agent take the repeat residential questions before they reach a technician at all. 
+ Audit 
+ Free, before we start 
+ Phase 1 
+ Find the repeat questions 
+ Phase 2 
+ Build, then live pilot 
+ Programme 
+ 3 months 
+ Approval gate 
+ A person, before send 
+ Status 
+ In build 
+The number we are aiming at 
+ Projection 
+Roughly one hour of a technician's time given back per day. At about $40 an hour: 1 hr/day x about 250 working days x $40/hr = about $10,000 per technician per year . It scales with team size. This is our own projection, not a booked result, and it is not a promise of a dollar figure. 
+ FIG. 02 
+ Interface diagram 
+ Ticket path
+ Inbound 
+ Request lands in the support queue
+ -> 
+ Machine 
+ Classified, routed and summarised
+ -> 
+ Draft 
+ Suggested reply, held
+ -> 
+ Gate 
+ Technician approves, then it sends
+INTERFACE DIAGRAM, not a screenshot. The gate is the point: the draft sits until a technician reads it. Nothing irreversible leaves without a person. 
+03 Knowledge and retrieval 
+ In build 
+ What it is. Question and answer over your own documents, with the citation attached. Someone asks what the install policy is on a legacy plan, and the answer comes back with the document it came from, so the answer can be checked in one click. It is the difference between an assistant that sounds right and one you can audit. 
+ What you get. Retrieval question and answer across your own documentation. Citations on every answer. And a clear list of what the assistant has read, so nobody has to guess why it said what it said. 
+ Reads 
+ Your documentation and your policies. Not the open internet. 
+ Every answer carries 
+ The source document, so a person can verify it. 
+ Hosting 
+ Canada only, on the Uniserve programme. 
+ Where it is running today. In build on the Uniserve engagement, part of the same three-month programme, on the same Canadian-hosted infrastructure as the customer-facing assistants. 
+ Audit 
+ Free, before we start 
+ Phase 1 
+ Find the documents that matter 
+ Phase 2 
+ Retrieval, with citations 
+ Programme 
+ 3 months 
+ Hosting 
+ Canada only 
+ Status 
+ In build 
+ 7 x 
+Contacting a web lead within an hour made firms about 7 times more likely to qualify it than waiting an hour longer. Retrieval is how the first reply gets written fast. 
+ Harvard Business Review, The Short Life of Online Sales Leads, 2011 
+04 Custom software and operating systems 
+ Live 
+ Shipped 
+ In build 
+ What it is. When no product on the market fits the way you actually work, we build the system. Not a dashboard bolted onto a spreadsheet: the thing the business runs on. Our own flagship is Fennec, a full operating system for premium nightlife and event venues, and it is the proof that we can carry a build from architecture to production and keep it running. 
+ What you get. Product architecture, then the build, then production. Fennec covers events and floor, ticketing and guests, POS and payments, inventory, staff, media and marketing, and analytics. Inside it, Ferry AI is a coordinated agent network across ops, guests, campaigns, inventory and service, with agents for sales analytics, event management, table and bottle, guestlist and reservations, and promos and insights. A Revenue Copilot reads voids, pricing, promoters and inventory. 
+"Floor plans, reservations, packages and live ops - synced with Square." 
+ Fennec product copy 
+ Smaller builds count too. Palapa Tours Ottawa runs floating tiki-bar cruises. Gratuity splits shifted cruise to cruise, were hard to reconcile fairly, and caused disputes. We built custom tip-out software that calculates, splits and tracks staff gratuities automatically, so payouts are consistent and the arguments stop. That is shipped. 
+ In build right now. B-Side Group is a hospitality group, and we are building them customised inventory management software across three of their restaurant venues. Software of that kind is a stock count per site, one catalogue shared across the venues so an item means the same thing everywhere, the variance between what was bought and what was sold, and reorder points that fire before a line runs dry. That is what is being built. Nothing is delivered yet and we are claiming no result from it. 
+ Where it is running today. Fennec is live at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa, plus 20 or more event companies. The Palapa Tours tip-out software is shipped. The B-Side Group inventory build is open: a stock count per site, one catalogue across the venues, purchased against sold as variance, and reorder points that fire off real consumption. 
+ Stage 1 
+ Audit and architecture 
+ Stage 2 
+ First working surface 
+ Stage 3 
+ Production, then iteration 
+ Fennec 
+ Live 
+ Palapa Tours 
+ Shipped 
+ B-Side Group 
+ In build 
+ Code 
+ Yours 
+ FIG. 03 
+ Fennec, Ferry AI assistant 
+ Ferry AI inside Fennec. The agent roster is the network: each agent owns one part of the venue's operation, and the operator asks in one place instead of opening five modules. 
+ FIG. 04 
+ Fennec, floor plan editor 
+ The operator floor plan editor. Every table carries a label, a section, a capacity, a fee, a shape, a VIP flag and its own QR code, so the room in the software matches the room on the night. 
+Fennec is live at four venues and across 20 or more event companies. The Palapa Tours tip-out build is shipped. 
+ Palapa Tours 
+05 POS, payments and integrations 
+ Live 
+ What it is. Two-way sync with the point of sale you already use. Fennec integrates with Square, Toast and Lightspeed, so nobody rekeys a menu and nobody reconciles two sets of numbers by hand at the end of the night. The rule we work to: one place to edit, everywhere else follows. 
+ What you get. The POS integration itself, and the operational surfaces that depend on it. Live Menu: edit menus once, push everywhere, printed, digital and POS. Bar Management for pours, staffing and POS terminals across every bar. Live Ordering, where a guest scans their table, browses the live menu and reorders without finding a server. 
+ Point of sale 
+ Square, Toast and Lightspeed. 
+ Direction 
+ Two ways. Sales and item counts come in, menus and packages go out. 
+ Smaller scope 
+ A single site and one till, rather than a venue-wide rollout. Your catalogue sets the size of the job. 
+ Where it is running today. Live inside Fennec across the venues in capability 04. Every connector is scoped in the free audit against your own item catalogue, before anything is agreed, because the catalogue and the number of terminals decide the size of the job. 
+ Stage 1 
+ Name systems, set direction 
+ Stage 2 
+ Sync one site, watch a week 
+ Stage 3 
+ Roll out to every terminal 
+ Systems 
+ Square, Toast, Lightspeed 
+ Status 
+ Live in Fennec 
+ FIG. 05 
+ Interface diagram 
+ POS two-way sync
+ Point of sale 
+ Square, Toast or Lightspeed
+ -> 
+ Inbound 
+ Sales, tenders and item counts
+ -> 
+ System of record 
+ Fennec
+ System of record 
+ Fennec
+ -> 
+ Outbound 
+ Live menu, prices and packages
+ -> 
+ Point of sale 
+ Terminals at every bar
+ Sync state 
+ Last sync is shown per bar terminal, so a stalled till is visible before close
+INTERFACE DIAGRAM, not a screenshot. We do not have a capture of the POS routing surface, so this is drawn honestly: two directions, one system of record, and a per-terminal sync state. 
+06 Operational intelligence 
+ Live 
+ What it is. Finding the leak before building anything. Every engagement opens with a free operations audit: we map the process, count the hours, and show the arithmetic first. If the arithmetic does not work, we say so and you keep the map. 
+ What you get. Process maps of how the work actually flows, not how the org chart says it does. A shortlist of where AI would actually pay, scored on return and feasibility. Dashboards that report the number the owner asks about, not forty numbers nobody reads. Inside Fennec that looks like analytics on revenue, attendance, table turnover and promoter performance, a Revenue Loss Calculator that reconciles pours against sales and flags overpours and missing inventory, and a Revenue Copilot reading voids, pricing, promoters and inventory. 
+ Demand side too. Some leaks are not internal. The same discipline applies to the records a business already holds and the outreach it runs off them: get the data into one place instead of several disconnected ones, then plan the campaign against that single set of records rather than a guess, then report on it in numbers the owner can read. ABC, a municipal political party in Vancouver, is the live version of that work. We parse and reconcile the records they hold, score each one for confidence so it is clear what can be relied on, and assist with their targeted marketing campaigns off that reconciled set. We take no position on the party or its politics, and none is implied. 
+ Where it is running today. The audit and the analytics work are live: the Uniserve engagement opened with exactly this, and Fennec's analytics run nightly for its venues. The ABC parsing, reconciliation and campaign marketing support is live. 
+ Week 0 
+ Free operations audit 
+ Stage 1 
+ Process map and hour count 
+ Stage 2 
+ Shortlist where AI pays 
+ Stage 3 
+ Dashboards, agreed numbers 
+ You keep 
+ The map, hired or not 
+ Status 
+ Live 
+ Where operational intelligence runs today. Statuses as at this page, not aspirations. 
+ Client 
+ Scope 
+ Status 
+ Uniserve Communications 
+ Operations audit at the start of the programme: where support time was going, and where AI would actually pay. 
+ In build 
+ Fennec 
+ Venue analytics on revenue, attendance, turnover and promoter performance, plus the Revenue Loss Calculator and the Revenue Copilot. 
+ Live 
+ ABC, Vancouver 
+ Parsing and reconciling the records a municipal political party holds, with confidence scores on what can be relied on, plus support for their targeted marketing campaigns. 
+ Live 
+Risk and data residency 
+Where the data lives, and who has to click 
+Two constraints decide whether a system like this is allowed to exist inside a real company. We treat both as requirements, not preferences. 
+ Residency. On the Uniserve programme, all data and models must be hosted in Canada. That was not a nice-to-have discovered halfway through, it was the constraint that shaped the architecture from the first week, including which platforms were even on the table. If your contracts, your regulator or your customers require the same thing, say so at the audit. It changes what we build, and it is much cheaper to know on day one. 
+ The approval gate. Nothing irreversible sends without a human. A reply to a customer, a proposal, a price, a payout: the system prepares it, a person releases it. That is the gate drawn as the last node in FIG. 02, and it is in every build, not just the ones where a regulator is watching. 
+ Observability. You get to see what the system did and why. Logs of what was asked, what was retrieved, what was drafted, and who approved it. An assistant nobody can audit is an assistant nobody should trust with a customer. 
+ 95 % 
+of enterprise AI pilots show no measurable P&L return. 
+ MIT NANDA, The GenAI Divide, 2025 
+ 80 % 
+More than 80% of AI projects fail, about double the rate of other IT projects. 
+ RAND, 2024 
+We print those two numbers on our own site on purpose. They are the base rate we are working against. Pilots die when nobody can tell whether the thing worked and nobody owns the output. Agreeing the baseline in writing, gating the sends, and logging the decisions is how a build avoids becoming another entry in that 95%. 
+ Data and models 
+ Hosted in Canada 
+ Observability 
+ Logs you can read 
+ Irreversible 
+ Human approval, always 
+ Code ownership 
+ Yours 
+The other list 
+What we do not do 
+Shorter than the capability list, and more useful. If one of these is what you need, we will say so on the audit call and you will not have wasted a month finding out. 
+ 01 
+We do not automate a decision that should stay with a person 
+Pricing, hiring, firing, anything a customer would want a human to have looked at. The software prepares it. Someone releases it. 
+ 02 
+We do not run an account management layer 
+Two founders, direct access. There is no third person to forward your email to, and there is nobody whose job is to summarise you to us. 
+ 03 
+We do not deliver slide decks as the work 
+The audit produces a map with arithmetic on it. After that, the deliverable is software you can open. 
+ 04 
+We do not start with the technology 
+Companies put about 93% of AI budgets into technology and about 7% into the people expected to use it, per Deloitte, 2025. We start with the process and the people who run it. 
+ 05 
+We do not promise a cash refund 
+What we commit to instead: if the system misses the bar we agreed in writing, we keep working at no additional cost until it clears. You can cancel at any time. 
+ 06 
+We do not quote a guaranteed dollar figure 
+The bar and the timeframe are agreed per engagement, and nothing here guarantees a particular dollar amount. Any number we show you is arithmetic from your own inputs, labelled as a projection. 
+ 07 
+We do not move your data somewhere your contract forbids 
+If residency is a requirement, it is an architecture decision made in week one. On the Uniserve programme, data and models stay in Canada. 
+ + 
+ + 3 more things we turn down 
+Start here 
+Start with the audit, not the build 
+Thirty minutes, free, and you keep the map whether or not you hire us. 
+We map where time and money leak in your operation and show you the arithmetic before anyone writes code. If the numbers do not justify a build, that is a useful answer and it costs you nothing. If they do, we agree the baseline in writing, and the clock starts at deployment rather than at signature. 
+ Book a free audit 
+ How we charge 
+ See the work 
+Want to check the arithmetic yourself first? Run your own numbers on the calculator on the charging page , or email shiv@exdsconsulting.com and one of the two of us will reply. 
+ Call length 
+ 30 minutes 
+ Cost 
+ Free 
+ You keep 
+ The map 
+ Who you meet 
+ A founder 
+ Direct 
+ shiv@exdsconsulting.com 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

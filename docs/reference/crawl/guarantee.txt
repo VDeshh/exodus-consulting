@@ -1,0 +1,274 @@
+How we charge: the number is agreed before we build | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+How we charge 
+The bar is signed before a line of code exists, and we work until it clears. 
+We agree the number we are measured against before anything is built. The clock starts the day the system goes live. If it misses the bar, we keep working at no additional cost until it clears. 
+ Book a free audit 
+ Read the terms 
+ Up front 
+ A free operations audit. You keep the arithmetic whether or not you hire us. 
+ Measured from 
+ Deployment, not signature. 
+ Code ownership 
+ Yours, written into the agreement before the build starts. 
+Run your own numbers 
+The number we would be measured against. 
+Put your own headcount, hours and hourly cost in. Whatever this prints is the kind of figure that goes on the signed page, once we have measured it with you rather than guessed it. 
+ FIG. 01 
+ ROI calculator 
+ People doing the manual work 
+ 1 to 50 
+ Hours per person per week 
+ 1 to 40 
+ Average hourly cost 
+ $15 to $200 
+ 864 
+ Hours recovered per year 
+ $34,560 
+ Dollars recovered per year 
+3 people spending 6 hours a week on manual work costs about $34,560 a year. That is 864 hours you could put back on the floor. 
+3 people x 6 hrs/week x 48 weeks = 864 hrs/year
+864 hrs/year x $40/hr = $34,560/year 
+An estimate from numbers you enter, not a promise. 48 working weeks assumed. Your real figure depends on the process we replace. 
+What a real baseline looks like 
+ Projection 
+On the Uniserve engagement the target is roughly 1 hour of a technician's day given back by the customer-facing chatbot and voice agent. One named process, one number, measured the same way before and after. That is the shape of a figure we will sign. 
+1 hr/day x about 250 working days x $40/hr = about $10,000 per technician per year. Scales with team size. This is a projection agreed as a target, not a booked result. 
+Why the calculator is not the guarantee 
+This module runs on numbers you typed. The signed baseline runs on numbers we measured together in the audit, on the process we are actually replacing, using a method we both agreed to before the build. 
+Same arithmetic. Different evidence. Only the measured version goes on the page. 
+The terms 
+Six terms, written down before we build. 
+Most AI work is sold on a promise and invoiced on effort. We would rather be invoiced on a number you signed off on. 
+ 01 
+A signed baseline before any build 
+We measure the process as it runs today and write the numbers down. Hours per week on a named task, requests per month, how long a quote takes. You sign off on the exact figures we are measured against. Nothing is built before that page exists. 
+ 02 
+The clock starts at deployment 
+Not at signature, not at kickoff. The measurement window opens the day the system is in your team's hands and doing real work. Build time is our problem, not yours. 
+ 03 
+If it misses the bar, we keep working at no additional cost 
+Same scope, same team, no new invoice, until the agreed bar clears. That is the whole of the guarantee. We are not offering a cash refund, because a refund pays you for a system that still does not work. 
+ 04 
+Cancel at any time 
+No minimum term and no exit fee. If you want to stop, you stop, and you keep what has been built and delivered to that point. 
+ 05 
+A free operations audit up front 
+Before money changes hands we map where time and money leak across your functions, score the candidates on return and feasibility, and show the arithmetic. You keep that map whether or not you hire us, and it is the document the baseline is built from. 
+ 06 
+You own the code 
+The repository, the data and the deployment are yours. No licence to renegotiate, no hostage fee to leave. Two founders build it and two founders hand it over. 
+The bar and the timeframe are set per engagement, in writing, because a support queue and a multi-site stock count do not move on the same schedule. What never changes is that you set the number with us before the build, and you can read the arithmetic. 
+ Audit 
+ Free, before any contract 
+ Baseline 
+ Signed by you, in writing 
+ Clock starts 
+ At deployment 
+ If it misses 
+ We keep working, no new invoice 
+ Cancellation 
+ Any time 
+ Code 
+ Yours 
+ Bar and timeframe 
+ Agreed per engagement 
+The sequence 
+How the clock actually runs. 
+Five steps. Nothing is built until you have signed the number it will be measured against. 
+ 1 
+Free operations audit 
+ Week 0, no cost 
+We sit with the people doing the work, map where the hours go, and score the candidates on return and feasibility. You leave with the map either way. 
+ 2 
+Baseline signed 
+ Before any build 
+One page: the process, the current numbers, the bar, the timeframe, and how we will measure it. Both names on it. This is the document the guarantee is enforced against. 
+ 3 
+Narrow build 
+ Scoped tight on purpose 
+We build the two or three things that move the signed number, not a platform. Uniserve's programme runs three months, and the customer-facing chatbot and voice agent are in build now. 
+ 4 
+Deployment. The clock starts. 
+ Day 1 of the window 
+Live, in your team's hands, on your real workflow. This is the day the clock starts, not the day you signed. 
+ 5 
+Measure against the signed page 
+ End of the agreed window 
+Same method, same process, arithmetic printed. The fee is the fixed one quoted before the build. If the bar has not cleared, we keep working at no additional cost until it does. 
+Why we can offer it 
+Most AI spending fails. We priced for that. 
+These are the published numbers on the industry we work in. They are the reason a guarantee is worth anything, and the reason ours is narrow. 
+ 95 % 
+of enterprise AI pilots show no measurable P&L return. 
+ MIT NANDA, The GenAI Divide, 2025 
+ 80 %+ 
+of AI projects fail, about double the failure rate of other IT projects. 
+ RAND, 2024 
+ 93 % 
+of AI budgets go to technology and about 7% to the people expected to use it. 
+ Deloitte, 2025 
+ Who carries the risk 
+ We do, until the bar clears 
+ So the scope is 
+ Narrow, two or three problems 
+ And the order is 
+ Measure, then build 
+Read those three numbers together and the failure is not the technology. It is scope set too wide to measure and adoption nobody paid for. Deloitte's split is the tell: money on the tool, almost nothing on the people who have to use it. 
+Carrying the risk changes how we work. If we are on the hook to keep working until the number moves, we cannot afford a twelve-month platform with a vague benefit. So we scope narrowly, pick the two or three problems with the clearest arithmetic, and measure the process before we write code. That is also why the audit is free: it is how we decide whether we can stand behind a number at all. Sometimes the honest answer after an audit is that the leak is a process problem, not a software problem. 
+Two founders do the work, so there is nobody to hand the risk to. Shiv and Vishal built Fennec, which runs live across Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa and 20+ event companies, and shipped the tip-out software that ended gratuity disputes at Palapa Tours. When the bar is missed, the people who built it are the people who come back. 
+What we need from you 
+Three things, and they are the whole ask. 
+The guarantee only works if the baseline is real. These are the conditions that make it real. 
+01. Access to the real workflow 
+Time with the people who actually do the task, and a look at the system they do it in. Not a description of the process in a meeting. The Uniserve plan exists because we sat with the work itself, function by function. 
+A sanitised version of the work is a guess, and we cannot guarantee a guess. 
+02. One decision-maker 
+One person who can approve the baseline, settle a scope question in a day, and say no. Owner-led businesses are our whole practice because that person is usually in the room already. 
+No account managers on our side. We ask for the same on yours. 
+03. Agreement on the baseline 
+You read the numbers, you challenge them, and then you sign them. If we cannot agree what today looks like, there is nothing to measure and we will say so before you spend anything. 
+Also worth naming: real constraints, early. Uniserve's data and models all have to be hosted in Canada, and that shaped the build from day one. 
+Questions we get asked 
+The awkward questions, answered. 
+If a term below is not clear enough to hold up in a disagreement, tell us and we will rewrite it. 
+ FIG. 02 
+ Terms and conditions, expandable 
+ What exactly counts as the baseline? 
+ + 
+A named process, its current numbers, and the method we will use to read those numbers again later. Hours per person per week on a specific task. Requests per month, and how many of them repeat. Days to turn a site visit into a quote. Whatever the process actually produces, counted the way your systems already count it. 
+It is one page, it is written before anything is built, and you sign it. The bar and the timeframe sit on that same page and are set per engagement. 
+ What if the business changes during the build? 
+ + 
+It happens. Volume doubles, a location opens, a team shrinks. When the underlying volume moves materially, we re-measure the same process with the same method and write the change down, with the reason, next to the original figure. 
+The rule is that the bar never moves quietly and never moves in only one direction. If your volume tripled, the honest baseline is the new one. If it halved, that is on the page too. 
+ What if we disagree on the numbers at the end? 
+ + 
+This is what the method clause is for. Because we agreed how to measure before deployment, a disagreement is about arithmetic rather than opinion, and arithmetic can be re-run. We re-run it, in front of you, from your own data. 
+If you still think the bar was missed, the guarantee applies: we keep working at no additional cost. And you can cancel at any time, so you are never arguing from a locked-in position. 
+ Who owns the code? 
+ + 
+You do. The repository, the data and the deployment are yours, and it is written into the agreement before anything is built. 
+Where a build sits on a partner platform we name it plainly at the start. On the Uniserve programme, all data and models are hosted in Canada, and that requirement decided which platforms were on the table at all. You will always know what you own outright and what you are running on. 
+ What happens after the bar clears? 
+ + 
+Your choice, and there is no default that quietly renews. You can take the code and run it in-house, since you own it. You can keep us on a defined next scope with its own signed baseline. Or you can stop, and we hand over documentation and access. 
+Palapa Tours is the shipped version of that: the tip-out software calculates, splits and tracks staff gratuities, the disputes stopped, and the tool keeps running without us standing over it. 
+ What does it cost if it works? 
+ + 
+A fixed fee, quoted in writing before the build, on the same page as the baseline. No hourly billing, no change-order drip, and no percentage of a number we calculated ourselves. 
+We quote in plain figures, and the figure sits in the agreement next to the baseline it will be measured against, before the build starts. We do not publish client fees and we do not publish pricing tiers, because a tier is a guess at your problem. Yours comes out of the free audit, in writing, and you can read the arithmetic behind it. 
+Start with the audit 
+Get the arithmetic first. Decide after. 
+Thirty minutes with the two people who would do the work. You leave with where the hours go and what it would take to get them back, whether or not you hire us. 
+ Book a free audit 
+ Send us the problem 
+The plain version of the qualifier: the bar and the timeframe are agreed per engagement, in writing, before anything is built. Nothing on this page guarantees a particular dollar amount, a multiple, or a cash refund. What is guaranteed is that if the system misses the bar you signed off on, we keep working at no additional cost until it clears, you can cancel at any time, and you own the code either way. 
+shiv@exdsconsulting.com 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

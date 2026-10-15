@@ -1,0 +1,282 @@
+Ticketing and guests | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+ Ticketing and guests 
+Fennec module 02 
+One guest identity, from the first ticket to the fifth visit. 
+Most venues know how many tickets they sold and almost nothing about who bought them. Eight modules keep one profile per guest, across every event and every venue on the network, and the scanner at the door reads against the same record the promoter sold from. 
+ Book a free audit 
+ Read the Fennec case study 
+ Live 
+ Family 
+ 02 of 07, Ticketing and guests 
+ Modules 
+ 8 
+ Product 
+ Fennec, fennecapp.com 
+ Guest identity 
+ Fennec Pass, one QR across every venue 
+The modules 
+Eight modules, quoted word for word. 
+The lines in quotation marks are Fennec's own product copy from fennecapp.com. Where we add anything, we say it is ours. Every module below is in service tonight, not on a roadmap. 
+ 01 
+Ticketing 
+"Sell tickets, import guestlists, and check guests in with a scanner." 
+ 02 
+Promoter Portal 
+"Dedicated promoter dashboards with personal links, guestlist tools, promo codes." 
+ 03 
+Guest CRM 
+"Unified guest profiles with spend history, preferences, and segments." 
+ 04 
+Guest Management 
+"Manage every guest interaction - RSVPs, comps, plus-ones and birthdays." 
+ 05 
+Loyalty 
+"Configure tiers, points and perks once - issue passes across every venue." 
+ 06 
+Fennec Pass 
+"A guest's universal nightlife identity - tickets, table bookings, loyalty tiers." 
+ 07 
+Discover Events 
+"A guest-facing feed of every event across the Fennec network." 
+ 08 
+Live Ordering 
+"Guests scan their table, browse the live menu, and reorder." 
+ Runs at 
+ Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa 
+ Also 
+ 20+ event companies 
+ What we built 
+ One event record, two faces: operator builder and public page 
+ Door 
+ Scanner reads the same record the promoter sold from 
+ Status 
+ Live 
+Four surfaces, one record 
+The operator builds it once. Three guest surfaces read it. 
+Step through the four screens below. The same event record that the operator types into is the page a guest lands on, the entry in the network feed, and the ticket sitting in a member's pass. 
+ FIG. 01 
+ Feature scroller, four ticketing surfaces 
+Scroll or select a surface 
+ < 
+ > 
+ 01 
+ Event builder 
+ 02 
+ Public event page 
+ 03 
+ Discover Events 
+ 04 
+ Fennec Pass 
+ Operator event builder. Poster, slug, venue, schedule, guestlist scan cutoff, age restriction and public listing, with the customer view previewed on a phone while you type. 
+Ticketing 
+"Sell tickets, import guestlists, and check guests in with a scanner." 
+One record holds the event. The scanner at the door reads against the same record the promoter sold from, so a guestlist import does not become a second source of truth. 
+Live across 20+ event companies 
+ The public side of the same event: date, age limit, venue address, presenter, share actions, and two ways to commit. 
+Public event page 
+The guest-facing face of the event record. Our words, not a product line. 
+Reserve a table or join the guestlist, from the page the operator just built. Nothing is retyped into a second tool, which is why the address on the page is never last season's address. 
+Live across the Fennec venue network 
+ A featured event above a grid of what is coming up, assembled from every venue on the network rather than one venue's calendar. 
+Discover Events 
+"A guest-facing feed of every event across the Fennec network." 
+A venue that joins the network inherits an audience already inside the app. The feed is the reason a guest who came for one room finds the next one. 
+Network wide 
+ The guest's own profile: upcoming tickets, table and guestlist counts, a next-up countdown, the Pass QR they enter with, and a city feed underneath. 
+Fennec Pass 
+"A guest's universal nightlife identity - tickets, table bookings, loyalty tiers." 
+One QR, every venue. Loyalty is configured once and the passes issue themselves, so a tier earned at one room is recognised at the next. 
+Live across the Fennec venue network 
+The night in order 
+Six steps, one profile, no retyping. 
+This is the path a guest actually walks. Each step writes to the same guest record, which is the only reason the venue still knows who that person is a month later. 
+ 1 
+The event goes up 
+ Operator, once 
+Poster, slug, venue, schedule, age restriction and the guestlist scan cutoff go in once, in the event builder, with the customer view previewed alongside. 
+ 2 
+Promoters get their own link 
+ Promoter Portal 
+Dedicated dashboards, personal links, guestlist tools and promo codes. Sales are attributed to the person who made them instead of being argued about on Monday. 
+ 3 
+The guest commits 
+ Public event page 
+A ticket, a table reservation or a guestlist request, taken on the page the operator just built. RSVPs, comps, plus-ones and birthdays are handled in Guest Management rather than in a group chat. 
+ 4 
+The door scans 
+ Night of 
+The scanner reads against the same event record. An imported guestlist and a sold ticket check in through one queue, so the count at the door matches the count in the office. 
+ 5 
+The table reorders 
+ Live Ordering 
+Guests scan their table, browse the live menu, and reorder. Spend lands on the guest profile as it happens instead of being reconstructed from a stack of receipts. 
+ 6 
+The profile keeps 
+ Guest CRM and Loyalty 
+Spend history, preferences and segments sit on one profile. Tiers, points and perks are configured once, and the pass a guest earned at one room is recognised at the next. 
+What it replaces 
+ Before 
+ A ticketing site, a spreadsheet guestlist, a promoter's phone, a clipboard at the door 
+ After 
+ One event record and one guest profile 
+ Audience source 
+ Guest CRM, not an export 
+ Status 
+ Live 
+The cost of four tools is the guest you never recognise again. 
+Every handoff between tools is a place a name gets dropped. The venue ends the night with a revenue figure and no idea which of those people had been in three times before. 
+Promoter Portal 
+ Live 
+"Dedicated promoter dashboards with personal links, guestlist tools, promo codes." Each promoter sees their own numbers, and the venue sees all of them in one place. 
+Guest CRM and Guest Management 
+ Live 
+"Unified guest profiles with spend history, preferences, and segments", plus every interaction: "RSVPs, comps, plus-ones and birthdays." 
+Loyalty and Fennec Pass 
+ Live 
+"Configure tiers, points and perks once - issue passes across every venue." The Pass is the guest's side of that: "tickets, table bookings, loyalty tiers." 
+Discover Events and Live Ordering 
+ Live 
+A network feed brings guests in, and "guests scan their table, browse the live menu, and reorder" once they are seated, so spend and identity stay attached. 
+A guest's universal nightlife identity - tickets, table bookings, loyalty tiers. 
+ Fennec product copy, fennecapp.com 
+ 7 x 
+more likely to qualify a web lead when it was contacted within an hour rather than an hour later. A table request is inbound demand, and it goes cold the same way. 
+ Harvard Business Review, The Short Life of Online Sales Leads, 2011. A finding about web sales leads, applied here by analogy. 
+Beyond nightlife 
+An event page is a booking funnel with a scanner at the end. 
+This family is shaped like a nightclub because that is the room it was built in. The parts underneath are not. A guest profile is a customer record. A promoter link is an attributed sales channel. A loyalty tier is a retention programme. A scanner at the door is admission control for anything with a gate. 
+We start with a free operations audit, agree the baseline in writing before anything is built, and you own the code. See how we charge . 
+ Book a free audit 
+ The Fennec case study 
+ Back to the Fennec study 
+ 4 
+named venues running Fennec: Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa. 
+ Fennec deployment list 
+ 20 + 
+event companies selling and scanning through the same ticketing modules. 
+ Fennec deployment list 
+Keep reading 
+Where to go next 
+Back up 
+Fennec, the case study 
+The flagship engagement this module sits inside: four named venues, 20+ event companies, and the surfaces an owner sees first. 
+ Read the study -> 
+Previous module 
+Events and floor ops 
+Another part of the same system, in the same detail. 
+ Go back -> 
+Next module 
+POS and payments 
+Keep walking the system in order. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

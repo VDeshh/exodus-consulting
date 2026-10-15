@@ -1,0 +1,243 @@
+About Exodus Consulting: two founders, direct access 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+About 
+exodus 
+A mass departure. A movement of people leaving one place to begin something new. 
+ Definition, and the brief we set ourselves 
+We named the company after the moment a business decides to stop running the old way. Then we build the thing it runs on next. 
+ Book a free audit 
+ See the work 
+ Pronounced 
+ /'eksedes/ 
+ Part of speech 
+ noun 
+ Founders 
+ 2 
+ Account managers 
+ 0 
+ Where 
+ Canada, UK 
+ Base 
+ Vancouver, BC 
+Who you work with 
+Two founders. Nobody in between. 
+One of us designs it, one of us builds it, and both of us are in the room. There is no third layer to brief. 
+ FIG. 01 
+ Founders 
+Shiv Lohia 
+ Co-Founder 
+Shiv studied how people behave and how companies make money, then spent his career on the place those two meet. He studied Psychology as an undergraduate and holds a Master of Management from UBC. At Apply Digital he designed user experiences for large clients, including the Harvard Business School site. He co-founded Fennec, the nightlife and events operating system that is now live across four venues and more than 20 event companies. On an Exodus engagement he works the front half: sitting with the owner, watching the process as it actually happens, and writing the numbers down before a line of code exists. 
+BA Psychology, UBC 
+Master of Management, UBC 
+Co-founder, Fennec 
+Apply Digital: Harvard Business School site 
+shiv@exdsconsulting.com 
+ LinkedIn 
+Vishal Desh 
+ Co-Founder 
+Vishal is the engineer. Computer Science plus a Master of Management from UBC, and a working stack of Python, AWS and Azure. He co-founded Fennec with Shiv and architected its core and its Ferry AI agent network, which coordinates agents across operations, guests, campaigns, inventory and service. On an Exodus engagement he owns the build: the data layer, the models, the hosting constraints, and the part where the system has to keep working on a Saturday night. 
+Computer Science, UBC 
+Master of Management, UBC 
+Python, AWS, Azure 
+Co-founder, Fennec 
+Architect, Fennec core + Ferry AI 
+vish@exdsconsulting.com 
+ LinkedIn 
+How we work 
+We sit with the team, learn how the business runs, then build. 
+Six rules. They are the reason a two-person firm can outrun a bigger one on an owner-led engagement. 
+ 01 
+Two founders on every engagement 
+The people who scope the work are the people who ship it. Nothing is handed down after the first meeting. 
+ 02 
+Direct access 
+You email us and you get us. One address, no ticket queue, no intake form standing between a question and an answer. 
+ 03 
+No account managers 
+Nobody bills you to relay a message. The status update comes from the person who did the work that week. 
+ 04 
+No juniors on your budget 
+Your engagement is not somebody's training ground. If it gets built, one of the two of us built it. 
+ 05 
+No deck-only strategy 
+A slide is not a system. Every engagement ends in software that runs, and you own the code. 
+ 06 
+We learn the business first 
+We sit with the team that does the work, watch the process at the speed it really happens, and map where time and money leak. The build starts after that, not before. 
+Before you sign 
+The five questions owners ask us first. 
+Open any of them. The answers are the same ones we give on the call. 
+ FIG. 02 
+ Working questions 
+ What happens in the free audit? 
+ + 
+We map where time and money leak, then show the arithmetic. You keep the map whether or not you hire us. Nothing is built at this stage and nothing is charged for it. 
+ Who owns the code? 
+ + 
+You do. It is written into the agreement before anything is built. 
+ What are you measured against, and when does the clock start? 
+ + 
+We agree the baseline in writing before anything is built, and you sign off on the exact numbers we are measured against. The clock starts at deployment, not at signature. If the system misses the agreed bar, we keep working at no additional cost until it clears. You can cancel at any time. 
+The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. The full version is on how we charge . 
+ Can you work inside our data rules? 
+ + 
+Constraints come first, because they decide the architecture. Uniserve required every model and every byte hosted in Canada, so that requirement shaped the build before a line of it was written. Bring us your hosting and data-residency rules at the start and we design to them. 
+ Are we too small for this? 
+ + 
+Owner-led is the whole point. Our clients run from a multi-venue restaurant group to a Canadian internet and telecom provider. What they share is an owner who can make a decision in one meeting. 
+The gap 
+The technology was the easy part. The gap is people. 
+Models are cheap to buy and hard to adopt. The money goes to the software; the staff who have to use it on a live shift get whatever is left. 
+ 93 % 
+of AI budgets go to technology. 
+ Deloitte, 2025 
+ 7 % 
+goes to the people expected to use it. 
+ Deloitte, 2025 
+That second number is where engagements die. So the first week of ours is spent on the floor, not in a repository: we learn the job as the team does it, in their words, on their screens. Then we build the thing that removes the part they hate, and we stay until they use it without us. 
+Where we work 
+Owner-led clients across three sectors. 
+Hospitality, telecom and municipal politics. Every status below is stated plainly, live, shipped or still in build. 
+Hospitality, nightlife and events 
+ Live 
+Fennec is a full operating system for premium nightlife and event venues: floor plans, reservations, ticketing, bottle service, inventory and live ops, synced with Square. It runs at Harbour Event Centre, TradeX, The Pit UBC and The Show Ottawa, plus more than 20 event companies. Palapa Tours in Ottawa runs floating tiki-bar cruises, where gratuity splits shifted cruise to cruise and caused disputes; we built and shipped tip-out software that calculates, splits and tracks the payouts. B-Side Group is a hospitality group, and we are building them customised inventory management software across three of their restaurant venues: a stock count per site, one catalogue across the venues, the variance between what was bought and what was sold, and reorder points. That one is in build, not delivered, and we are claiming no result from it yet. 
+Fennec, live. Palapa Tours, shipped. B-Side Group, in build. 
+Telecom and internet 
+ In build 
+Uniserve Communications Corporation is a Canadian internet and telecom provider. A high volume of repeat customer questions was arriving through their support channels, so we are building them a customer-facing AI chatbot and a voice agent for residential customer support. It is a three-month AI enablement engagement, now in build. Every model and every byte stays hosted in Canada. 
+Uniserve Communications Corporation, in build. 
+Political and campaign organisations 
+ Live 
+ABC is a municipal political party in Vancouver. We parse and reconcile the records they already hold, matching them across sources and producing confidence scores so it is clear which records stand up, and we assist with their targeted marketing campaigns off the back of that reconciled set. That work is live. We take no position on the party or its politics, and none is implied by the engagement: the work is data parsing, reconciliation and campaign marketing support. 
+ABC, Vancouver, live. 
+ Sectors 
+ 3 
+ Engagements 
+ 5 
+ Live product 
+ Fennec 
+ Client type 
+ Owner-led 
+ Base 
+ Vancouver, BC 
+Five engagements and the venues Fennec runs in: two live, one shipped, two in build. 
+ Palapa Tours 
+ ABC Vancouver 
+Next step 
+Start with the free audit. 
+Thirty minutes with both founders. We map where the time and the money leak, show you the arithmetic, and you keep the map whether or not you hire us. 
+ Book a free audit 
+ Send us the problem instead 
+ Direct 
+ shiv@exdsconsulting.com 
+ Instagram 
+ @exodus_consulting_ 
+ Base 
+ Vancouver, BC. Clients in Canada and the United Kingdom. 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

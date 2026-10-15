@@ -1,0 +1,322 @@
+Inventory, loss prevention and staff payouts | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+ Inventory and staff 
+Families 04 and 05 
+Count the stock. Reconcile the pour. Split the tips. 
+Two families sit on the same arithmetic. One counts what left the bottle and compares it against what was sold. The other takes the pooled gratuity and divides it by rules that were agreed before the shift started. Both exist because a venue lost an argument it could not settle with a spreadsheet. 
+ Book a free audit 
+ Back to the Fennec study 
+ Live Shipped 
+ Product 
+ Fennec, fennecapp.com 
+ Family 04 
+ Inventory and loss prevention, five modules 
+ Family 05 
+ Staff and payouts, one module plus one standalone build 
+ Standalone build 
+ Tip-out software, Palapa Tours Ottawa 
+ Counted at 
+ Every bar, storage room and floor 
+Family 04 
+Inventory and loss prevention 
+A bar that counts once a month finds out about a bad pour four weeks late. Five modules count where the liquor actually sits, then reconcile what was poured against what was sold. 
+ 01 
+Inventory Dashboard 
+"Live stock counts across every bar, storage room and floor." One screen answers the question a manager otherwise walks the building to answer. 
+ 02 
+Live Menu 
+"Edit menus once, push everywhere - printed, digital and POS." One edit, three surfaces, so the price on the table matches the price on the terminal. 
+ 03 
+Stock Room 
+"Counted, photographed and reconciled." The photograph is the part staff argue with least, because the count carries its own evidence. 
+ 04 
+In-Bar Inventory 
+"Each bar gets its own running count of bottles and kegs." A variance then points at a room rather than at the building. 
+ 05 
+Revenue Loss Calculator 
+"Reconcile pours vs sales, flag overpours and missing inventory." The flag is the whole point: it names the product and the bar while the night is still recent. 
+ Counted at 
+ Every bar, storage room and floor 
+ What we built 
+ Products, sessions, variance, reorder and POS routing 
+ Flags 
+ Overpours and missing inventory 
+ Menu edits 
+ Once, then printed, digital and POS 
+ Module quotes 
+ fennecapp.com, word for word 
+ Status 
+ Live 
+ FIG. 01 
+ Interface diagram, poured against sold 
+ Revenue loss calculator
+ Counted 
+ In-bar and stock room
+ -> 
+ Compared against 
+ Closed tabs from the POS
+ -> 
+ Output 
+ Variance per product, per bar
+ Poured against sold by product, one session. Structural placeholders drawn for this diagram, not any venue's figures. 
+ Product 
+ Poured 
+ Sold 
+ Variance 
+ State 
+ Vodka, 750 ml 
+ 41 oz 
+ 38 oz 
+ +3 oz 
+ Flagged, overpour 
+ Tequila, 750 ml 
+ 26 oz 
+ 26 oz 
+ 0 oz 
+ Reconciled 
+ House gin, 1 L 
+ 54 oz 
+ 54 oz 
+ 0 oz 
+ Reconciled 
+ IPA keg, 50 L 
+ 96 pt 
+ 96 pt 
+ 0 pt 
+ Reconciled 
+INTERFACE DIAGRAM, not a screenshot. One flagged row is the point: the module is quoted as "reconcile pours vs sales, flag overpours and missing inventory", and a flag on Saturday morning is worth more than a spreadsheet at month end. Every figure above is a structural placeholder. No venue's counts, no savings claimed. 
+What the count depends on 
+A variance report is only as honest as the item list under it. 
+Poured against sold is a subtraction, and it fails the moment the two sides are describing different things. So the catalogue comes first: every item, price, modifier and tax code already on the terminals gets listed and compared against the menu the venue thinks it sells. Then each object gets exactly one owner, which is the decision that prevents two prices for one bottle. 
+Menus, prices and packages push out of Fennec. Closed tabs pull back in. That routing lives in POS and payments , and it is why the count can be trusted at all. 
+"Floor plans, reservations, packages and live ops - synced with Square." 
+ Fennec product copy, fennecapp.com 
+ Pours off sales 
+ Revenue Loss Calculator 
+ Two systems, one bar 
+ Two-way POS sync 
+ Connects to 
+ Square, Toast, Lightspeed 
+ Gratuity disputes 
+ Tip-out engine, Palapa Tours 
+ New hardware 
+ None on the counter 
+Family 05 
+Staff and payouts 
+Schedules and permissions are table stakes. The part that stops arguments is the payout arithmetic, which we have now built twice: once inside Fennec, once as standalone software for a cruise operator. 
+ 01 
+Staff Management 
+"Schedules, clock-in, role permissions, and tip distribution." Four jobs in one module, and the last one is the one people check twice. 
+ 02 
+Tip-out engine, Palapa Tours Ottawa Shipped 
+Custom software, not a Fennec module. Palapa Tours runs floating tiki-bar cruises, and gratuity splits shifted cruise to cruise, which made them hard to reconcile fairly and caused disputes. We built software that calculates, splits and tracks staff gratuities automatically, so payouts stay consistent and the disputes stop. Read the Palapa Tours case study . 
+ Inside Fennec 
+ Schedules, clock-in, role permissions, tip distribution 
+ Standalone client 
+ Palapa Tours Ottawa 
+ Business 
+ Floating tiki-bar cruises 
+ Problem 
+ Tip-out variance cruise to cruise 
+ What we built 
+ Automatic calculation, split and tracking 
+ Status 
+ Shipped 
+ FIG. 02 
+ Interface diagram, tip-out split 
+ Tip-out split
+ Input 
+ Pooled gratuity for the shift
+ -> 
+ Rules 
+ Share per role, agreed in advance
+ -> 
+ Output 
+ Payout per person, on the record
+ One shift, one pool, one set of rules. Structural placeholders drawn for this diagram, not any operator's splits. 
+ Role 
+ On shift 
+ Share 
+ Payout 
+ State 
+ Bartenders 
+ 4 
+ 45% 
+ 45% of pool 
+ Locked 
+ Servers 
+ 3 
+ 30% 
+ 30% of pool 
+ Locked 
+ Barback 
+ 1 
+ 10% 
+ 10% of pool 
+ Locked 
+ Host 
+ 1 
+ 8% 
+ 8% of pool 
+ Locked 
+ Galley 
+ 1 
+ 7% 
+ 7% of pool 
+ Locked 
+ Pool 
+ 10 
+ 100% 
+ Balanced to zero 
+ Closed 
+INTERFACE DIAGRAM, not a screenshot. The rules are set once, the arithmetic runs every shift, and every row is on the record afterwards. Role names and percentages here are structural placeholders: real splits are the operator's own. This is the mechanism behind the Palapa Tours build, described on the Palapa Tours case study . 
+Both parts get rebuilt for rooms that are not bars 
+These two families are shaped like a nightclub because that is the room they were built in. The parts underneath are not. A variance table is loss prevention for anything with stock on a shelf. A tip-out split is a payout engine for anything that pools money and divides it by rule. 
+The variance table 
+Counted stock on one side, recorded sales on the other, and a flag where the two disagree. It needs a product list, a count and a sales feed. Any of those can come from a POS, a warehouse system or a spreadsheet we replace. 
+ Inside Fennec 
+ Revenue Loss Calculator, live across the venues running Fennec. 
+The payout engine 
+ Shipped 
+A pool, a rule set per role, and a record of every division. Palapa Tours Ottawa took this part on its own, for floating tiki-bar cruises, and the gratuity disputes stopped. 
+ Standalone 
+ Custom tip-out software, built for one operator, not a Fennec module. 
+If a count or a split is currently settled by argument in your business, that is the thing to bring to the audit. We agree the baseline in writing before anything is built. 
+Start with the count 
+Bring us the number nobody can explain. 
+The free operations audit maps where time and money leak, then shows the arithmetic. We agree the bar in writing before anything is built, the clock starts at deployment rather than at signature, and if the system misses the agreed bar we keep working at no additional cost until it clears. Cancel any time. You own the code. 
+ Book a free audit 
+ How we charge 
+ The tip-out build 
+ Audit 
+ Free, and you keep the map 
+ Baseline 
+ Agreed in writing, per engagement 
+ Code 
+ Yours 
+ Direct 
+ shiv@exdsconsulting.com 
+Keep reading 
+Where to go next 
+Back up 
+Fennec, the case study 
+The flagship engagement this module sits inside: four named venues, 20+ event companies, and the surfaces an owner sees first. 
+ Read the study -> 
+Previous module 
+POS and payments 
+Another part of the same system, in the same detail. 
+ Go back -> 
+Next module 
+Media and intelligence 
+Keep walking the system in order. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

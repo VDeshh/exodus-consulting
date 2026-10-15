@@ -1,0 +1,247 @@
+Palapa Tours Ottawa: custom tip-out software, shipped | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Palapa Tours 
+Case study 03 
+Palapa Tours Ottawa 
+Floating tiki-bar cruises with a small crew and a different set of staff on every sailing. The problem was never revenue. It was the tip-out, and it was argued over after the boat came in. 
+ Shipped 
+ Ottawa 
+ Custom software 
+ Book a free audit 
+ What we built 
+Engagement facts 
+ Client Palapa Tours Ottawa 
+ Sector Floating tiki-bar cruises 
+ Status Shipped, engagement closed 
+ Built Custom tip-out software that calculates, splits and tracks staff gratuities automatically 
+ Stack Custom build, owned by the client 
+ Problem solved Tip-out variance and payout disputes 
+The business 
+A bar that floats, with a new crew on every sailing. 
+Palapa Tours runs floating tiki-bar cruises in Ottawa. Each sailing is its own shift: guests board, the bar serves, the deck works the room, the boat comes back, and the crew is paid out before everyone goes home. 
+Cash and card sit side by side, and the roster is not the same twice. That is a normal way to run a small hospitality operation. It is also the exact condition under which a hand-worked tip-out starts to drift. 
+What made it awkward 
+A short, intense shift, a mixed payment mix, and a roster that changes cruise to cruise. Nothing about that is unusual. All of it makes a manual split harder to repeat. 
+Why it mattered 
+Tip-out is take-home pay. When the number moves and nobody can say why, the argument is not about arithmetic any more. It is about trust between the people on the boat. 
+Shipped and closed: custom tip-out software for Palapa Tours Ottawa. 
+ Palapa Tours Ottawa 
+ Where Ottawa 
+ Format Floating tiki-bar cruises 
+ Shift unit One cruise 
+ Payment mix Cash and card together 
+ Roster Changes sailing to sailing 
+The problem 
+A split that changes depending on who does the arithmetic is a split nobody trusts. 
+Gratuity splits shifted cruise to cruise and were hard to reconcile fairly. The rules existed in someone's head, the totals were worked out after a long shift, and the result was disputes among staff over what each person was owed. 
+ 01 
+The split moved between sailings 
+Different crew, different mix of roles, different judgement calls. The same shift on two nights could produce two different shapes of payout. 
+ 02 
+Reconciling it fairly was hard work 
+Totalling gratuities across cash and card, then dividing them by role, was manual arithmetic done at the end of a shift by someone who wanted to go home. 
+ 03 
+There was no record to point at 
+Without a stored calculation per cruise, a question about last weekend could not be answered. It could only be re-argued. 
+ 04 
+So the crew argued about pay 
+That was the real cost. Not a line on a P&L, but disputes among staff on a small team where everyone works the same deck next weekend. 
+The fix was not a bigger spreadsheet. It was making the rule the only thing that decides the number. 
+ Exodus Consulting, on the Palapa Tours build 
+What we built 
+Custom tip-out software that calculates, splits and tracks the gratuities. 
+We built a small piece of software that does one job properly. The cruise closes, the gratuity pool is totalled, the split rules the operator set are applied, and every staff member's payout is written down and kept. 
+The rules are set once instead of being re-decided at the end of each sailing. The arithmetic runs the same way every time, so the number is the same number no matter who is looking at it. Nobody has to remember what was agreed last month. 
+The engagement is closed. The software shipped, it is in Palapa's hands, and they own it. 
+ Calculates 
+ Totals the gratuity pool for the sailing once the cruise closes. 
+ Splits 
+ Applies the operator's own split rules by role, set once rather than argued per shift. 
+ Tracks 
+ Records the payout per staff member per cruise, so a question about a past sailing has an answer. 
+ Ownership 
+ Custom build, delivered to the client. They own the code. 
+How the split runs 
+We have no capture of this surface to show, so the plate below is drawn, not photographed. It shows the shape of the calculation. The role names and the percentages are placeholders standing in for whatever rules an operator sets, not Palapa's figures. 
+ FIG. 01 
+ Interface diagram 
+ Tip-out split
+ Input Cruise closes, sales and gratuities totalled
+ -> 
+ Pool One gratuity pool for the sailing
+ -> 
+ Rules Fixed split by role, set once
+ -> 
+ Output Tracked payout per staff member
+ Placeholder roles and percentages. The real split is whatever the operator sets. 
+ Role on the sailing 
+ Share of pool 
+ Recorded 
+ Bar 
+ 40% 
+ Logged per cruise 
+ Deck and service 
+ 35% 
+ Logged per cruise 
+ Captain and helm 
+ 15% 
+ Logged per cruise 
+ Dock and turnaround 
+ 10% 
+ Logged per cruise 
+INTERFACE DIAGRAM, not a screenshot. It illustrates the calculation the shipped software performs. The role names and the percentages are placeholders, not Palapa's figures. 
+ Type Custom software, single purpose 
+ Job Calculate, split and track staff gratuities 
+ Unit of work One cruise 
+ Rules Set once by the operator, applied automatically 
+ Record Payout tracked per staff member 
+ Evidence shown Interface diagram, no screenshot exists 
+The outcome 
+Consistent payouts, a visible rule, and the disputes gone. 
+This is what the engagement delivered, stated at exactly its size. Payouts came out consistent because the same rules ran on every cruise, the calculation was recorded rather than remembered, and the arguments about the tip-out stopped. We do not have a revenue figure or a percentage from Palapa, so we are not printing one. 
+Consistent 
+ Shipped 
+One set of split rules, applied the same way on every sailing. The payout stopped depending on who worked it out or how late it was. 
+Transparent 
+ Shipped 
+Every cruise leaves a tracked payout per staff member. A crew member asking why their number looks like that can be shown the calculation instead of an opinion. 
+Disputes removed 
+ Shipped 
+The reason the disputes existed was variance. With the variance gone, the argument had nothing left to be about. 
+What we are not claiming 
+No dollar figure, no percentage, no hours-saved number. Palapa did not give us one and we will not invent one. The result here is a process that is consistent and a payout that is trusted. 
+What happens next 
+Small builds count. This one was one file of arithmetic done properly. 
+If something in your operation produces a different answer depending on who works it out, that is the same problem in a different room. The free audit maps where it leaks and prints the arithmetic before you commit to anything. 
+We agree the baseline in writing before anything is built, the clock starts at deployment rather than signature, and you own the code. The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then the rest of our work . 
+Keep reading 
+Where to go next 
+Related module 
+Inventory and staff 
+Poured versus sold variance and tip-out splits, both drawn as interface diagrams. 
+ Read the family -> 
+Back up 
+All case studies 
+Five engagements: two live, one shipped and two in build, each with its status, its constraint and its arithmetic. 
+ Back to the index -> 
+Next case study 
+Current engagements 
+ABC live and B-Side Group in build, each at its real status. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

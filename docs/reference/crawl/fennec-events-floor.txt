@@ -1,0 +1,241 @@
+Events and floor ops | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Fennec 
+ Events and floor ops 
+Fennec module 01 
+Events and floor ops: the room, as software. 
+A venue that cannot see its own room sells the same table twice. Six modules inside Fennec keep one layout true from the moment a host activates it to the moment the last tab closes. This is the family we get asked about first, because the double-booked table is the argument every owner has already had. 
+ Book a free audit 
+ Read the Fennec case study 
+ Live 
+ Family 
+ 01 of 07 
+ Modules 
+ 6 
+ Product 
+ Fennec, fennecapp.com 
+ Synced with 
+ Square 
+What is in this family 
+Six modules, one layout. 
+The numbered rows quote fennecapp.com word for word, in quotation marks. Every one of them reads and writes to the same floor plan, which is the whole point: the room is stored once and everything else asks it questions. 
+ 01 
+Floor Plans 
+"Design, version, and activate floor layouts in seconds." 
+ 02 
+Live Ops 
+"Guestlist management, real-time table statuses, and seat assignments." 
+ 03 
+Table Management 
+"Live table grid with minimum spends, server assignments and turn-time tracking." 
+ 04 
+Host Events 
+"Build the event, assign hosts, set hold strategies." 
+ 05 
+Bottle Service 
+"Tailored packages, automated bottle-girl flow, and complete order history." 
+ 06 
+Coat Check 
+"Digital coat check with QR receipts, photo capture and per-guest claim history." 
+ Runs at 
+ Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa 
+ Also used by 
+ 20+ event companies on the network 
+ What we built 
+ A versioned floor plan editor with a per-table inspector 
+ And the guest side 
+ Live table selection laid over a photo of the real room 
+ Per table 
+ Label, section, capacity, fee, shape, VIP flag, QR 
+ Synced with 
+ Square 
+ Built by 
+ Shiv Lohia, Vishal Desh 
+ Status 
+ Live 
+The interface 
+The same room, from both sides. 
+Two real captures from the live product. Guest names, contact details and pass IDs are blurred at source. The operator draws the room once; the guest books against that exact drawing, so there is only ever one version of the truth to argue about. 
+ FIG. 01 
+ Screenshot, operator floor plan editor 
+ The operator draws the room once. Each table carries its own label, section, capacity, table fee, shape, VIP flag and QR code in the inspector on the right, so the layout a host activates is the layout a guest books against. Versions matter more than they sound: last Friday's plan is still there when the promoter asks for it back, and a one-off stage build does not overwrite the standing room. 
+ FIG. 02 
+ Screenshot, guest-facing table selection 
+ The guest side, laid over a photograph of the actual space rather than an abstract grid, so a group can see where they will be standing before they pay. Tables T1 to T7 show their seat counts, the backstage table and the bar are marked, and the legend covers available, requested, booked, unavailable and selected. The value is boring and large: availability stays true in one place instead of scattered across a host's text messages, and a table that is gone reads as gone. 
+Why this family exists 
+None of this was drawn on a whiteboard first. 
+A host was double-booking tables over text message, so the room became software. Holds were being promised verbally and forgotten, so hold strategies became a setting on the event. Bottle orders lived in a server's head until the tab closed, so packages and order history became a record. Every module in this family is a record of an argument that had to stop. 
+That is also why the operator view and the guest view are the same object. Two views of one floor plan cannot disagree. Two spreadsheets and a group chat always will. 
+"Floor plans, reservations, packages and live ops - synced with Square." 
+ Fennec product copy, fennecapp.com 
+ Booked over text 
+ Live table selection on the real room 
+ Layout redrawn weekly 
+ Versioned floor plans you can reactivate 
+ Verbal holds 
+ Hold strategies set on the event 
+ Tables sitting cold 
+ Turn-time tracking on the live grid 
+ Coat check tickets lost 
+ QR receipts and per-guest claim history 
+Order of use 
+How the six get used on one night. 
+The modules are listed above in Fennec's own order. This is the order a venue actually touches them, from the afternoon build to the last coat off the rail. 
+ 1 
+Build the event and activate the plan 
+ Afternoon 
+Host Events builds the event, assigns hosts and sets the hold strategy. Floor Plans activates the layout that night will run on, drawn from a saved version rather than from scratch. 
+ 2 
+Guests pick their own tables 
+ Before doors 
+The guest-facing selection in FIG. 02 runs off the activated plan. A booked table reads as booked, a requested one reads as requested, and the host confirms instead of arbitrating. 
+ 3 
+Doors, guestlist and seat assignments 
+ Doors 
+Live Ops carries the guestlist, real-time table statuses and seat assignments, so the door and the floor are reading one screen rather than comparing two. 
+ 4 
+Run the grid and the bottle flow 
+ Peak 
+Table Management holds the live grid with minimum spends, server assignments and turn-time tracking. Bottle Service runs the packages and the bottle-girl flow, and every order lands in the history rather than in someone's memory. 
+ 5 
+Close out and hand the coats back 
+ Close 
+Coat Check returns items against QR receipts, photo capture and per-guest claim history. Sales sit against tables in Square, and the night's layout stays saved as a version for the next one. 
+Start here 
+A floor plan is a booking grid. Yours might not be a nightclub. 
+This family is shaped like a venue because that is the room it was built in. Underneath, it is a versioned layout, a live status per unit, a hold policy and an order history. That shape fits any business that assigns space or time to a paying customer and then has to defend the assignment. 
+The first step is the same either way: a free operations audit. We agree the bar in writing before anything is built, the clock starts at deployment rather than signature, and you own the code. If the system misses the agreed bar we keep working at no additional cost until it clears, and you can cancel any time. 
+ Book a free audit 
+ How we charge 
+ Contact 
+ Audit 
+ Free, and you keep the map 
+ Baseline 
+ Agreed in writing before we build 
+ Code 
+ Yours 
+ Direct 
+ shiv@exdsconsulting.com 
+Keep reading 
+Where to go next 
+Back up 
+Fennec, the case study 
+The flagship engagement this module sits inside: four named venues, 20+ event companies, and the surfaces an owner sees first. 
+ Read the study -> 
+Previous module 
+Media and intelligence 
+Another part of the same system, in the same detail. 
+ Go back -> 
+Next module 
+Ticketing and guests 
+Keep walking the system in order. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC

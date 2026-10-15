@@ -1,0 +1,246 @@
+Uniserve Communications: AI enablement for a Canadian ISP | Exodus Consulting 
+ Skip to content 
+ Exodus Consulting 
+ Home 
+ What we build 
+ Our work 
+ Industries 
+Where we have built 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+Where the same build applies 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+Every page is written for one sector: how it runs, where it leaks, what we build and what it is measured by. 
+ All 22 industries 
+ How we charge 
+ About 
+ Book a free audit 
+ Menu 
+ Home 
+ What we build 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor ops 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+ Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet providers 
+ Political parties and campaign organisations 
+ Tour and experience operators 
+ Law firms 
+ Accounting and bookkeeping firms 
+ Healthcare clinics 
+ Recruiting and staffing 
+ Professional services and agencies 
+ Insurance and financial brokers 
+ Real estate and property management 
+ Construction and trades 
+ Home services and trades 
+ Logistics and transportation 
+ Manufacturing and distribution 
+ Retail and ecommerce 
+ Automotive dealers and service 
+ Fitness and wellness 
+ Education and training providers 
+ Nonprofits and associations 
+ How we charge 
+ About 
+ Contact 
+ Book a free audit 
+ Home 
+ Our work 
+ Uniserve 
+Case study 01 
+Uniserve Communications: AI enablement for a Canadian ISP, in three months. In build 
+A Canadian internet and telecom provider brought us in to put AI in front of its residential customers. We mapped where the support time was going, cut it to the places AI would actually pay, and are building the chatbot and voice agent now. Nothing on this page is presented as a finished result. 
+ Book a free audit 
+ See the arithmetic 
+Engagement 
+ Client Uniserve Communications Corporation 
+ Sector Internet and telecom, Canada 
+ Status In build 
+ What we built A customer-facing AI chatbot and a voice agent for residential support 
+ Constraint All data and models hosted in Canada 
+ Term 3 months, AI enablement 
+The situation 
+Repeat customer questions, and a mandate from the top. 
+Uniserve is a Canadian internet and telecom provider. A high volume of repeat questions arrives through their residential support channels. That is the whole reason the engagement exists. 
+The mandate came from the owner, not from a department. What was asked for was a three month AI enablement engagement aimed at Uniserve's own customers, with a working system at the end of it rather than a strategy document. 
+The leak is the repeat question. The same problem is described again by the next customer, and a technician spends part of the day answering something that has been answered before. A customer who gets the real answer at 11pm does not need a technician at 9am. That is what the customer-facing build is aimed at. 
+We did not start with a tool. We started with a map. Buying software before you know where the work repeats is how the 95 percent figure below happens. 
+ 95 % 
+of enterprise AI pilots show no measurable P&L return. We started with a map so this engagement would not be one of them. 
+ MIT NANDA, The GenAI Divide, 2025 
+ 93 % 
+of AI budgets go to technology and about 7 percent to the people expected to use it. This engagement is scoped around the people. 
+ Deloitte, 2025 
+ Mandate Owner level 
+ Aimed at Residential customer support 
+ Term 3 months 
+ Hard constraint All data and models hosted in Canada 
+How we started 
+A map first, then the cut. 
+A mapped view of where support time was going, and a shortlist of the places AI would actually pay. 
+We read the business for three things: where work repeats, where information is re-typed from one place into another, and where a person waits on another person before they can finish. That is the map, and it is the part most AI projects skip. 
+Then we cut it. Each candidate was written up with the arithmetic beside it, so the ranking was arguable rather than asserted, and the shortlist was chosen on return plus feasibility, in that order. Feasibility is not a footnote here: anything that could not be hosted in Canada was struck for that reason and no other. 
+Nothing was chosen because it demos well. That is the single biggest difference between a map and a pitch. 
+The build 
+What is being built now. 
+A customer-facing AI chatbot and a voice agent for residential support, both running inside Canada. 
+The chatbot answers residential support questions in writing. The voice agent answers the same questions on the phone, for the customer who would rather talk than type. They are one system with two front doors, so a customer gets the same answer whichever one they use. 
+Both were designed to the hosting requirement rather than around it. Uniserve is a Canadian carrier, so the data and the models sit in Canada, and that decision was made before the first line of code rather than patched in afterwards. 
+ + 
+ + The full build list 
+ Customer facing, written 
+ An AI chatbot for residential support. 
+ Customer facing, voice 
+ A voice agent answering the same questions on the phone. 
+ Hosting 
+ All data and models in Canada. Fixed before build, not negotiable after it. 
+ Term 
+ Three months, AI enablement. 
+ Status 
+ In build. Nothing in this list is being presented as a finished result. 
+The numbers 
+A projection, with the sum written out. 
+ Projection The model below is a forecast built from a technician's hourly cost and the time the build is aimed at giving back. It is not a booked result. It is the bar the build is measured against. 
+ 1 hr 
+of a technician's day given back, roughly, once customers can get the answer themselves. 
+ Projection, Uniserve programme model 
+ $10,000 
+per technician per year, at about $40 an hour, scaling with team size. 
+ Projection, Uniserve programme model 
+ FIG. 01 
+ Projection arithmetic 
+ Projection, not a booked result. One technician is the unit. Scales with team size. The five and ten technician rows are illustrative multiples; Uniserve's team size is not published here. 
+ Line 
+ Value 
+ Technician time given back 
+ about 1 hour per day 
+ Working days a year 
+ about 250 
+ Hourly cost 
+ about $40 
+ Per technician per year 
+ 1 hr/day x about 250 days x $40 = about $10,000 
+ Five technicians, illustrative 
+ about $50,000 a year 
+ Ten technicians, illustrative 
+ about $100,000 a year 
+One technician is the unit. Ten technicians is ten times the line. That is the whole point of writing the sum out instead of printing a headline: you can disagree with any row and recalculate it yourself. 
+One input is Uniserve's own, the hourly cost of a technician. The other two are assumptions we are prepared to defend and to be measured on: about an hour a day given back, and about 250 working days in a year. If the hour lands at half an hour, the line halves, and we would rather you knew which rows carry the risk than be handed a single confident number. 
+The constraints that shaped the build 
+Every byte stays in Canada, and a person approves anything irreversible. 
+Uniserve is a Canadian carrier, so all data and all models had to be hosted in Canada. That was fixed before the first line of code, and it ruled out a long list of otherwise obvious choices. We built to the requirement instead of arguing with it. 
+The second constraint is a rule rather than a technology. A person approves before anything irreversible happens. That gate costs a few seconds and it is not coming out. 
+The third is ownership. Uniserve owns the map we produced and the code we write, whatever happens to the relationship after the three months are up. 
+ Hosting requirement 
+ All data and models in Canada. Non-negotiable, set before build. 
+ Sector 
+ A Canadian carrier, with the data rules that come with it. 
+ Approval gate 
+ A person approves before anything irreversible happens. 
+ Ownership 
+ The client owns the code and the documents we produce. 
+Uniserve is in month-by-month build with us on a customer-facing chatbot and voice agent. 
+What is still ahead 
+In build. Here is what has not happened yet. 
+The map is delivered. The build is under construction. The projection is a target, not an outcome, and we will not print it as one until the measurement exists. 
+Delivered 
+ Done 
+The mapped view of where the support time was going, and the shortlist of the places AI would pay, each written up with the arithmetic beside it. Uniserve owns that document whatever happens next. 
+Under construction 
+ In build 
+The residential chatbot and the voice agent. Both on Canadian hosting, both behind the approval gate. 
+Not yet measured 
+ Projection 
+The hour a day, and the dollar line that follows from it. It is a target agreed against a baseline in writing. It has no result to report, and it will not appear on this site as a result until it does. 
+How it is measured 
+ Method 
+Technician time measured before and against the same baseline after. The clock starts at deployment, not at signature. If the system misses the agreed bar we keep working at no additional cost until it clears. 
+Start the same way Uniserve did 
+With a map, not a tool. 
+The free operations audit is the front half of what we did here: we read where work repeats, where information is re-typed, and where a person waits on a person, then show you the arithmetic. You keep the map whether or not you hire us. 
+If we do build, we agree the baseline in writing first, the clock starts at deployment, you can cancel any time, and you own the code. The bar and the timeframe are agreed per engagement. Nothing here guarantees a particular dollar amount. 
+ Book a free audit 
+ How we charge 
+ Who you talk to 
+ Shiv and Vishal. No account managers, no slide decks. 
+ Direct 
+ shiv@exdsconsulting.com 
+ Read next 
+ What we build , then the rest of our work . 
+Keep reading 
+Where to go next 
+Related capability 
+The AI opportunity audit 
+The method we started Uniserve with: read where the work repeats, price the fixes, keep the ones that pay. 
+ See what we build -> 
+Back up 
+All case studies 
+Five engagements: two live, one shipped and two in build, each with its status, its constraint and its arithmetic. 
+ Back to the index -> 
+Next case study 
+Fennec, the flagship 
+An operating system for premium nightlife venues, live across four rooms and 20+ event companies. 
+ Next -> 
+AI enablement and custom software for owner-led businesses. Two founders, direct access. 
+Work 
+ Our work 
+ Uniserve Communications 
+ Fennec 
+ Palapa Tours Ottawa 
+ Current engagements 
+ Fennec: events and floor 
+ Fennec: ticketing and guests 
+ Fennec: POS and payments 
+ Fennec: inventory and staff 
+ Fennec: media and intelligence 
+Industries 
+ All industries 
+ Nightlife and hospitality 
+ Restaurants and bars 
+ Event venues and ticketing 
+ Telecom and internet 
+ Political and campaigns 
+ Tours and experiences 
+Company 
+ Home 
+ What we build 
+ How we charge 
+ About 
+ Contact 
+Direct 
+ shiv@exdsconsulting.com 
+ Book a free audit 
+ @exodus_consulting_ 
+ © 2026 Exodus Consulting 
+ Vancouver, BC
