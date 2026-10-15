@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { CaseHeader, CaseSections, CaseSource } from "@/components/work/CaseStudy";
 import { FennecOS } from "@/components/scenes/FennecOS";
 import { CtaBand } from "@/components/ui/CtaBand";
 import { Reveal } from "@/components/ui/Reveal";
 import { fennecVenues } from "@/content/facts";
 import { ToolVideo } from "@/components/work/ToolVideo";
+import { ScreenFrame } from "@/components/work/ScreenFrame";
 import { toolBySlug } from "@/content/tools";
 
 export const metadata: Metadata = {
@@ -37,11 +37,14 @@ export default function FennecPage() {
           </Reveal>
           <Reveal as="ul" className="mt-10 grid gap-5 md:grid-cols-2" stagger={0.08}>
             {SHOTS.map(([src, cap], i) => (
-              <li key={src} className={`glass overflow-hidden ${i === 0 ? "md:col-span-2" : ""}`} data-reveal data-cursor="inspect">
-                <div className={`relative ${i === 0 ? "aspect-[16/8]" : "aspect-[16/10]"}`}>
-                  <Image src={src} alt={cap} fill sizes="(min-width:768px) 50vw, 100vw" className="object-cover object-top" />
-                </div>
-                <p className="fig p-4"><b>Fig. {String(i + 1).padStart(2, "0")}</b> · {cap}</p>
+              <li key={src} className={i === 0 ? "md:col-span-2" : ""} data-reveal>
+                <ScreenFrame
+                  src={src}
+                  alt={cap}
+                  caption={`Fig. ${String(i + 1).padStart(2, "0")} · ${cap}`}
+                  label="Fennec · live product"
+                  aspect={i === 0 ? "16/8" : "16/10"}
+                />
               </li>
             ))}
           </Reveal>

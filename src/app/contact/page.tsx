@@ -73,7 +73,7 @@ export default function Contact() {
             <p className="body-2 mt-4" data-reveal>We aim to reply within one business day. Some days that is twenty minutes. Inside a build week it can take the whole day, and we would rather write that here than promise an hour and miss it. If the honest answer is that we are not the right two people to build your thing, you get that answer instead of a proposal.</p>
           </Reveal>
           <Reveal>
-            <dl className="grid grid-cols-2 gap-x-6 gap-y-5 border-t hairline pt-6" data-reveal>
+            <dl className="grid grid-cols-1 min-[360px]:grid-cols-2 gap-x-6 gap-y-5 border-t hairline pt-6" data-reveal>
               {[["Aim", "Reply within one business day"], ["Replies from", founders.map((f) => f.name.split(" ")[0]).join(" or ")], ["Coordinators", "None"], ["Slide decks", "None"], ["Base", site.base], ["Where", site.where], ["Instagram", "@exodus_consulting_"], ["Email", site.email]].map(([k, v]) => (
                 <div key={k}><dt className="fig">{k}</dt><dd className="text-silver text-sm mt-1">{v}</dd></div>
               ))}

@@ -116,6 +116,7 @@ export function Hero() {
     <section ref={root} aria-labelledby="hero-h1" className="relative hero-anim">
       <noscript><style>{`.hero-anim *{opacity:1!important;stroke-dashoffset:0!important}`}</style></noscript>
       <div ref={pin} className="relative lg:h-[100dvh] overflow-hidden">
+        <div className="aurora" aria-hidden />
         <div className="absolute inset-0 grid-bg" aria-hidden />
 
         {/* ---------- Desktop stage: the old stack, behind the words ---------- */}

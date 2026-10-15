@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Reveal } from "@/components/ui/Reveal";
 import { CtaBand } from "@/components/ui/CtaBand";
 import { ToolVideo } from "@/components/work/ToolVideo";
 import { ToolBento } from "@/components/work/ToolBento";
+import { ScreenFrame } from "@/components/work/ScreenFrame";
 import { toolPages, toolBySlug, TOOL_TONE_CLASS } from "@/content/tools";
 import { site } from "@/lib/site";
 
@@ -54,13 +54,10 @@ export default async function ToolPage({ params }: { params: Promise<{ slug: str
       {t.screenshots.length > 0 && (
         <section className="section-tight border-t hairline">
           <Reveal className="wrap grid gap-5" stagger={0.08}>
-            {t.screenshots.map((s) => (
-              <figure key={s.src} className="glass overflow-hidden" data-reveal data-cursor="inspect">
-                <div className="relative aspect-[16/10] bg-bg-1">
-                  <Image src={s.src} alt={s.caption} fill sizes="(min-width:1024px) 80vw, 100vw" className="object-cover object-top" />
-                </div>
-                <figcaption className="fig p-4">{s.caption}</figcaption>
-              </figure>
+            {t.screenshots.map((s, i) => (
+              <div key={s.src} data-reveal>
+                <ScreenFrame src={s.src} alt={s.caption} caption={s.caption} label={`${t.name} · live product`} priority={i === 0} />
+              </div>
             ))}
           </Reveal>
         </section>
