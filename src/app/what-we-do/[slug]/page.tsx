@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { Reveal } from "@/components/ui/Reveal";
 import { CtaBand } from "@/components/ui/CtaBand";
 import { ToolVideo } from "@/components/work/ToolVideo";
+import { ToolBento } from "@/components/work/ToolBento";
 import { toolPages, toolBySlug, TOOL_TONE_CLASS } from "@/content/tools";
 import { site } from "@/lib/site";
 
@@ -66,32 +67,10 @@ export default async function ToolPage({ params }: { params: Promise<{ slug: str
       )}
 
       <section className="section border-t hairline" aria-labelledby="does-h2">
-        <div className="wrap grid gap-12 lg:grid-cols-2">
-          <Reveal>
-            <h2 id="does-h2" className="display display-md text-paper" data-reveal>What it does</h2>
-            <ul className="mt-6 grid gap-3">
-              {t.does.map((d) => (
-                <li key={d} className="flex gap-3 body-2" data-reveal>
-                  <span className="text-signal-2 mt-2.5 h-1 w-1 rounded-full bg-current shrink-0" aria-hidden />
-                  {d}
-                </li>
-              ))}
-            </ul>
-          </Reveal>
-          <Reveal>
-            <h2 className="display display-md text-paper" data-reveal>How it works</h2>
-            <ol className="mt-6 grid gap-4">
-              {t.how.map((h, i) => (
-                <li key={h} className="grid grid-cols-[2rem_1fr] gap-3" data-reveal>
-                  <span className="mono text-signal-2 pt-1">{String(i + 1).padStart(2, "0")}</span>
-                  <span className="body-2">{h}</span>
-                </li>
-              ))}
-            </ol>
-            <dl className="mt-8 grid gap-4 border-t hairline pt-6" data-reveal>
-              <div><dt className="fig">Works with</dt><dd className="body-2 mt-1">{t.worksWith}</dd></div>
-              <div><dt className="fig">Status</dt><dd className="body-2 mt-1">{t.statusNote ?? t.status}</dd></div>
-            </dl>
+        <div className="wrap">
+          <h2 id="does-h2" className="sr-only">What {t.name} does and how it works</h2>
+          <Reveal stagger={0.07}>
+            <ToolBento does={t.does} how={t.how} worksWith={t.worksWith} status={t.statusNote ?? t.status} />
           </Reveal>
         </div>
       </section>

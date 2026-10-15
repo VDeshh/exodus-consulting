@@ -238,3 +238,48 @@ body {
 }
 @media (min-width: 1024px) { .snap-hint { display: none; } }
 .snap-hint { font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-stone); margin-top: 0.75rem; }
+
+/* ---------------------------------------------------------------------------
+   Bento lattice (tool pages). A cell is the glass card plus a pointer-tracked
+   spotlight painted under the content. --mx/--my are written by ToolBento on
+   pointermove; the gradient only becomes visible on hover, so a cell that is
+   never pointed at costs nothing. Coarse pointers and reduced motion get the
+   flat card, since a spotlight that follows a tap is noise.
+--------------------------------------------------------------------------- */
+.bento-cell {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  border-radius: 22px;
+  border: 1px solid var(--glass-line);
+  background: var(--glass-bg);
+  -webkit-backdrop-filter: blur(var(--blur)) saturate(120%);
+  backdrop-filter: blur(var(--blur)) saturate(120%);
+  box-shadow: inset 0 1px 0 var(--glass-hi), 0 24px 60px -30px rgba(0, 0, 0, 0.85);
+  padding: 1.5rem;
+  transition: border-color 0.3s ease;
+}
+/* Content rides above the spotlight, which sits above the card background. */
+.bento-cell > * { position: relative; z-index: 1; }
+@media (min-width: 768px) {
+  .bento-cell { padding: 1.75rem; }
+}
+.bento-cell::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  background: radial-gradient(
+    18rem circle at var(--mx, 50%) var(--my, 50%),
+    rgba(47, 107, 255, 0.26),
+    rgba(47, 107, 255, 0.07) 40%,
+    transparent 70%
+  );
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .bento-cell:hover { border-color: rgba(47, 107, 255, 0.45); }
+  .bento-cell:hover::after { opacity: 1; }
+}
