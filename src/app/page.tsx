@@ -23,14 +23,24 @@ export default function Home() {
           <p className="display display-sm text-paper md:col-span-3 max-w-3xl">
             Two founders. Direct access. No account managers, no slide decks. You own the code. The number is agreed before we start.
           </p>
-          <div className="fig">
-            <b>{proof.engagements} engagements</b> · {proof.live} live · {proof.shipped} shipped · {proof.inBuild} in build
-          </div>
-          <div className="fig">
-            <b>Fennec</b> live at {fennecVenues.join(", ")}
-          </div>
-          <div className="fig">
-            <b>{proof.eventCompanies} event companies</b> publishing on the Fennec network
+          {/* Figures carry themselves. Three mono-caps runs reading like a
+              readout was the loudest generated-looking thing on the page. */}
+          <div className="md:col-span-3 mt-4 grid gap-8 border-t hairline pt-8 md:grid-cols-3 md:gap-10">
+            <div>
+              <p className="display display-md text-paper tabular">{proof.engagements}</p>
+              <p className="text-paper font-medium mt-2">Engagements</p>
+              <p className="note mt-1">{proof.live} live · {proof.shipped} shipped · {proof.inBuild} in build</p>
+            </div>
+            <div className="md:border-l hairline md:pl-10">
+              <p className="display display-md text-paper">Fennec</p>
+              <p className="text-paper font-medium mt-2">Live tonight</p>
+              <p className="note mt-1">{fennecVenues.join(", ")}</p>
+            </div>
+            <div className="md:border-l hairline md:pl-10">
+              <p className="display display-md text-paper tabular">{proof.eventCompanies}</p>
+              <p className="text-paper font-medium mt-2">Event companies</p>
+              <p className="note mt-1">Publishing on the Fennec network</p>
+            </div>
           </div>
         </div>
       </section>

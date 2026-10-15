@@ -105,7 +105,7 @@ export function Depart() {
                   ))}
                 </>
               ) : (
-                <span className="fig">Tags appear as you type. Nothing is sent until you choose to.</span>
+                <span className="note">Tags appear as you type. Nothing is sent until you choose to.</span>
               )}
             </div>
             <div className="mt-4 flex flex-wrap items-center gap-3">

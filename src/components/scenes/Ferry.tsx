@@ -67,7 +67,7 @@ export function Ferry() {
           <div className="glass p-4 md:p-6 plane" data-reveal data-cursor="inspect">
             <div className="flex items-center justify-between flex-wrap gap-3">
               <p className="fig"><b>Fig. 09</b> · Agent network architecture</p>
-              <p className="fig">above · the operator decides &nbsp; · &nbsp; behind · one record of the night &nbsp; · &nbsp; below · the systems</p>
+              <p className="note">above · the operator decides &nbsp; · &nbsp; behind · one record of the night &nbsp; · &nbsp; below · the systems</p>
             </div>
             <ol className="md:hidden mt-4 grid gap-2" aria-label="Ferry architecture, top to bottom">
               <li className="rounded-md border border-human/40 bg-human/5 px-3 py-2"><p className="mono text-human">Above · operator</p><p className="text-sm text-silver">The price, the send, the hire stay with a person.</p></li>

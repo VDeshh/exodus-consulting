@@ -4,8 +4,8 @@ import { Stages } from "@/components/scenes/Stages";
 import { CtaBand } from "@/components/ui/CtaBand";
 import { Reveal } from "@/components/ui/Reveal";
 import { TicketPath } from "@/components/work/TicketPath";
-import Link from "next/link";
-import { toolPages, TOOL_TONE_CLASS } from "@/content/tools";
+import { tools } from "@/content/tools";
+import { ToolIndex } from "@/components/work/ToolIndex";
 
 export const metadata: Metadata = {
   title: "What we do: AI enablement, custom software and operational intelligence",
@@ -41,31 +41,12 @@ export default function WhatWeDo() {
       <section className="section border-t hairline" aria-labelledby="tools-h2">
         <div className="wrap">
           <Reveal className="max-w-3xl">
-            <p className="fig" data-reveal><b>The tools</b> · {toolPages.length} pages · each at its real status</p>
+            <p className="fig" data-reveal><b>The tools</b> · {tools.length} built · each at its real status</p>
             <h2 id="tools-h2" className="display display-lg text-paper mt-4" data-reveal>What we have actually built.</h2>
-            <p className="lede mt-6" data-reveal>One page per tool: what it does, how it works, what it runs on and where it stands. Nothing here is a brochure item. If it has not shipped, the status says so.</p>
+            <p className="lede mt-6" data-reveal>One page per tool: what it does, how it works, what it runs on and where it stands. Open a row for the short version. Nothing here is a brochure item, and if it has not shipped the status says so.</p>
           </Reveal>
-          <Reveal as="ul" className="mt-12 grid gap-3 md:grid-cols-2" stagger={0.05}>
-            {toolPages.map((t) => (
-              <li key={t.slug} data-reveal>
-                <Link href={t.href ?? `/what-we-do/${t.slug}/`} className="glass p-5 h-full flex flex-col hover:border-signal/40 transition-colors" data-cursor="view">
-                  <div className="flex items-start justify-between gap-3">
-                    <p className="text-paper font-medium"><span className="mono text-stone mr-2">{t.n}</span>{t.name}</p>
-                    <span className={`chip shrink-0 ${TOOL_TONE_CLASS[t.tone]}`}>{t.status}</span>
-                  </div>
-                  <p className="text-sm text-silver mt-2">{t.tagline}</p>
-                  <p className="fig mt-auto pt-4">
-                    {t.videos.length > 0 ? "Demo available" : "Demo coming soon"}
-                    {t.href ? " · Case study" : ""}
-                  </p>
-                </Link>
-              </li>
-            ))}
-          </Reveal>
-          <Reveal className="mt-8">
-            <p className="body-2 max-w-2xl" data-reveal>
-              The thirteenth is <Link href="/work/fennec/" className="link">Fennec</Link>, the venue operating system we co-founded and built. It has its own case study under Work rather than a tool page.
-            </p>
+          <Reveal className="mt-12" stagger={0.04}>
+            <ToolIndex />
           </Reveal>
         </div>
       </section>

@@ -22,7 +22,7 @@ export function TicketPath() {
           </li>
         ))}
       </ol>
-      <figcaption className="fig mt-4">The gate is the point: the draft sits until a technician reads it. Nothing irreversible leaves without a person.</figcaption>
+      <figcaption className="note mt-4">The gate is the point: the draft sits until a technician reads it. Nothing irreversible leaves without a person.</figcaption>
     </figure>
   );
 }

@@ -78,10 +78,9 @@ export function ExodusPortal() {
                 inset: 0,
                 transform: "scale(var(--gp-field-scale,1))",
                 background:
-                  "radial-gradient(circle at 22% 12%, rgba(127,166,255,.55), transparent 36%), radial-gradient(circle at 80% 24%, rgba(109,77,224,.45), transparent 32%), radial-gradient(circle at 50% 85%, rgba(10,11,15,.55), transparent 46%), linear-gradient(135deg,#1e5eff 0%,#2f6bff 48%,#173fb8 100%)",
+                  "radial-gradient(circle at 24% 10%, rgba(150,178,255,.34), transparent 42%), radial-gradient(circle at 82% 26%, rgba(109,77,224,.26), transparent 38%), radial-gradient(circle at 50% 88%, rgba(8,9,13,.68), transparent 52%), linear-gradient(135deg,#21356e 0%,#27408a 46%,#141f44 100%)",
               }}
             >
-              <div style={{ position: "absolute", inset: 0, backgroundImage: "linear-gradient(rgba(243,241,236,.08) 1px, transparent 1px), linear-gradient(90deg, rgba(243,241,236,.08) 1px, transparent 1px)", backgroundSize: "6vw 6vw", maskImage: "radial-gradient(ellipse at center, #000 30%, transparent 80%)", WebkitMaskImage: "radial-gradient(ellipse at center, #000 30%, transparent 80%)" }} />
             </div>
           }
           front={

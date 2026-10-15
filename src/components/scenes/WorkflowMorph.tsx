@@ -161,7 +161,7 @@ export function WorkflowMorph() {
                   ))}
                 </tbody>
               </table>
-              <p className="fig mt-4">Rules set once by the operator · logged per cruise · placeholder roles and percentages, not Palapa&apos;s figures</p>
+              <p className="note mt-4">Rules set once by the operator · logged per cruise · placeholder roles and percentages, not Palapa&apos;s figures</p>
             </div>
           </div>
         </div>

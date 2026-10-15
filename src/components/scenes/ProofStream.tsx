@@ -94,7 +94,7 @@ export function ProofStream({
           <Link href="/work/fennec/" className="btn btn-primary" data-cursor="view">See Fennec, the live product</Link>
           <a href={site.calendly} target="_blank" rel="noopener noreferrer" className="btn btn-ghost" data-cursor="start">Book a free audit</a>
         </div>
-        <p className="fig mt-6 lg:mt-8 max-w-xs lg:max-w-none">Real screens from the live product · {proof.venues} named venues · {proof.eventCompanies} event companies</p>
+        <p className="note mt-6 lg:mt-8 max-w-xs lg:max-w-none">Real screens from the live product · {proof.venues} named venues · {proof.eventCompanies} event companies</p>
       </div>
     </ImageStreamHero>
   );
