@@ -408,3 +408,40 @@ body {
   box-shadow: 0 0 0 4px rgba(47, 107, 255, 0.12);
 }
 @media (prefers-reduced-motion: reduce) { .rail-step { opacity: 1; } }
+
+/* ---------------------------------------------------------------------------
+   Work index. The hovered row's capture rides the cursor on a single fixed
+   plate shared by every row. Coarse pointers and reduced motion never see it:
+   a plate chasing a tap is noise, and the rows read fine without it.
+--------------------------------------------------------------------------- */
+.work-plate {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 40;
+  pointer-events: none;
+  display: none;
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .work-plate { display: block; }
+}
+.work-plate-inner {
+  position: relative;
+  width: 340px;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 14px;
+  border: 1px solid var(--glass-line);
+  background: var(--color-bg-1);
+  box-shadow: 0 40px 80px -30px rgba(0, 0, 0, 0.95);
+  opacity: 0;
+  transform: scale(0.94);
+  transition: opacity 0.35s ease, transform 0.45s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+.work-plate-inner.is-on { opacity: 1; transform: scale(1); }
+
+/* The row itself dims its neighbours rather than lighting itself up. */
+@media (hover: hover) and (pointer: fine) {
+  ul:has(.work-row:hover) .work-row:not(:hover) { opacity: 0.45; }
+  .work-row { transition: opacity 0.4s ease; }
+}

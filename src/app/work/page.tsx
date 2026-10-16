@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { ProofStream } from "@/components/scenes/ProofStream";
-import { WorkGrid } from "@/components/work/WorkGrid";
+import { WorkRows } from "@/components/work/WorkRows";
 import { CtaBand } from "@/components/ui/CtaBand";
 import { proof } from "@/content/facts";
 
@@ -19,7 +19,7 @@ export default function Work() {
         lede="Nothing here is a proposal. Most consulting portfolios flatten everything into one tense, so a system that went live last year reads the same as one still being written. Ours does not."
       />
       <section className="pt-16 pb-20">
-        <WorkGrid />
+        <WorkRows />
       </section>
       <CtaBand title="Your workflow could be the sixth." text="Tell us the process that annoys you most. We map where it leaks, put a number on it, and say plainly whether it is worth building." />
     </>
