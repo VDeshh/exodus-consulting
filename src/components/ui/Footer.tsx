@@ -20,7 +20,7 @@ export function Footer() {
         </div>
         <div className="mt-12 flex flex-wrap items-center justify-between gap-3 text-xs text-stone">
           <span className="mono">© {new Date().getFullYear()} exodus consulting · {site.base}</span>
-          <span className="mono">two founders · no account managers · you own the code</span>
+          <span className="mono">two founders · optional monthly support · you own the code</span>
         </div>
       </div>
     </footer>

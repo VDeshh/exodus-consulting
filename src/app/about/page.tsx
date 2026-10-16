@@ -8,7 +8,7 @@ import { Reveal } from "@/components/ui/Reveal";
 import { proof, site } from "@/lib/about-facts";
 
 export const metadata: Metadata = {
-  title: "About: two founders, no account managers",
+  title: "About: two founders, optional account management",
   description: "Exodus: a movement of people leaving one place to begin something new. We named the company after the moment a business decides to stop running the old way, then we build the thing it runs on next. Shiv Lohia and Vishal Desh, Vancouver.",
 };
 
@@ -27,7 +27,7 @@ export default function About() {
         lede="We named the company after the moment a business decides to stop running the old way. Then we build the thing it runs on next."
       >
         <dl className="grid grid-cols-2 sm:grid-cols-4 gap-6 w-full border-t hairline pt-6">
-          {[["Founders", String(proof.founders)], ["Account managers", String(proof.accountManagers)], ["Where", site.where], ["Base", site.base]].map(([k, v]) => (
+          {[["Founders", String(proof.founders)], ["Account manager", String(proof.accountManagers)], ["Where", site.where], ["Base", site.base]].map(([k, v]) => (
             <div key={k}><dt className="fig">{k}</dt><dd className="text-paper mt-1">{v}</dd></div>
           ))}
         </dl>

@@ -13,7 +13,7 @@ export function Ledger({ compact = false }: { compact?: boolean }) {
     { k: "Named venues on Fennec", v: String(proof.venues), d: fennecVenues.join(" · "), href: "/work/fennec/", tag: "live" },
     { k: "Event companies on the network", v: proof.eventCompanies, d: "Publishing events on Fennec, the operating system we co-founded and still build.", href: "/work/fennec/", tag: "live" },
     { k: "Technician time, Uniserve", v: "~1 hr / day", d: uniserve.outcomes[0].detail, href: "/work/uniserve/", tag: "projection" },
-    { k: "Founders on every engagement", v: String(proof.founders), d: `${proof.accountManagers} account managers. The people who scope the work ship it.`, href: "/about/" },
+    { k: "Founders on every engagement", v: String(proof.founders), d: "The people who scope the work ship it. An account manager is optional, through monthly support on a retainer for bigger projects.", href: "/about/" },
     { k: "Industries", v: String(industries.total), d: `${industries.built.length} where our own engagements sit. The method does not change when the sector does.`, href: "/industries/" },
   ];
 

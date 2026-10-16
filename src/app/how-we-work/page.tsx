@@ -23,6 +23,7 @@ const CALL = [
 const FAQ = [
   ["What happens in the free audit?", "We map where time and money leak, then show the arithmetic. You keep the map whether or not you hire us. Nothing is built at this stage and nothing is charged for it."],
   ["Who owns the code?", "You do. It is written into the agreement before anything is built."],
+  ["What happens after it goes live?", "Our builds are made to run on their own. For bigger projects, you can add monthly support as part of a retainer, with an account manager who keeps an eye on the system and handles changes. It is optional, and you still own the code either way."],
   ["What are you measured against, and when does the clock start?", "We agree the baseline in writing before anything is built, and you sign off on the exact numbers we are measured against. The clock starts at deployment, not at signature. If the system misses the agreed bar, we keep working at no additional cost until it clears. You can cancel at any time. The bar and the timeframe are agreed per engagement. Nothing guarantees a particular dollar amount."],
   ["Can you work inside our data rules?", "Constraints come first, because they decide the architecture. Uniserve required every model and every byte hosted in Canada, so that requirement shaped the build before a line of it was written."],
   ["Are we too small for this?", "Owner-led is the whole point. Our clients run from a multi-venue restaurant group to a Canadian internet and telecom provider. What they share is an owner who can make a decision in one meeting."],

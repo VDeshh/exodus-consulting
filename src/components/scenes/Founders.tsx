@@ -19,7 +19,7 @@ export function Founders() {
             <h2 id="fnd-h2" className="display display-lg text-paper mt-4" data-reveal>You work with the builders.</h2>
           </div>
           <div className="body-2 space-y-4" data-reveal>
-            <p>Not an account manager, then a salesperson, then a project manager, then an outsourced team. One of us designs it, one of us builds it, and both of us are in the room.</p>
+            <p>One of us designs it, one of us builds it, and both of us are in the room. Once it is live, the system runs on its own. For bigger projects, you can add monthly support with an account manager as part of a retainer.</p>
             <p>We built Fennec first. Sitting with venue operators on live nights showed us how much a business loses to manual work, fragmented systems and bad visibility. The lesson did not stop at nightlife, so Exodus takes the same approach into other industries: understand the operation, build what it actually needs.</p>
           </div>
         </Reveal>

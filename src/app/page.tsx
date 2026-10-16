@@ -21,7 +21,7 @@ export default function Home() {
       <section className="section-tight border-t hairline" aria-label="Where things stand">
         <div className="wrap grid gap-6 md:grid-cols-3">
           <p className="display display-sm text-paper md:col-span-3 max-w-3xl">
-            Two founders. Direct access. No account managers, no slide decks. You own the code. The number is agreed before we start.
+            Two founders. Direct access. Builds that run on their own, with optional monthly support for bigger projects. You own the code. The number is agreed before we start.
           </p>
           {/* Figures carry themselves. Three mono-caps runs reading like a
               readout was the loudest generated-looking thing on the page. */}

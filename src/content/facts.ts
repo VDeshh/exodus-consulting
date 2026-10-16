@@ -180,7 +180,7 @@ export const proof = {
   venues: fennecVenues.length,
   eventCompanies: fennecEventCompanies,
   founders: 2,
-  accountManagers: 0,
+  accountManagers: "Optional",
 };
 
 /** Third-party statistics, each with its printed source. */
@@ -253,7 +253,7 @@ export const founders = [
 export const rules = [
   ["Two founders on every engagement", "The people who scope the work are the people who ship it."],
   ["Direct access", "You email us and you get us. One address, no ticket queue."],
-  ["No account managers", "Nobody bills you to relay a message."],
+  ["Optional account manager", "Our builds run on their own. For bigger projects, monthly support with an account manager is available as part of a retainer."],
   ["No juniors on your budget", "If it gets built, one of the two of us built it."],
   ["No deck-only strategy", "A slide is not a system. Every engagement ends in software that runs, and you own the code."],
   ["We learn the business first", "We sit with the team that does the work and map where time and money leak. The build starts after that."],
