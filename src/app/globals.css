@@ -20,8 +20,9 @@
   --color-human: #e0a458;
   --color-friction: #d9534f;
 
-  --font-sans: var(--font-geist), system-ui, -apple-system, sans-serif;
-  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  --font-display: var(--font-newsreader), "Iowan Old Style", Georgia, serif;
+  --font-sans: var(--font-hanken), system-ui, -apple-system, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, SFMono-Regular, monospace;
 
   --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-exodus: cubic-bezier(0.2, 0.6, 0.2, 1);
@@ -84,17 +85,22 @@ body {
 @layer components {
   /* ---------- Typography ---------- */
   .display {
-    font-family: var(--font-sans);
-    font-weight: 700;
-    letter-spacing: -0.035em;
-    line-height: 0.94;
+    font-family: var(--font-display);
+    font-weight: 420;
+    font-optical-sizing: auto;
+    letter-spacing: -0.022em;
+    line-height: 1;
     text-wrap: balance;
   }
-  .display-xl { font-size: clamp(3rem, 8.5vw, 8.5rem); line-height: 0.9; }
-  .display-hero { font-size: clamp(2.4rem, min(6.6vw, 10vh), 7.25rem); line-height: 0.92; letter-spacing: -0.04em; }
+  .display em, .display i { font-style: italic; font-weight: 380; }
+  .display-xl { font-size: clamp(3rem, 8.5vw, 8.5rem); line-height: 0.95; letter-spacing: -0.03em; }
+  .display-hero { font-size: clamp(2.5rem, min(6.8vw, 10.5vh), 7.5rem); line-height: 0.98; letter-spacing: -0.028em; }
+  /* Page heroes carry a full sentence, not a word. At display-xl a serif
+     sentence filled the viewport and pushed the lede below the fold. */
+  .display-page { font-size: clamp(2.5rem, 5.6vw, 5.6rem); line-height: 1.02; letter-spacing: -0.025em; max-width: 18ch; }
   .display-lg { font-size: clamp(2.4rem, 5.8vw, 5rem); }
-  .display-md { font-size: clamp(1.9rem, 3.8vw, 3rem); }
-  .display-sm { font-size: clamp(1.4rem, 2.4vw, 1.9rem); letter-spacing: -0.02em; line-height: 1.1; }
+  .display-md { font-size: clamp(1.9rem, 3.8vw, 3rem); letter-spacing: -0.018em; }
+  .display-sm { font-size: clamp(1.4rem, 2.4vw, 1.9rem); letter-spacing: -0.01em; line-height: 1.12; font-weight: 450; }
 
   .lede {
     font-size: clamp(1.05rem, 1.4vw, 1.3rem);

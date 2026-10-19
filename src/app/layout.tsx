@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Newsreader, Hanken_Grotesk, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 import { Nav } from "@/components/ui/Nav";
 import { Footer } from "@/components/ui/Footer";
@@ -9,8 +9,14 @@ import { MobileCta } from "@/components/ui/MobileCta";
 import { site } from "@/lib/site";
 import { founders } from "@/content/facts";
 
-const geist = Geist({ subsets: ["latin"], variable: "--font-geist", display: "swap", weight: ["400", "500", "600", "700", "800"] });
-const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono", display: "swap", weight: ["400", "500"] });
+/*
+ * Geist was the single loudest "generated" tell on the site: it is the default
+ * face of every v0 and AI-template build. Display is now an editorial serif
+ * with an optical-size axis, body a warm grotesk, labels a humanist mono.
+ */
+const display = Newsreader({ subsets: ["latin"], variable: "--font-newsreader", display: "swap", axes: ["opsz"], style: ["normal", "italic"] });
+const sans = Hanken_Grotesk({ subsets: ["latin"], variable: "--font-hanken", display: "swap", weight: ["400", "500", "600", "700", "800"] });
+const mono = IBM_Plex_Mono({ subsets: ["latin"], variable: "--font-plex-mono", display: "swap", weight: ["400", "500"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
@@ -37,7 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     sameAs: [site.instagram],
   };
   return (
-    <html lang="en-CA" className={`${geist.variable} ${geistMono.variable}`}>
+    <html lang="en-CA" className={`${display.variable} ${sans.variable} ${mono.variable}`}>
       <body>
         <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[200] focus:bg-paper focus:text-bg-0 focus:px-3 focus:py-2 focus:rounded">
           Skip to content

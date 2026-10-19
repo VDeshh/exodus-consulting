@@ -34,7 +34,8 @@ export function ExodusPortal() {
     const finish = () => {
       if (settled) return;
       settled = true;
-      // The resolved stack of the page body: the next/font Geist family plus fallbacks.
+      // The body grotesk, not the serif display: the door is a letter you step
+      // through, and it needs a heavy face with open counters to have room.
       setFace(getComputedStyle(document.body).fontFamily || "Arial, sans-serif");
     };
     const t = window.setTimeout(finish, 1500);
