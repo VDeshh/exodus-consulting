@@ -83,7 +83,7 @@ export function FennecOS() {
       <div ref={pin} className="relative lg:min-h-[100dvh] overflow-hidden">
         <div className="wrap pt-[calc(var(--nav-h)+1.5rem)] pb-10 lg:h-[100dvh] grid lg:grid-cols-[0.8fr_1.2fr] gap-8 items-center">
           <div className="relative z-10">
-            <p className="fig"><b>08</b> · Fennec · <span className="text-advance">Live</span></p>
+            <p className="fig"><b>Fennec</b> · <span className="text-advance">Live</span></p>
             <h2 id="fx-h2" className="display display-lg text-paper mt-4">One system running the room, the door and the bar.</h2>
             <p className="lede mt-6">
               A venue does not need five tools. It needs one record of the night. Fennec is the operating system we co-founded and still build: floor plans, live ops, ticketing, guest CRM, bottle service, inventory, campaigns and analytics, off one set of records that every surface reads at the same time.

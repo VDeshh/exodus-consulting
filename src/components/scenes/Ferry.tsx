@@ -56,7 +56,7 @@ export function Ferry() {
     <section ref={root} className="section border-t hairline" aria-labelledby="ferry-h2">
       <div className="wrap">
         <Reveal className="max-w-3xl">
-          <p className="fig" data-reveal><b>09</b> · Ferry AI · inside Fennec · <span className="text-advance">Live</span></p>
+          <p className="fig" data-reveal><b>Ferry AI</b> · inside Fennec · <span className="text-advance">Live</span></p>
           <h2 id="ferry-h2" className="display display-lg text-paper mt-4" data-reveal>AI works better when it knows the whole operation.</h2>
           <p className="lede mt-6" data-reveal>
             Ferry is a roster, not a chat. Each agent owns one part of the venue's operation and reads the same record as every other surface, which is the only reason an agent can tell you what is leaking. Architected by Vishal, the same pair of hands on the Uniserve build.

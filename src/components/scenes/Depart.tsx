@@ -61,7 +61,7 @@ export function Depart() {
       <div className="wrap section pt-32">
         <div className="grid gap-12 lg:grid-cols-[1fr_1fr] items-start">
           <div>
-            <p className="fig"><b>12</b> · Departure</p>
+            <p className="fig"><b>Departure</b></p>
             <h2 id="depart-h2" className="display display-xl text-paper mt-4">Ready to depart the old way?</h2>
             <div className="mt-6 flex flex-wrap gap-2" aria-hidden>
               {NEW.map((w) => (

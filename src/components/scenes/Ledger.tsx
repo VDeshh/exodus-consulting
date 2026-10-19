@@ -21,7 +21,7 @@ export function Ledger({ compact = false }: { compact?: boolean }) {
     <section className={`${compact ? "section-tight" : "section"} border-t hairline`} aria-labelledby="ledger-h2">
       <div className="wrap">
         <Reveal className="max-w-3xl">
-          {!compact && <p className="fig" data-reveal><b>07</b> · The proof</p>}
+          {!compact && <p className="fig" data-reveal><b>The proof</b></p>}
           <h2 id="ledger-h2" className={`display ${compact ? "display-md" : "display-lg"} text-paper ${compact ? "" : "mt-4"}`} data-reveal>Everything we have built, at its real status.</h2>
           <p className="lede mt-6" data-reveal>A premium number without a meaning is a decoration. Every line below says what it counts and links to the work behind it.</p>
         </Reveal>

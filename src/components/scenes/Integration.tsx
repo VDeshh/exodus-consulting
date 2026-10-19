@@ -60,7 +60,7 @@ export function Integration() {
     <section className="section" aria-labelledby="integ-h2">
       <div className="wrap grid gap-12 lg:grid-cols-[0.95fr_1.05fr] items-center">
         <Reveal>
-          <p className="fig" data-reveal><b>02</b> · The human integration</p>
+          <p className="fig" data-reveal><b>The human integration</b></p>
           <h2 id="integ-h2" className="display display-lg text-paper mt-4" data-reveal>
             Your team should not be the API.
           </h2>

@@ -18,7 +18,7 @@ export function Stages() {
     <section className="section border-t hairline" aria-labelledby="stages-h2">
       <div className="wrap">
         <Reveal className="max-w-3xl">
-          <p className="fig" data-reveal><b>05</b> · The build</p>
+          <p className="fig" data-reveal><b>The build</b></p>
           <h2 id="stages-h2" className="display display-lg text-paper mt-4" data-reveal>
             AI is not the product. The better way of working is.
           </h2>

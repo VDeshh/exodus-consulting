@@ -61,7 +61,7 @@ export function Transition() {
         <div className="wrap pt-[calc(var(--nav-h)+1.5rem)] pb-10 lg:h-[100dvh] flex flex-col">
           <div className="flex items-end justify-between gap-6 flex-wrap">
             <div className="max-w-2xl">
-              <p className="fig"><b>06</b> · The system</p>
+              <p className="fig"><b>The system</b></p>
               <h2 id="tr-h2" className="display display-md text-paper mt-3">Old way out. New way in.</h2>
             </div>
             <div className="tr-final max-w-md text-right hidden lg:block">

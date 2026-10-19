@@ -65,6 +65,7 @@ export function TaskCollapse() {
         gsap.set(q(".tile:not(.judge)"), { opacity: 0 });
         tiles.filter((t) => t.judgement).forEach((t) => gsap.set(q(`.tile-${t.id}`), { left: `${t.gx / 10}%`, top: `${t.gy / 6}%`, opacity: 1, borderColor: "rgba(224,164,88,0.5)", color: "#e0a458" }));
         gsap.set(q(".flow"), { opacity: 1 });
+        gsap.set(q(".flow-big"), { opacity: 1, y: 0 });
         gsap.set(q(".flow-count"), { textContent: `${PER_FLOW} tasks → 1 flow` });
         gsap.set(q(".people"), { opacity: 1 });
         gsap.set(q(".clock"), { textContent: "16:00" });
@@ -76,11 +77,12 @@ export function TaskCollapse() {
         const clock = q(".clock")[0] as HTMLElement;
         gsap.set(q(".tile"), { opacity: 0, scale: 0.6 });
         gsap.set(q(".flow, .people"), { opacity: 0 });
+        gsap.set(q(".flow-big"), { opacity: 0, y: 14 });
         gsap.set(q(".tc-final > *"), { opacity: 0, y: 16 });
 
         const tl = gsap.timeline({
           defaults: { ease: "power2.inOut" },
-          scrollTrigger: { trigger: pin.current, start: "top top", end: "+=360%", scrub: 0.6, pin: true, anticipatePin: 1, refreshPriority: 1 },
+          scrollTrigger: { trigger: pin.current, start: "top top", end: "+=230%", scrub: 0.6, pin: true, anticipatePin: 1, refreshPriority: 1 },
         });
 
         // accumulate, clock runs
@@ -103,6 +105,7 @@ export function TaskCollapse() {
         });
         tl.set(q(".flow-count"), { textContent: `${PER_FLOW} tasks → 1 flow` }, accDur + 2.6);
         tl.to(q(".flow-count"), { color: "#3dbe8b", duration: 0.3 }, accDur + 2.6);
+        tl.to(q(".flow-big"), { opacity: 1, y: 0, duration: 0.5, stagger: 0.06, ease: "power3.out" }, accDur + 2.5);
         // judgement stays, warms up
         tl.to(q(".tile.judge"), { borderColor: "rgba(224,164,88,0.5)", color: "#e0a458", duration: 0.5 }, accDur + 2.7);
         tl.to(q(".tc-final > *"), { opacity: 1, y: 0, duration: 0.6, stagger: 0.1 }, accDur + 3.0);
@@ -121,7 +124,7 @@ export function TaskCollapse() {
         <div className="wrap pt-[calc(var(--nav-h)+1.5rem)] pb-10 lg:h-[100dvh] grid lg:grid-rows-[auto_1fr_auto] gap-6">
           <div className="flex items-end justify-between gap-6 flex-wrap">
             <div className="max-w-xl">
-              <p className="fig"><b>03</b> · The cost</p>
+              <p className="fig"><b>The cost</b></p>
               <h2 id="tc-h2" className="display display-md text-paper mt-3">One day of work that is not judgement.</h2>
             </div>
             <div className="flex items-baseline gap-4">
@@ -151,13 +154,18 @@ export function TaskCollapse() {
 
           <div className="relative w-full min-h-[46dvh] hidden lg:block" aria-hidden>
             <div className="stage absolute inset-0 grid-bg">
-              <p className="tc-intro absolute left-0 top-0 mono text-stone">Most of the work that eats an owner-led business is not judgement. It is repetition with a deadline attached.</p>
+              <p className="tc-intro absolute left-0 top-0 max-w-2xl text-lg leading-snug text-silver">Most of the work that eats an owner-led business is not judgement. It is repetition with a deadline attached.</p>
               {FLOWS.map((f, fi) => (
                 <div key={f.name} className="flow glass absolute" style={{ left: `${(100 + fi * 180 - 20) / 10}%`, top: `${80 / 6}%`, width: `${156 / 10}%`, height: `${420 / 6}%` }}>
                   <div className="absolute left-3 top-2 right-3">
                     <p className="mono text-signal-2">Flow 0{fi + 1}</p>
                     <p className="text-sm text-paper font-medium">{f.name}</p>
                     <p className="flow-count mono text-stone mt-1">{PER_FLOW} tasks</p>
+                  </div>
+                  {/* The payoff once the tasks fold in, so the card does not end empty. */}
+                  <div className="flow-big absolute inset-x-3 bottom-4 text-center">
+                    <p className="display display-md text-advance tabular">{PER_FLOW} → 1</p>
+                    <p className="text-xs text-stone mt-1">tasks become one flow</p>
                   </div>
                 </div>
               ))}

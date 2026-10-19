@@ -44,7 +44,7 @@ export function Process() {
     <section ref={root} className="section border-t hairline" aria-labelledby="proc-h2" id="how-we-work">
       <div className="wrap">
         <Reveal className="max-w-3xl">
-          <p className="fig" data-reveal><b>10</b> · How we work and charge</p>
+          <p className="fig" data-reveal><b>How we work and charge</b></p>
           <h2 id="proc-h2" className="display display-lg text-paper mt-4" data-reveal>Nothing is built before the number is on the page.</h2>
           <p className="lede mt-6" data-reveal>Five steps. The bar is agreed in writing before anything is built, the clock starts at deployment, and if the system misses the bar we keep working at no additional cost until it clears.</p>
         </Reveal>

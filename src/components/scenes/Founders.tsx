@@ -15,7 +15,7 @@ export function Founders() {
       <div className="wrap">
         <Reveal className="grid gap-10 lg:grid-cols-[1fr_1fr] items-end">
           <div>
-            <p className="fig" data-reveal><b>11</b> · Founders</p>
+            <p className="fig" data-reveal><b>Founders</b></p>
             <h2 id="fnd-h2" className="display display-lg text-paper mt-4" data-reveal>You work with the builders.</h2>
           </div>
           <div className="body-2 space-y-4" data-reveal>

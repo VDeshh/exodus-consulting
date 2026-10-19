@@ -163,8 +163,9 @@ body {
   /* ---------- Status chips ---------- */
   .chip {
     display: inline-flex; align-items: center; gap: 0.45rem;
-    font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
-    padding: 0.35rem 0.75rem; border-radius: 999px; border: 1px solid rgba(243, 241, 236, 0.12);
+    /* Tags read as words, not a terminal readout: sans, sentence case, no tracking. */
+    font-family: var(--font-sans); font-size: 0.8rem; font-weight: 500; letter-spacing: 0; line-height: 1.2;
+    padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid rgba(243, 241, 236, 0.12);
     color: var(--color-silver); white-space: normal; text-align: left;
   }
   .chip-live { color: var(--color-advance); border-color: rgba(61, 190, 139, 0.4); }

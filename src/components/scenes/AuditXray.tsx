@@ -60,7 +60,7 @@ export function AuditXray() {
 
         const tl = gsap.timeline({
           defaults: { ease: "power2.inOut" },
-          scrollTrigger: { trigger: pin.current, start: "top top", end: "+=320%", scrub: 0.6, pin: true, anticipatePin: 1, refreshPriority: 1 },
+          scrollTrigger: { trigger: pin.current, start: "top top", end: "+=210%", scrub: 0.6, pin: true, anticipatePin: 1, refreshPriority: 1 },
         });
         // inputs and outputs flow
         tl.to(flows, { strokeDashoffset: -140, duration: 2.0, ease: "none" }, 0);
@@ -89,7 +89,7 @@ export function AuditXray() {
       <div ref={pin} className="relative lg:min-h-[100dvh] overflow-hidden">
         <div className="wrap pt-[calc(var(--nav-h)+1.5rem)] pb-10 lg:h-[100dvh] grid lg:grid-cols-[0.8fr_1.2fr] gap-8 items-center">
           <div className="relative z-10">
-            <p className="fig"><b>04</b> · Exodus</p>
+            <p className="fig"><b>Exodus</b></p>
             <h2 id="ax-h2" className="display display-lg text-paper mt-4">See how your business actually runs.</h2>
             <p className="lede mt-6">
               The first call is a free operations audit. You walk us through the workflow that hurts most, we put your own hours and hourly rate against it while you watch, and you leave with a map of where the time and the money leak.
