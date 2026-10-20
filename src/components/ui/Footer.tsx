@@ -269,7 +269,7 @@ export function Footer() {
   return (
     <footer
       ref={rootRef}
-      className="bwf mt-24"
+      className="bwf"
       style={vars}
       data-in={seen || reduced ? "true" : "false"}
       onPointerMove={onPointer}

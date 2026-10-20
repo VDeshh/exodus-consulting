@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { nav, site } from "@/lib/site";
 import { Wordmark } from "./Logo";
 
@@ -10,6 +10,7 @@ export function Nav() {
   const [condensed, setCondensed] = useState(false);
   const [open, setOpen] = useState(false);
   const path = usePathname();
+  const sheet = useRef<HTMLElement>(null);
 
   useEffect(() => {
     const onScroll = () => setCondensed(window.scrollY > 40);
@@ -20,12 +21,22 @@ export function Nav() {
   useEffect(() => setOpen(false), [path]);
   useEffect(() => {
     if (!open) return;
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
+    // Keep keyboard focus inside the sheet while it is open.
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") return setOpen(false);
+      if (e.key !== "Tab" || !sheet.current) return;
+      const f = [...sheet.current.querySelectorAll<HTMLElement>("a[href],button")];
+      if (!f.length) return;
+      const first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    };
+    const t = window.setTimeout(() => sheet.current?.querySelector<HTMLElement>("a[href]")?.focus({ preventScroll: true }), 320);
     document.addEventListener("keydown", onKey);
     // Lock the page behind the sheet.
     const prev = document.documentElement.style.overflow;
     document.documentElement.style.overflow = "hidden";
-    return () => { document.removeEventListener("keydown", onKey); document.documentElement.style.overflow = prev; };
+    return () => { window.clearTimeout(t); document.removeEventListener("keydown", onKey); document.documentElement.style.overflow = prev; };
   }, [open]);
 
   const isActive = (href: string) =>
@@ -56,10 +67,14 @@ export function Nav() {
                   key={n.href}
                   href={n.href}
                   aria-current={active ? "page" : undefined}
-                  className={`relative px-2.5 py-2 text-[0.85rem] rounded-md whitespace-nowrap transition-colors ${active ? "text-paper" : "text-silver hover:text-paper"}`}
+                  className={`nav-link group relative px-2.5 py-2 text-[0.85rem] rounded-md whitespace-nowrap transition-colors ${active ? "text-paper" : "text-silver hover:text-paper"}`}
                 >
-                  {n.label}
-                  {active && <span className="absolute left-3 right-3 -bottom-px h-px bg-signal-2" />}
+                  {/* Text roll: the label lifts out and its twin rolls in from below. */}
+                  <span className="roll">
+                    <span className="roll-a">{n.label}</span>
+                    <span className="roll-b" aria-hidden>{n.label}</span>
+                  </span>
+                  <span className={`nav-line absolute left-3 right-3 -bottom-px h-px bg-signal-2 ${active ? "is-active" : ""}`} aria-hidden />
                 </Link>
               );
             })}
@@ -92,43 +107,61 @@ export function Nav() {
         </div>
       </div>
 
-      {/* Full-screen sheet on phones and tablets */}
+      {/* Full-screen sheet on phones and tablets. It opens as a circle growing
+          out of the menu button (clip-path, compositor-only), and each label
+          rises out of its own mask. Adapted from the 21st.dev immersive
+          full-screen nav, without its image column or character splitting. */}
       <div
         id="mobile-nav"
-        className={`lg:hidden fixed inset-0 z-[1] pointer-events-auto transition-opacity duration-300 ${open ? "opacity-100" : "opacity-0 pointer-events-none"}`}
+        className={`nav-sheet lg:hidden fixed inset-0 z-[1] ${open ? "is-open pointer-events-auto" : "pointer-events-none"}`}
         aria-hidden={!open}
       >
-        <button type="button" aria-label="Close menu" className="absolute inset-0 bg-bg-0" onClick={() => setOpen(false)} />
+        <button type="button" aria-label="Close menu" tabIndex={open ? 0 : -1} className="absolute inset-0 nav-sheet-bg" onClick={() => setOpen(false)} />
         <nav
+          ref={sheet}
           aria-label="Mobile"
-          className={`absolute inset-x-0 top-0 bottom-0 flex flex-col pt-[calc(var(--nav-h)+1.25rem)] pb-[max(1.25rem,env(safe-area-inset-bottom))] px-4 transition-transform duration-300 ease-[var(--ease-out-expo)] ${open ? "translate-y-0" : "-translate-y-3"}`}
+          className="absolute inset-x-0 top-0 bottom-0 flex flex-col pt-[calc(var(--nav-h)+1.5rem)] pb-[max(1.25rem,env(safe-area-inset-bottom))] px-4"
         >
-          <ol className="flex-1 flex flex-col justify-center gap-1.5 wrap !px-0">
+          <ol className="flex-1 flex flex-col justify-center wrap !px-0">
             {[{ href: "/", label: "Home" }, ...nav].map((n, i) => {
               const active = n.href === "/" ? path === "/" : isActive(n.href);
               return (
-                <li key={n.href} style={{ transitionDelay: `${open ? 40 + i * 35 : 0}ms` }} className={`transition-all duration-300 ${open ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"}`}>
+                <li key={n.href} className="border-b hairline">
                   <Link
                     href={n.href}
+                    tabIndex={open ? 0 : -1}
                     aria-current={active ? "page" : undefined}
-                    className={`flex items-center justify-between rounded-2xl px-4 min-h-[56px] display text-[1.7rem] tracking-tight ${active ? "bg-paper text-bg-0" : "text-paper active:bg-white/10"}`}
+                    className="group flex items-center justify-between gap-4 min-h-[64px] py-2"
                   >
-                    <span>{n.label}</span>
-                    <span className={`mono ${active ? "text-bg-0/60" : "text-stone"}`}>{String(i).padStart(2, "0")}</span>
+                    <span className="overflow-hidden block py-1">
+                      <span
+                        className={`nav-rise display block text-[2.4rem] leading-none ${active ? "text-paper" : "text-silver"}`}
+                        style={{ transitionDelay: open ? `${180 + i * 55}ms` : "0ms" }}
+                      >
+                        {n.label}
+                      </span>
+                    </span>
+                    <span
+                      className={`nav-rise-fade text-xl ${active ? "text-signal-2" : "text-stone"}`}
+                      style={{ transitionDelay: open ? `${260 + i * 55}ms` : "0ms" }}
+                      aria-hidden
+                    >
+                      {active ? "●" : "→"}
+                    </span>
                   </Link>
                 </li>
               );
             })}
           </ol>
-          <div className="wrap !px-0 grid gap-2">
-            <a href={site.calendly} target="_blank" rel="noopener noreferrer" className="btn btn-primary w-full !min-h-[54px]">
+          <div className="nav-rise-fade wrap !px-0 grid gap-2" style={{ transitionDelay: open ? "520ms" : "0ms" }}>
+            <a href={site.calendly} target="_blank" rel="noopener noreferrer" tabIndex={open ? 0 : -1} className="btn btn-primary w-full !min-h-[54px]">
               {site.ctaLong}
             </a>
             <div className="grid grid-cols-2 gap-2">
-              <a href={`mailto:${site.email}`} className="btn btn-ghost w-full">Email us</a>
-              <Link href="/contact/" className="btn btn-ghost w-full">Contact</Link>
+              <a href={`mailto:${site.email}`} tabIndex={open ? 0 : -1} className="btn btn-ghost w-full">Email us</a>
+              <Link href="/contact/" tabIndex={open ? 0 : -1} className="btn btn-ghost w-full">Contact</Link>
             </div>
-            <p className="fig text-center mt-1">Two founders · direct access · you own the code</p>
+            <p className="note text-center mt-2">Two founders, direct access, and you own the code.</p>
           </div>
         </nav>
       </div>
