@@ -233,7 +233,6 @@ export const founders = [
   {
     name: "Shiv Lohia",
     role: "Co-Founder",
-    half: "The front half",
     bio: "Shiv studied how people behave and how companies make money, then spent his career on the place those two meet. BA Psychology and a Master of Management from UBC. At Apply Digital he designed user experiences for large clients, including the Harvard Business School site. He co-founded Fennec. On an Exodus engagement he sits with the owner, watches the process as it actually happens, and writes the numbers down before a line of code exists.",
     facts: ["BA Psychology, UBC", "Master of Management, UBC", "Co-founder, Fennec", "Apply Digital: Harvard Business School site"],
     email: "shiv@exdsconsulting.com",
@@ -242,9 +241,8 @@ export const founders = [
   {
     name: "Vishal Desh",
     role: "Co-Founder",
-    half: "The build",
     bio: "Vishal is the technical architect behind Exodus’ AI consulting engagements. With a background in Computer Science, a Master of Management from UBC, and hands-on experience across several AI tools and implementations, he bridges the gap between business strategy and technical execution. From leading client relationships and ongoing consultations to identifying opportunities, shaping AI solutions, and driving sales, he oversees the full engagement lifecycle. At Fennec, which he co-founded with Shiv, he architected the core platform and Ferry AI agent network. At Exodus, he brings that same builder’s mindset to every engagement—translating business challenges into practical AI systems, leading technical implementation, and ensuring solutions deliver measurable value long after deployment.",
-    facts: ["Computer Science, UBC", "Master of Management, UBC", "Python, AWS, Azure", "Architect, Fennec core and Ferry AI"],
+    facts: ["Computer Science, UBC", "Master of Management, UBC", "Architect, Fennec core and Ferry AI", "Full engagement lifecycle"],
     email: "vish@exdsconsulting.com",
     photo: "/founders/vishal-desh.webp",
   },

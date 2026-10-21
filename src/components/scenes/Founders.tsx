@@ -32,7 +32,7 @@ export function Founders() {
                 <div className="absolute inset-0 bg-gradient-to-t from-bg-0/60 via-transparent to-transparent" aria-hidden />
               </div>
               <div>
-                <p className="fig"><b>{f.role}</b> · {f.half}</p>
+                <p className="fig"><b>{f.role}</b></p>
                 <h3 className="display display-md text-paper mt-1">{f.name}</h3>
                 <Expandable className="text-sm text-silver mt-4 leading-6" lines={4}>{f.bio}</Expandable>
                 <ul className="mt-4 flex flex-wrap gap-2">
