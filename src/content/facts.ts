@@ -243,7 +243,7 @@ export const founders = [
     name: "Vishal Desh",
     role: "Co-Founder",
     half: "The build",
-    bio: "Vishal is the engineer. Computer Science and a Master of Management from UBC, and a working stack of Python, AWS and Azure. He co-founded Fennec with Shiv and architected its core and its Ferry AI agent network. On an Exodus engagement he owns the build: the data layer, the models, the hosting constraints, and the part where the system has to keep working on a Saturday night.",
+    bio: "Vishal is the technical architect behind Exodus’ AI consulting engagements. With a background in Computer Science, a Master of Management from UBC, and hands-on experience across several AI tools and implementations, he bridges the gap between business strategy and technical execution. From leading client relationships and ongoing consultations to identifying opportunities, shaping AI solutions, and driving sales, he oversees the full engagement lifecycle. At Fennec, which he co-founded with Shiv, he architected the core platform and Ferry AI agent network. At Exodus, he brings that same builder’s mindset to every engagement—translating business challenges into practical AI systems, leading technical implementation, and ensuring solutions deliver measurable value long after deployment.",
     facts: ["Computer Science, UBC", "Master of Management, UBC", "Python, AWS, Azure", "Architect, Fennec core and Ferry AI"],
     email: "vish@exdsconsulting.com",
     photo: "/founders/vishal-desh.webp",
