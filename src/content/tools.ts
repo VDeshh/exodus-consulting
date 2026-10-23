@@ -263,7 +263,7 @@ export const tools: Tool[] = [
     statusNote: "Live on home.uniserve.com for Uniserve's home customers. A voice agent for residential support is in build.",
     demoNote: "Short demo clip. Full demo coming soon.",
     screenshots: [{ src: "/tools/08-ai-support-chatbot.webp", caption: "The chatbot answering from Uniserve's own help documents, with the source attached." }],
-    videos: [{ src: "/tools/08-support-chatbot.mp4", poster: "/tools/08-support-chatbot-poster.webp", aspect: "4/5", label: "AI Support Chatbot, short demo", seconds: 16 }],
+    videos: [{ src: "/tools/08-support-chatbot.mp4", poster: "/tools/08-support-chatbot-poster-v2.webp", aspect: "4/5", label: "AI Support Chatbot, short demo", seconds: 16 }],
   },
   {
     n: "09",
@@ -335,7 +335,7 @@ export const tools: Tool[] = [
     statusNote: "Live. Shipped for Palapa Tours.",
     demoNote: "Short demo clip. Full demo coming soon.",
     screenshots: [{ src: "/tools/11-tip-out-software.webp", caption: "The gratuity pool totalled and split by role, with every payout recorded." }],
-    videos: [{ src: "/tools/11-tip-out.mp4", poster: "/tools/11-tip-out-poster.webp", aspect: "4/5", label: "Tip-Out Software, short demo", seconds: 16 }],
+    videos: [{ src: "/tools/11-tip-out.mp4", poster: "/tools/11-tip-out-poster-v2.webp", aspect: "4/5", label: "Tip-Out Software, short demo", seconds: 16 }],
   },
   {
     n: "12",
@@ -360,7 +360,7 @@ export const tools: Tool[] = [
     statusNote: "In build for B-Side Group, across three venues.",
     demoNote: "Short demo clip. Full demo coming soon.",
     screenshots: [{ src: "/tools/12-multi-venue-inventory.webp", caption: "One catalogue across every venue, with variance per site." }],
-    videos: [{ src: "/tools/12-multi-venue-inventory.mp4", poster: "/tools/12-multi-venue-inventory-poster.webp", aspect: "4/5", label: "Multi-Venue Inventory, short demo", seconds: 16 }],
+    videos: [{ src: "/tools/12-multi-venue-inventory.mp4", poster: "/tools/12-multi-venue-inventory-poster-v2.webp", aspect: "4/5", label: "Multi-Venue Inventory, short demo", seconds: 16 }],
   },
   {
     n: "13",
@@ -386,7 +386,7 @@ export const tools: Tool[] = [
     statusNote: "Live at Harbour Event Centre, TradeX, The Pit UBC, The Show Ottawa and Twins Nightclub.",
     demoNote: "Short demo clip. Full demo coming soon.",
     screenshots: [{ src: "/tools/13-fennec.webp", caption: "Fennec running the floor, the door and the bar off one record of the night." }],
-    videos: [{ src: "/tools/13-fennec.mp4", poster: "/tools/13-fennec-poster.webp", aspect: "4/5", label: "Fennec, short demo", seconds: 16 }],
+    videos: [{ src: "/tools/13-fennec.mp4", poster: "/tools/13-fennec-poster-v2.webp", aspect: "4/5", label: "Fennec, short demo", seconds: 16 }],
     // Fennec already has its own case study; the tool index links there.
     href: "/work/fennec/",
   },
