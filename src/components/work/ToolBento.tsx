@@ -12,7 +12,7 @@ import { useRef } from "react";
  * reduced-motion users get the flat card, handled in globals.css.
  */
 
-function Cell({ children, className = "", label }: { children: ReactNode; className?: string; label?: string }) {
+export function Cell({ children, className = "", label }: { children: ReactNode; className?: string; label?: string }) {
   const ref = useRef<HTMLDivElement>(null);
 
   const track = (e: React.PointerEvent<HTMLDivElement>) => {

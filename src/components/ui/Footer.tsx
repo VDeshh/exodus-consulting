@@ -48,7 +48,7 @@ const measureBaseline = (family: string, weight: number, text: string) => {
 type Col = { title: string; links: [string, string][] };
 const COLUMNS: Col[] = [
   { title: "Work", links: [["/work/fennec/", "Fennec"], ["/work/uniserve/", "Uniserve"], ["/work/palapa-tours/", "Palapa Tours"], ["/work/current/", "Current engagements"], ["/work/", "All work"]] },
-  { title: "Firm", links: [["/what-we-do/", "What we do"], ["/how-we-work/", "How we work and charge"], ["/about/", "About the founders"], ["/industries/", "Industries"], ["/contact/", "Contact"]] },
+  { title: "Firm", links: [["/what-we-do/", "What we do"], ["/how-we-work/", "How we work and charge"], ["/about/", "About the founders"], ["/industries/", "Industries"], ["/careers/", "Careers"], ["/contact/", "Contact"]] },
   { title: "Start", links: [[site.calendly, "Book a free audit"], [`mailto:${site.email}`, site.email], [site.instagram, "Instagram"]] },
 ];
 

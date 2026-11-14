@@ -16,7 +16,8 @@ export type EventName =
   | "email_clicked"
   | "work_category_selected"
   | "workflow_interaction"
-  | "roi_calculated";
+  | "roi_calculated"
+  | "career_application_sent";
 
 declare global {
   interface Window { dataLayer?: Record<string, unknown>[] }
