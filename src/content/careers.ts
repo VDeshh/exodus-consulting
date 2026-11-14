@@ -13,6 +13,8 @@ export interface Role {
   hours: "Full-time" | "Part-time";
   /** Monthly retainer in CAD, paid only in a month with at least one qualifying client. */
   retainer: number;
+  /** What sits on top of the retainer: short label, chip text, and the line in the pay terms. */
+  reward: { label: string; value: string; detail: string; chip: string; short: string };
   posted: string;
   glance: { k: string; v: string; d: string }[];
   summary: string;
@@ -29,10 +31,16 @@ export interface Role {
  * the full-time role is $5,000 CAD a month and the part-time role $500 (added
  * by Vishal, 14 Nov 2026). Same conditions for both: one qualifying client in
  * the month to earn the retainer, a quota of 4 a month assessed as 12 over a
- * rolling 3 months, variable bonuses, contractor invoicing.
+ * rolling 3 months, contractor invoicing. On top of the retainer, the
+ * full-time role has variable bonuses and the part-time role a fixed, uncapped
+ * 25% commission on every deal (Vishal, 14 Nov 2026: "it's not variable").
  */
 function salesExecutive(hours: Role["hours"], retainer: number): Role {
   const amount = `$${retainer.toLocaleString("en-CA")}`;
+  const reward: Role["reward"] =
+    hours === "Full-time"
+      ? { label: "Bonuses", value: "Variable", detail: "Based on results, closed revenue, performance above target and deal quality", chip: "Variable bonuses", short: "plus variable bonuses" }
+      : { label: "Commission", value: "25%", detail: "Of every deal you close. Uncapped", chip: "25% commission per deal, uncapped", short: "plus an uncapped 25% commission on every deal" };
   return {
     slug: hours === "Full-time" ? "sales-executive" : "sales-executive-part-time",
     title: hours === "Full-time" ? "Sales Executive" : "Sales Executive, Part-time",
@@ -41,11 +49,12 @@ function salesExecutive(hours: Role["hours"], retainer: number): Role {
     type: "Contract",
     hours,
     retainer,
+    reward,
     posted: hours === "Full-time" ? "2026-11-13" : "2026-11-14",
     glance: [
       { k: "Retainer", v: amount, d: "CAD monthly, conditional on one qualifying client that month" },
       { k: "Quota", v: "4", d: "Qualifying new clients a month, assessed as 12 over a rolling 3 months" },
-      { k: "Bonuses", v: "Variable", d: "Based on results, closed revenue, performance above target and deal quality" },
+      { k: reward.label, v: reward.value, d: reward.detail },
     ],
     summary:
       "Own the commercial journey from prospecting to signed contract. Build your own pipeline, qualify business needs, lead discovery, coordinate solution demonstrations and proposals, and close new business with direct support from the founders.",
@@ -69,7 +78,9 @@ function salesExecutive(hours: Role["hours"], retainer: number): Role {
     pay: [
       `CAD ${amount} monthly retainer, conditional on closing at least 1 qualifying new client in the corresponding month.`,
       "Target: 4 new clients per month on average, measured as 12 across each rolling 3-month period.",
-      "Additional performance bonuses vary based on results, closed revenue, achievement above target and deal quality.",
+      hours === "Full-time"
+        ? "Additional performance bonuses vary based on results, closed revenue, achievement above target and deal quality."
+        : "Uncapped commission of 25% on every deal you close. It is fixed, not variable, and there is no ceiling on what you earn.",
       "Contractor invoicing arrangement intended; no payroll payment where lawful and consistent with actual working conditions.",
     ],
     support: [

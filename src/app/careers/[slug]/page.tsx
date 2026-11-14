@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!role) return {};
   return {
     title: `Careers: ${role.title}`,
-    description: `${role.title}, ${role.line}. ${role.hours} ${role.type.toLowerCase()}, ${role.location}. ${money(role)} CAD monthly retainer, conditional on one qualifying client that month, plus variable bonuses. Apply on this page.`,
+    description: `${role.title}, ${role.line}. ${role.hours} ${role.type.toLowerCase()}, ${role.location}. ${money(role)} CAD monthly retainer, conditional on one qualifying client that month, ${role.reward.short}. Apply on this page.`,
     alternates: { canonical: `/careers/${role.slug}/` },
   };
 }
@@ -74,7 +74,7 @@ export default async function CareerRole({ params }: { params: Promise<{ slug: s
             <li className="chip">{role.hours}</li>
             <li className="chip">{role.type}</li>
             <li className="chip">{money(role)} CAD monthly retainer, conditional</li>
-            <li className="chip">Variable bonuses</li>
+            <li className="chip">{role.reward.chip}</li>
           </ul>
           <div className="mt-9 flex flex-wrap gap-3" data-reveal>
             <a href="#apply" className="btn btn-primary">Apply for this role</a>

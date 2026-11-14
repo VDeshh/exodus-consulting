@@ -7,7 +7,7 @@ import { roles } from "@/content/careers";
 export const metadata: Metadata = {
   title: "Careers: Sales Executive, full-time and part-time",
   description:
-    "Two open roles: Sales Executive, full-time ($5,000 CAD monthly retainer) or part-time ($500 CAD monthly retainer), each conditional on one qualifying client that month, with a quota of 4 a month and variable bonuses.",
+    "Two open roles: Sales Executive, full-time ($5,000 CAD monthly retainer plus variable bonuses) or part-time ($500 CAD monthly retainer plus an uncapped 25% commission on every deal). Each retainer is conditional on one qualifying client that month, with a quota of 4 a month.",
   alternates: { canonical: "/careers/" },
 };
 
@@ -40,13 +40,14 @@ export default function Careers() {
                 <div><dt>Retainer</dt><dd><span className="display display-sm text-paper tabular">{money(r.retainer)}</span><span className="note"> CAD / month</span></dd></div>
                 <div><dt>Quota</dt><dd><span className="display display-sm text-paper tabular">4</span><span className="note"> clients / month</span></dd></div>
                 <div><dt>Base needs</dt><dd><span className="display display-sm text-paper tabular">1</span><span className="note"> qualifying client</span></dd></div>
+                <div><dt>{r.reward.label}</dt><dd><span className="display display-sm text-paper tabular">{r.reward.value}</span><span className="note"> {r.hours === "Full-time" ? "on results" : "per deal, uncapped"}</span></dd></div>
               </dl>
               <p className="role-go mt-7">View role and apply <span aria-hidden>→</span></p>
             </Link>
           ))}
         </Reveal>
         <Reveal className="wrap relative">
-          <p className="note mt-5" data-reveal>Both roles: the retainer is paid in a month with at least one qualifying client closed. The quota is assessed as 12 clients over a rolling 3 months. Bonuses vary with results. Contractor arrangement, {roles[0].location}.</p>
+          <p className="note mt-5" data-reveal>Both roles: the retainer is paid in a month with at least one qualifying client closed, and the quota is assessed as 12 clients over a rolling 3 months. Full-time adds variable bonuses; part-time adds a fixed 25% commission on every deal, uncapped. Contractor arrangement, {roles[0].location}.</p>
         </Reveal>
       </section>
 
