@@ -10,6 +10,9 @@ export interface Role {
   line: string;
   location: string;
   type: string;
+  hours: "Full-time" | "Part-time";
+  /** Monthly retainer in CAD, paid only in a month with at least one qualifying client. */
+  retainer: number;
   posted: string;
   glance: { k: string; v: string; d: string }[];
   summary: string;
@@ -21,16 +24,26 @@ export interface Role {
   interview: [string, string][];
 }
 
-export const roles: Role[] = [
-  {
-    slug: "sales-executive",
-    title: "Sales Executive",
+/**
+ * Both Sales Executive roles share every term except hours and the retainer:
+ * the full-time role is $5,000 CAD a month and the part-time role $500 (added
+ * by Vishal, 14 Nov 2026). Same conditions for both: one qualifying client in
+ * the month to earn the retainer, a quota of 4 a month assessed as 12 over a
+ * rolling 3 months, variable bonuses, contractor invoicing.
+ */
+function salesExecutive(hours: Role["hours"], retainer: number): Role {
+  const amount = `$${retainer.toLocaleString("en-CA")}`;
+  return {
+    slug: hours === "Full-time" ? "sales-executive" : "sales-executive-part-time",
+    title: hours === "Full-time" ? "Sales Executive" : "Sales Executive, Part-time",
     line: "Full-cycle B2B sales / AI & Digital Transformation",
     location: "Canada",
     type: "Contract",
-    posted: "2026-11-13",
+    hours,
+    retainer,
+    posted: hours === "Full-time" ? "2026-11-13" : "2026-11-14",
     glance: [
-      { k: "Retainer", v: "$5,000", d: "CAD monthly, conditional on one qualifying client that month" },
+      { k: "Retainer", v: amount, d: "CAD monthly, conditional on one qualifying client that month" },
       { k: "Quota", v: "4", d: "Qualifying new clients a month, assessed as 12 over a rolling 3 months" },
       { k: "Bonuses", v: "Variable", d: "Based on results, closed revenue, performance above target and deal quality" },
     ],
@@ -45,7 +58,7 @@ export const roles: Role[] = [
     ],
     success: [
       "Monthly target: 4 qualifying new clients; assessed as 12 clients over a rolling 3-month period.",
-      "Minimum requirement for the $5,000 monthly retainer: 1 qualifying client closed in that month.",
+      `Minimum requirement for the ${amount} monthly retainer: 1 qualifying client closed in that month.`,
       "Strong pipeline health, documented activity, client fit and quality of signed deals.",
     ],
     thrive: [
@@ -54,7 +67,7 @@ export const roles: Role[] = [
       "Commercially curious about AI, automation, SaaS and custom technology services.",
     ],
     pay: [
-      "CAD $5,000 monthly retainer, conditional on closing at least 1 qualifying new client in the corresponding month.",
+      `CAD ${amount} monthly retainer, conditional on closing at least 1 qualifying new client in the corresponding month.`,
       "Target: 4 new clients per month on average, measured as 12 across each rolling 3-month period.",
       "Additional performance bonuses vary based on results, closed revenue, achievement above target and deal quality.",
       "Contractor invoicing arrangement intended; no payroll payment where lawful and consistent with actual working conditions.",
@@ -69,7 +82,9 @@ export const roles: Role[] = [
       ["Interview", "Your prospecting approach, how you own a pipeline, past deal performance and consultative selling."],
       ["Terms", "Selected candidates discuss the written qualifying-client definition, the bonus plan, payment timing and engagement terms."],
     ],
-  },
-];
+  };
+}
+
+export const roles: Role[] = [salesExecutive("Full-time", 5000), salesExecutive("Part-time", 500)];
 
 export const roleBySlug = (slug: string) => roles.find((r) => r.slug === slug);

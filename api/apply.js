@@ -17,7 +17,7 @@
  */
 
 const MAX_FILE_BYTES = 3 * 1024 * 1024;
-const ROLES = { "sales-executive": "Sales Executive" };
+const ROLES = { "sales-executive": "Sales Executive", "sales-executive-part-time": "Sales Executive, Part-time" };
 const ALLOWED_ORIGIN = /^https:\/\/((www\.)?exdsconsulting\.com|[a-z0-9-]+\.vercel\.app)$|^http:\/\/localhost:\d+$/;
 
 const LIMITS = { name: 120, email: 200, phone: 40, location: 120, linkedin: 300, experience: 40, summary: 4000, source: 200 };
