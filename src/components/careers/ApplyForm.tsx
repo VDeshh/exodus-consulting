@@ -117,7 +117,7 @@ export function ApplyForm({ role, roleTitle }: { role: string; roleTitle: string
     setState("sending");
     try {
       const file = v.resume as File;
-      const res = await fetch("/api/apply", {
+      const res = await fetch("/api/apply/", { // trailing slash: vercel.json sets trailingSlash, so the bare path would 308
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
